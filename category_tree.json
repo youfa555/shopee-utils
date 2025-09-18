@@ -1,0 +1,7374 @@
+[
+  {
+    "category_id": 100144,
+    "full_path": "保健 > 情趣用品 > 其他"
+  },
+  {
+    "category_id": 100143,
+    "full_path": "保健 > 情趣用品 > 性功能提升用品"
+  },
+  {
+    "category_id": 100142,
+    "full_path": "保健 > 情趣用品 > 情趣玩具"
+  },
+  {
+    "category_id": 100141,
+    "full_path": "保健 > 情趣用品 > 润滑剂"
+  },
+  {
+    "category_id": 100140,
+    "full_path": "保健 > 情趣用品 > 避孕套"
+  },
+  {
+    "category_id": 100139,
+    "full_path": "保健 > 个人护理 > 其他"
+  },
+  {
+    "category_id": 100138,
+    "full_path": "保健 > 个人护理 > 防蚊驱虫剂"
+  },
+  {
+    "category_id": 100137,
+    "full_path": "保健 > 个人护理 > 按摩与治疗设备"
+  },
+  {
+    "category_id": 100453,
+    "full_path": "保健 > 个人护理 > 女性私密处护理 > 其他"
+  },
+  {
+    "category_id": 100452,
+    "full_path": "保健 > 个人护理 > 女性私密处护理 > 阴道乳膏"
+  },
+  {
+    "category_id": 100451,
+    "full_path": "保健 > 个人护理 > 女性私密处护理 > 私部护理"
+  },
+  {
+    "category_id": 100450,
+    "full_path": "保健 > 个人护理 > 女性私密处护理 > 月经杯"
+  },
+  {
+    "category_id": 100449,
+    "full_path": "保健 > 个人护理 > 女性私密处护理 > 验孕棒与排卵检测"
+  },
+  {
+    "category_id": 100448,
+    "full_path": "保健 > 个人护理 > 女性私密处护理 > 卫生棉条"
+  },
+  {
+    "category_id": 100447,
+    "full_path": "保健 > 个人护理 > 女性私密处护理 > 卫生棉与卫生护垫"
+  },
+  {
+    "category_id": 100135,
+    "full_path": "保健 > 个人护理 > 成人尿布与防失禁用品"
+  },
+  {
+    "category_id": 100446,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 其他"
+  },
+  {
+    "category_id": 100445,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 矫正配件"
+  },
+  {
+    "category_id": 100444,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 牙齿美白"
+  },
+  {
+    "category_id": 100443,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 假牙护理"
+  },
+  {
+    "category_id": 100442,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 漱口水"
+  },
+  {
+    "category_id": 100441,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 牙线"
+  },
+  {
+    "category_id": 100440,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 牙膏"
+  },
+  {
+    "category_id": 100439,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 电动牙刷与配件"
+  },
+  {
+    "category_id": 100438,
+    "full_path": "保健 > 个人护理 > 口腔护理 > 牙刷"
+  },
+  {
+    "category_id": 100133,
+    "full_path": "保健 > 个人护理 > 耳部护理"
+  },
+  {
+    "category_id": 100437,
+    "full_path": "保健 > 个人护理 > 眼部护理 > 其他"
+  },
+  {
+    "category_id": 100436,
+    "full_path": "保健 > 个人护理 > 眼部护理 > 隐形眼镜药水与眼药水"
+  },
+  {
+    "category_id": 100435,
+    "full_path": "保健 > 个人护理 > 眼部护理 > 隐形眼镜"
+  },
+  {
+    "category_id": 100131,
+    "full_path": "保健 > 个人护理 > 洗手液"
+  },
+  {
+    "category_id": 100130,
+    "full_path": "保健 > 医疗保健 > 其他"
+  },
+  {
+    "category_id": 100434,
+    "full_path": "保健 > 医疗保健 > 受伤与残疾支撑用品 > 其他"
+  },
+  {
+    "category_id": 100433,
+    "full_path": "保健 > 医疗保健 > 受伤与残疾支撑用品 > 助听器"
+  },
+  {
+    "category_id": 100432,
+    "full_path": "保健 > 医疗保健 > 受伤与残疾支撑用品 > 背带与辅助工具"
+  },
+  {
+    "category_id": 100431,
+    "full_path": "保健 > 医疗保健 > 受伤与残疾支撑用品 > 轮椅"
+  },
+  {
+    "category_id": 100430,
+    "full_path": "保健 > 医疗保健 > 受伤与残疾支撑用品 > 助行器"
+  },
+  {
+    "category_id": 100128,
+    "full_path": "保健 > 医疗保健 > 医用手套与口罩"
+  },
+  {
+    "category_id": 100127,
+    "full_path": "保健 > 医疗保健 > 实验室工具"
+  },
+  {
+    "category_id": 100126,
+    "full_path": "保健 > 医疗保健 > 止痛药"
+  },
+  {
+    "category_id": 100125,
+    "full_path": "保健 > 医疗保健 > 听诊器"
+  },
+  {
+    "category_id": 100429,
+    "full_path": "保健 > 医疗保健 > 急救用品 > 其他"
+  },
+  {
+    "category_id": 100428,
+    "full_path": "保健 > 医疗保健 > 急救用品 > 医用消毒剂"
+  },
+  {
+    "category_id": 100427,
+    "full_path": "保健 > 医疗保健 > 急救用品 > 软膏与乳膏"
+  },
+  {
+    "category_id": 100426,
+    "full_path": "保健 > 医疗保健 > 急救用品 > 急救配件"
+  },
+  {
+    "category_id": 100425,
+    "full_path": "保健 > 医疗保健 > 急救用品 > 医用胶布与绷带"
+  },
+  {
+    "category_id": 100123,
+    "full_path": "保健 > 医疗保健 > 鼻腔护理用品"
+  },
+  {
+    "category_id": 100122,
+    "full_path": "保健 > 医疗保健 > 体重机与体脂秤"
+  },
+  {
+    "category_id": 100424,
+    "full_path": "保健 > 医疗保健 > 健康仪器与测试仪 > 其他"
+  },
+  {
+    "category_id": 100423,
+    "full_path": "保健 > 医疗保健 > 健康仪器与测试仪 > 温度计"
+  },
+  {
+    "category_id": 100422,
+    "full_path": "保健 > 医疗保健 > 健康仪器与测试仪 > 血氧仪"
+  },
+  {
+    "category_id": 100421,
+    "full_path": "保健 > 医疗保健 > 健康仪器与测试仪 > 血糖仪"
+  },
+  {
+    "category_id": 100420,
+    "full_path": "保健 > 医疗保健 > 健康仪器与测试仪 > 血压计"
+  },
+  {
+    "category_id": 100120,
+    "full_path": "保健 > 医疗保健 > 传统药物"
+  },
+  {
+    "category_id": 100119,
+    "full_path": "保健 > 医疗保健 > 非处方药"
+  },
+  {
+    "category_id": 100008,
+    "full_path": "保健 > 其他"
+  },
+  {
+    "category_id": 100007,
+    "full_path": "保健 > 保健食品、营养品 > 其他"
+  },
+  {
+    "category_id": 100006,
+    "full_path": "保健 > 保健食品、营养品 > 健康保健食品"
+  },
+  {
+    "category_id": 100005,
+    "full_path": "保健 > 保健食品、营养品 > 健身保健食品"
+  },
+  {
+    "category_id": 100004,
+    "full_path": "保健 > 保健食品、营养品 > 美容保健食品"
+  },
+  {
+    "category_id": 100003,
+    "full_path": "保健 > 保健食品、营养品 > 体重管理食品"
+  },
+  {
+    "category_id": 102069,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 其他"
+  },
+  {
+    "category_id": 102068,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 首饰套装"
+  },
+  {
+    "category_id": 102067,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 吊坠与坠饰"
+  },
+  {
+    "category_id": 102066,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 胸针"
+  },
+  {
+    "category_id": 102065,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 手链与手镯"
+  },
+  {
+    "category_id": 102064,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 项链"
+  },
+  {
+    "category_id": 102063,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 脚链"
+  },
+  {
+    "category_id": 102062,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 耳环"
+  },
+  {
+    "category_id": 102061,
+    "full_path": "时尚配饰 > 轻奢珠宝 > 戒指"
+  },
+  {
+    "category_id": 100036,
+    "full_path": "时尚配饰 > 其他"
+  },
+  {
+    "category_id": 100035,
+    "full_path": "时尚配饰 > 配件套装&包装"
+  },
+  {
+    "category_id": 100167,
+    "full_path": "时尚配饰 > 穿搭配饰 > 其他"
+  },
+  {
+    "category_id": 100166,
+    "full_path": "时尚配饰 > 穿搭配饰 > 手帕"
+  },
+  {
+    "category_id": 100165,
+    "full_path": "时尚配饰 > 穿搭配饰 > 口罩"
+  },
+  {
+    "category_id": 100164,
+    "full_path": "时尚配饰 > 穿搭配饰 > 纹身贴"
+  },
+  {
+    "category_id": 100163,
+    "full_path": "时尚配饰 > 穿搭配饰 > 袖扣"
+  },
+  {
+    "category_id": 100162,
+    "full_path": "时尚配饰 > 穿搭配饰 > 吊饰，吊坠&饰品"
+  },
+  {
+    "category_id": 100161,
+    "full_path": "时尚配饰 > 穿搭配饰 > 布贴"
+  },
+  {
+    "category_id": 100160,
+    "full_path": "时尚配饰 > 穿搭配饰 > 胸针&别针"
+  },
+  {
+    "category_id": 100033,
+    "full_path": "时尚配饰 > 领带，领结&领巾"
+  },
+  {
+    "category_id": 100032,
+    "full_path": "时尚配饰 > 腰带"
+  },
+  {
+    "category_id": 100159,
+    "full_path": "时尚配饰 > 首饰&珠宝 > 其他"
+  },
+  {
+    "category_id": 100158,
+    "full_path": "时尚配饰 > 首饰&珠宝 > 玉"
+  },
+  {
+    "category_id": 100157,
+    "full_path": "时尚配饰 > 首饰&珠宝 > 钻石"
+  },
+  {
+    "category_id": 100156,
+    "full_path": "时尚配饰 > 首饰&珠宝 > 银"
+  },
+  {
+    "category_id": 100155,
+    "full_path": "时尚配饰 > 首饰&珠宝 > 白金&黄金"
+  },
+  {
+    "category_id": 100154,
+    "full_path": "时尚配饰 > 眼镜 > 其他"
+  },
+  {
+    "category_id": 100153,
+    "full_path": "时尚配饰 > 眼镜 > 眼镜盒&配件"
+  },
+  {
+    "category_id": 100152,
+    "full_path": "时尚配饰 > 眼镜 > 镜框&眼镜"
+  },
+  {
+    "category_id": 100151,
+    "full_path": "时尚配饰 > 眼镜 > 墨镜"
+  },
+  {
+    "category_id": 100029,
+    "full_path": "时尚配饰 > 项链"
+  },
+  {
+    "category_id": 100028,
+    "full_path": "时尚配饰 > 帽子"
+  },
+  {
+    "category_id": 100027,
+    "full_path": "时尚配饰 > 脚链"
+  },
+  {
+    "category_id": 100026,
+    "full_path": "时尚配饰 > 手链&手镯"
+  },
+  {
+    "category_id": 100150,
+    "full_path": "时尚配饰 > 发饰 > 其他"
+  },
+  {
+    "category_id": 100149,
+    "full_path": "时尚配饰 > 发饰 > 头饰&皇冠&花冠"
+  },
+  {
+    "category_id": 100148,
+    "full_path": "时尚配饰 > 发饰 > 假发&接发"
+  },
+  {
+    "category_id": 100147,
+    "full_path": "时尚配饰 > 发饰 > 发夹"
+  },
+  {
+    "category_id": 100146,
+    "full_path": "时尚配饰 > 发饰 > 头绳及发圈"
+  },
+  {
+    "category_id": 100145,
+    "full_path": "时尚配饰 > 发饰 > 发带及发箍"
+  },
+  {
+    "category_id": 100024,
+    "full_path": "时尚配饰 > 手套"
+  },
+  {
+    "category_id": 100023,
+    "full_path": "时尚配饰 > 围巾&披肩"
+  },
+  {
+    "category_id": 100022,
+    "full_path": "时尚配饰 > 耳环"
+  },
+  {
+    "category_id": 100021,
+    "full_path": "时尚配饰 > 戒指"
+  },
+  {
+    "category_id": 100046,
+    "full_path": "家用电器 > 其他"
+  },
+  {
+    "category_id": 100045,
+    "full_path": "家用电器 > 遥控器"
+  },
+  {
+    "category_id": 100225,
+    "full_path": "家用电器 > 电子烟 > 其他"
+  },
+  {
+    "category_id": 100224,
+    "full_path": "家用电器 > 电子烟 > 套件"
+  },
+  {
+    "category_id": 100223,
+    "full_path": "家用电器 > 电子烟 > 储油仓 & 雾化器"
+  },
+  {
+    "category_id": 100222,
+    "full_path": "家用电器 > 电子烟 > 烟油"
+  },
+  {
+    "category_id": 100221,
+    "full_path": "家用电器 > 电子烟 > 烟弹"
+  },
+  {
+    "category_id": 100043,
+    "full_path": "家用电器 > 电池"
+  },
+  {
+    "category_id": 100220,
+    "full_path": "家用电器 > 电路 & 零件 > 其他"
+  },
+  {
+    "category_id": 100219,
+    "full_path": "家用电器 > 电路 & 零件 > 避雷器"
+  },
+  {
+    "category_id": 100218,
+    "full_path": "家用电器 > 电路 & 零件 > 警报器"
+  },
+  {
+    "category_id": 100217,
+    "full_path": "家用电器 > 电路 & 零件 > 开关面板"
+  },
+  {
+    "category_id": 100216,
+    "full_path": "家用电器 > 电路 & 零件 > 门铃"
+  },
+  {
+    "category_id": 100215,
+    "full_path": "家用电器 > 电路 & 零件 > 省电器"
+  },
+  {
+    "category_id": 100214,
+    "full_path": "家用电器 > 电路 & 零件 > 电路安全装置"
+  },
+  {
+    "category_id": 100213,
+    "full_path": "家用电器 > 电路 & 零件 > 电源插座 & 延长线"
+  },
+  {
+    "category_id": 100212,
+    "full_path": "家用电器 > 厨房家电 > 其他"
+  },
+  {
+    "category_id": 100211,
+    "full_path": "家用电器 > 厨房家电 > 抽油烟机"
+  },
+  {
+    "category_id": 100210,
+    "full_path": "家用电器 > 厨房家电 > 冷柜"
+  },
+  {
+    "category_id": 100209,
+    "full_path": "家用电器 > 厨房家电 > 冰箱"
+  },
+  {
+    "category_id": 100474,
+    "full_path": "家用电器 > 厨房家电 > 厨房特制用具 > 其他"
+  },
+  {
+    "category_id": 100473,
+    "full_path": "家用电器 > 厨房家电 > 厨房特制用具 > 气泡水机"
+  },
+  {
+    "category_id": 100472,
+    "full_path": "家用电器 > 厨房家电 > 厨房特制用具 > 甜品机"
+  },
+  {
+    "category_id": 100471,
+    "full_path": "家用电器 > 厨房家电 > 厨房特制用具 > 章鱼烧机"
+  },
+  {
+    "category_id": 100470,
+    "full_path": "家用电器 > 厨房家电 > 厨房特制用具 > 面包机"
+  },
+  {
+    "category_id": 100469,
+    "full_path": "家用电器 > 厨房家电 > 厨房特制用具 > 煮蛋器"
+  },
+  {
+    "category_id": 100468,
+    "full_path": "家用电器 > 厨房家电 > 厨房特制用具 > 松饼机"
+  },
+  {
+    "category_id": 100207,
+    "full_path": "家用电器 > 厨房家电 > 电饭锅"
+  },
+  {
+    "category_id": 100206,
+    "full_path": "家用电器 > 厨房家电 > 慢炖锅 & 舒肥低温烹调机"
+  },
+  {
+    "category_id": 100205,
+    "full_path": "家用电器 > 厨房家电 > 压力锅"
+  },
+  {
+    "category_id": 100204,
+    "full_path": "家用电器 > 厨房家电 > 多功能锅"
+  },
+  {
+    "category_id": 100203,
+    "full_path": "家用电器 > 厨房家电 > 料理机 & 绞肉机"
+  },
+  {
+    "category_id": 100202,
+    "full_path": "家用电器 > 厨房家电 > 烤面包机"
+  },
+  {
+    "category_id": 100201,
+    "full_path": "家用电器 > 厨房家电 > 烤箱"
+  },
+  {
+    "category_id": 100200,
+    "full_path": "家用电器 > 厨房家电 > 微波炉"
+  },
+  {
+    "category_id": 100199,
+    "full_path": "家用电器 > 厨房家电 > 油炸锅"
+  },
+  {
+    "category_id": 100198,
+    "full_path": "家用电器 > 厨房家电 > 空气炸锅"
+  },
+  {
+    "category_id": 100197,
+    "full_path": "家用电器 > 厨房家电 > 炉子、炉盘 & 减压器"
+  },
+  {
+    "category_id": 100196,
+    "full_path": "家用电器 > 厨房家电 > 洗碗机"
+  },
+  {
+    "category_id": 100195,
+    "full_path": "家用电器 > 厨房家电 > 搅拌机"
+  },
+  {
+    "category_id": 100194,
+    "full_path": "家用电器 > 厨房家电 > 咖啡机 & 配件"
+  },
+  {
+    "category_id": 100193,
+    "full_path": "家用电器 > 厨房家电 > 榨汁机、破壁机 & 豆浆机"
+  },
+  {
+    "category_id": 100192,
+    "full_path": "家用电器 > 厨房家电 > 储酒冰箱"
+  },
+  {
+    "category_id": 100191,
+    "full_path": "家用电器 > 厨房家电 > 电水壶"
+  },
+  {
+    "category_id": 100190,
+    "full_path": "家用电器 > 厨房家电 > 净水器、冷水器 & 饮水器"
+  },
+  {
+    "category_id": 100189,
+    "full_path": "家用电器 > 电视机 & 配件 > 其他"
+  },
+  {
+    "category_id": 100188,
+    "full_path": "家用电器 > 电视机 & 配件 > 电视支架"
+  },
+  {
+    "category_id": 100187,
+    "full_path": "家用电器 > 电视机 & 配件 > 电视盒 & 接收器"
+  },
+  {
+    "category_id": 100186,
+    "full_path": "家用电器 > 电视机 & 配件 > 电视天线"
+  },
+  {
+    "category_id": 100185,
+    "full_path": "家用电器 > 电视机 & 配件 > 电视机"
+  },
+  {
+    "category_id": 100184,
+    "full_path": "家用电器 > 大型家电 > 其他"
+  },
+  {
+    "category_id": 100183,
+    "full_path": "家用电器 > 大型家电 > 暖气机"
+  },
+  {
+    "category_id": 100182,
+    "full_path": "家用电器 > 大型家电 > 烘干机&烘鞋器"
+  },
+  {
+    "category_id": 100467,
+    "full_path": "家用电器 > 大型家电 > 制冷家电 > 其他"
+  },
+  {
+    "category_id": 100466,
+    "full_path": "家用电器 > 大型家电 > 制冷家电 > 风扇"
+  },
+  {
+    "category_id": 100465,
+    "full_path": "家用电器 > 大型家电 > 制冷家电 > 冷风机 & 便携式空调"
+  },
+  {
+    "category_id": 100464,
+    "full_path": "家用电器 > 大型家电 > 制冷家电 > 冷气机"
+  },
+  {
+    "category_id": 100180,
+    "full_path": "家用电器 > 大型家电 > 热水器"
+  },
+  {
+    "category_id": 100463,
+    "full_path": "家用电器 > 大型家电 > 洗衣机 & 干衣机 > 其他"
+  },
+  {
+    "category_id": 100462,
+    "full_path": "家用电器 > 大型家电 > 洗衣机 & 干衣机 > 干衣机"
+  },
+  {
+    "category_id": 100461,
+    "full_path": "家用电器 > 大型家电 > 洗衣机 & 干衣机 > 洗衣机"
+  },
+  {
+    "category_id": 100178,
+    "full_path": "家用电器 > 小型家电 > 其他"
+  },
+  {
+    "category_id": 100177,
+    "full_path": "家用电器 > 小型家电 > 吸尘器 & 地板护理用具"
+  },
+  {
+    "category_id": 100460,
+    "full_path": "家用电器 > 小型家电 > 空气清净 > 其他"
+  },
+  {
+    "category_id": 100459,
+    "full_path": "家用电器 > 小型家电 > 空气清净 > 除湿器"
+  },
+  {
+    "category_id": 100458,
+    "full_path": "家用电器 > 小型家电 > 空气清净 > 空气净化器"
+  },
+  {
+    "category_id": 100175,
+    "full_path": "家用电器 > 小型家电 > 烫斗 & 挂烫机"
+  },
+  {
+    "category_id": 100457,
+    "full_path": "家用电器 > 小型家电 > 电话 > 其他"
+  },
+  {
+    "category_id": 100456,
+    "full_path": "家用电器 > 小型家电 > 电话 > 传真机"
+  },
+  {
+    "category_id": 100455,
+    "full_path": "家用电器 > 小型家电 > 电话 > 无线电话"
+  },
+  {
+    "category_id": 100454,
+    "full_path": "家用电器 > 小型家电 > 电话 > 有线电话"
+  },
+  {
+    "category_id": 100173,
+    "full_path": "家用电器 > 小型家电 > 缝纫机 & 配件"
+  },
+  {
+    "category_id": 100172,
+    "full_path": "家用电器 > 小型家电 > 洗牙器"
+  },
+  {
+    "category_id": 100171,
+    "full_path": "家用电器 > 小型家电 > 泡脚机 & 足浴盆"
+  },
+  {
+    "category_id": 100170,
+    "full_path": "家用电器 > 投影机 & 配件 > 其他"
+  },
+  {
+    "category_id": 100169,
+    "full_path": "家用电器 > 投影机 & 配件 > 激光笔"
+  },
+  {
+    "category_id": 100168,
+    "full_path": "家用电器 > 投影机 & 配件 > 投影机 & 投影屏幕"
+  },
+  {
+    "category_id": 100062,
+    "full_path": "男装 > 袜子"
+  },
+  {
+    "category_id": 100061,
+    "full_path": "男装 > 其他"
+  },
+  {
+    "category_id": 100060,
+    "full_path": "男装 > 职业制服"
+  },
+  {
+    "category_id": 100059,
+    "full_path": "男装 > 角色扮演服装"
+  },
+  {
+    "category_id": 100254,
+    "full_path": "男装 > 传统服饰 > 其他"
+  },
+  {
+    "category_id": 100253,
+    "full_path": "男装 > 传统服饰 > 套装"
+  },
+  {
+    "category_id": 100252,
+    "full_path": "男装 > 传统服饰 > 下装"
+  },
+  {
+    "category_id": 100251,
+    "full_path": "男装 > 传统服饰 > 上衣"
+  },
+  {
+    "category_id": 100057,
+    "full_path": "男装 > 套装"
+  },
+  {
+    "category_id": 100056,
+    "full_path": "男装 > 睡衣"
+  },
+  {
+    "category_id": 100250,
+    "full_path": "男装 > 内衣&内裤 > 其他"
+  },
+  {
+    "category_id": 102171,
+    "full_path": "男装 > 内衣&内裤 > 情趣内衣"
+  },
+  {
+    "category_id": 100249,
+    "full_path": "男装 > 内衣&内裤 > 保暖内衣"
+  },
+  {
+    "category_id": 100248,
+    "full_path": "男装 > 内衣&内裤 > 打底衣"
+  },
+  {
+    "category_id": 100247,
+    "full_path": "男装 > 内衣&内裤 > 内裤"
+  },
+  {
+    "category_id": 100246,
+    "full_path": "男装 > 上衣 > 其他"
+  },
+  {
+    "category_id": 100245,
+    "full_path": "男装 > 上衣 > 背心"
+  },
+  {
+    "category_id": 100244,
+    "full_path": "男装 > 上衣 > T恤"
+  },
+  {
+    "category_id": 100243,
+    "full_path": "男装 > 上衣 > Polo衫"
+  },
+  {
+    "category_id": 100242,
+    "full_path": "男装 > 上衣 > 衬衫"
+  },
+  {
+    "category_id": 100053,
+    "full_path": "男装 > 短裤"
+  },
+  {
+    "category_id": 100241,
+    "full_path": "男装 > 长裤 > 其他"
+  },
+  {
+    "category_id": 100240,
+    "full_path": "男装 > 长裤 > 长裤"
+  },
+  {
+    "category_id": 100239,
+    "full_path": "男装 > 长裤 > 束脚裤"
+  },
+  {
+    "category_id": 100238,
+    "full_path": "男装 > 长裤 > 工装裤"
+  },
+  {
+    "category_id": 100237,
+    "full_path": "男装 > 西装 > 其他"
+  },
+  {
+    "category_id": 100236,
+    "full_path": "男装 > 西装 > 西装马甲"
+  },
+  {
+    "category_id": 100235,
+    "full_path": "男装 > 西装 > 西装裤"
+  },
+  {
+    "category_id": 100234,
+    "full_path": "男装 > 西装 > 西装外套"
+  },
+  {
+    "category_id": 100233,
+    "full_path": "男装 > 西装 > 西装套装"
+  },
+  {
+    "category_id": 100232,
+    "full_path": "男装 > 外套，风衣&马甲 > 其他"
+  },
+  {
+    "category_id": 100231,
+    "full_path": "男装 > 外套，风衣&马甲 > 马甲"
+  },
+  {
+    "category_id": 100230,
+    "full_path": "男装 > 外套，风衣&马甲 > 外套"
+  },
+  {
+    "category_id": 100229,
+    "full_path": "男装 > 外套，风衣&马甲 > 冬季外套&大衣"
+  },
+  {
+    "category_id": 100049,
+    "full_path": "男装 > 毛衣&针织"
+  },
+  {
+    "category_id": 100228,
+    "full_path": "男装 > 连帽衣&卫衣 > 其他"
+  },
+  {
+    "category_id": 100227,
+    "full_path": "男装 > 连帽衣&卫衣 > 卫衣"
+  },
+  {
+    "category_id": 100226,
+    "full_path": "男装 > 连帽衣&卫衣 > 连帽衣"
+  },
+  {
+    "category_id": 100047,
+    "full_path": "男装 > 牛仔"
+  },
+  {
+    "category_id": 100070,
+    "full_path": "男鞋 > 其他"
+  },
+  {
+    "category_id": 100269,
+    "full_path": "男鞋 > 鞋保养&配件 > 其他"
+  },
+  {
+    "category_id": 100268,
+    "full_path": "男鞋 > 鞋保养&配件 > 鞋垫"
+  },
+  {
+    "category_id": 100267,
+    "full_path": "男鞋 > 鞋保养&配件 > 鞋拔和鞋撑"
+  },
+  {
+    "category_id": 100266,
+    "full_path": "男鞋 > 鞋保养&配件 > 鞋带"
+  },
+  {
+    "category_id": 100265,
+    "full_path": "男鞋 > 鞋保养&配件 > 鞋子除臭剂"
+  },
+  {
+    "category_id": 100264,
+    "full_path": "男鞋 > 鞋保养&配件 > 鞋子保养&清洁工具"
+  },
+  {
+    "category_id": 100263,
+    "full_path": "男鞋 > 凉鞋&拖鞋 > 其他"
+  },
+  {
+    "category_id": 100262,
+    "full_path": "男鞋 > 凉鞋&拖鞋 > 保健拖鞋"
+  },
+  {
+    "category_id": 100261,
+    "full_path": "男鞋 > 凉鞋&拖鞋 > 室内拖鞋"
+  },
+  {
+    "category_id": 100260,
+    "full_path": "男鞋 > 凉鞋&拖鞋 > 凉鞋"
+  },
+  {
+    "category_id": 100259,
+    "full_path": "男鞋 > 凉鞋&拖鞋 > 人字拖"
+  },
+  {
+    "category_id": 100067,
+    "full_path": "男鞋 > 牛津鞋&绑带鞋"
+  },
+  {
+    "category_id": 100066,
+    "full_path": "男鞋 > 乐福鞋&帆船鞋"
+  },
+  {
+    "category_id": 100065,
+    "full_path": "男鞋 > 无带鞋&穆勒鞋"
+  },
+  {
+    "category_id": 100064,
+    "full_path": "男鞋 > 运动鞋"
+  },
+  {
+    "category_id": 100258,
+    "full_path": "男鞋 > 靴子 > 其他"
+  },
+  {
+    "category_id": 100257,
+    "full_path": "男鞋 > 靴子 > 安全靴"
+  },
+  {
+    "category_id": 100256,
+    "full_path": "男鞋 > 靴子 > 雨鞋"
+  },
+  {
+    "category_id": 100255,
+    "full_path": "男鞋 > 靴子 > 时尚靴"
+  },
+  {
+    "category_id": 100077,
+    "full_path": "手机平板与配件 > 其他"
+  },
+  {
+    "category_id": 100076,
+    "full_path": "手机平板与配件 > 对讲机"
+  },
+  {
+    "category_id": 100291,
+    "full_path": "手机平板与配件 > 配件 > 其他"
+  },
+  {
+    "category_id": 102186,
+    "full_path": "手机平板与配件 > 配件 > 保护壳 > Earphone Cases, Covers, & Skins"
+  },
+  {
+    "category_id": 100491,
+    "full_path": "手机平板与配件 > 配件 > 保护壳 > 其他"
+  },
+  {
+    "category_id": 100490,
+    "full_path": "手机平板与配件 > 配件 > 保护壳 > 手机保护配件"
+  },
+  {
+    "category_id": 100489,
+    "full_path": "手机平板与配件 > 配件 > 保护壳 > 平板保护配件"
+  },
+  {
+    "category_id": 100289,
+    "full_path": "手机平板与配件 > 配件 > 屏幕保护膜"
+  },
+  {
+    "category_id": 100288,
+    "full_path": "手机平板与配件 > 配件 > 配件"
+  },
+  {
+    "category_id": 100488,
+    "full_path": "手机平板与配件 > 配件 > 充电宝 & 电池 > 其他"
+  },
+  {
+    "category_id": 100487,
+    "full_path": "手机平板与配件 > 配件 > 充电宝 & 电池 > 充电手机壳"
+  },
+  {
+    "category_id": 100486,
+    "full_path": "手机平板与配件 > 配件 > 充电宝 & 电池 > 充电宝"
+  },
+  {
+    "category_id": 100485,
+    "full_path": "手机平板与配件 > 配件 > 充电宝 & 电池 > 电池"
+  },
+  {
+    "category_id": 100286,
+    "full_path": "手机平板与配件 > 配件 > 便携式Wifi"
+  },
+  {
+    "category_id": 100285,
+    "full_path": "手机平板与配件 > 配件 > USB & 便携式灯"
+  },
+  {
+    "category_id": 100484,
+    "full_path": "手机平板与配件 > 配件 > 充电线、充电器 & 转换器 > 其他"
+  },
+  {
+    "category_id": 100483,
+    "full_path": "手机平板与配件 > 配件 > 充电线、充电器 & 转换器 > 充电座 & 充电盘"
+  },
+  {
+    "category_id": 100482,
+    "full_path": "手机平板与配件 > 配件 > 充电线、充电器 & 转换器 > 充电器"
+  },
+  {
+    "category_id": 100481,
+    "full_path": "手机平板与配件 > 配件 > 充电线、充电器 & 转换器 > 充电线 & 转换器"
+  },
+  {
+    "category_id": 100480,
+    "full_path": "手机平板与配件 > 配件 > 充电线、充电器 & 转换器 > 旅行插头"
+  },
+  {
+    "category_id": 100479,
+    "full_path": "手机平板与配件 > 配件 > 充电线、充电器 & 转换器 > 电线套、保护器 & 卷线器"
+  },
+  {
+    "category_id": 100283,
+    "full_path": "手机平板与配件 > 配件 > 手机袋"
+  },
+  {
+    "category_id": 100282,
+    "full_path": "手机平板与配件 > 配件 > 转接电视设备"
+  },
+  {
+    "category_id": 100281,
+    "full_path": "手机平板与配件 > 配件 > 记忆卡"
+  },
+  {
+    "category_id": 100280,
+    "full_path": "手机平板与配件 > 配件 > 手机吊饰 & 钥匙圈"
+  },
+  {
+    "category_id": 100279,
+    "full_path": "手机平板与配件 > 配件 > 手机支架"
+  },
+  {
+    "category_id": 100278,
+    "full_path": "手机平板与配件 > 配件 > 触控笔"
+  },
+  {
+    "category_id": 100277,
+    "full_path": "手机平板与配件 > 配件 > USB&手持风扇"
+  },
+  {
+    "category_id": 100276,
+    "full_path": "手机平板与配件 > 配件 > 手机闪光灯 & 补光灯"
+  },
+  {
+    "category_id": 100275,
+    "full_path": "手机平板与配件 > 配件 > 手机镜头"
+  },
+  {
+    "category_id": 100478,
+    "full_path": "手机平板与配件 > 配件 > 自拍配件 > 其他"
+  },
+  {
+    "category_id": 100477,
+    "full_path": "手机平板与配件 > 配件 > 自拍配件 > 遥控自拍杆"
+  },
+  {
+    "category_id": 100476,
+    "full_path": "手机平板与配件 > 配件 > 自拍配件 > 懒人支架"
+  },
+  {
+    "category_id": 100475,
+    "full_path": "手机平板与配件 > 配件 > 自拍配件 > 自拍杆"
+  },
+  {
+    "category_id": 100273,
+    "full_path": "手机平板与配件 > 智能穿戴设备 > 其他"
+  },
+  {
+    "category_id": 100272,
+    "full_path": "手机平板与配件 > 智能穿戴设备 > GPS定位器"
+  },
+  {
+    "category_id": 100271,
+    "full_path": "手机平板与配件 > 智能穿戴设备 > VR设备"
+  },
+  {
+    "category_id": 100270,
+    "full_path": "手机平板与配件 > 智能穿戴设备 > 智能手表 & 手环"
+  },
+  {
+    "category_id": 100073,
+    "full_path": "手机平板与配件 > 手机"
+  },
+  {
+    "category_id": 100072,
+    "full_path": "手机平板与配件 > 平板电脑"
+  },
+  {
+    "category_id": 100071,
+    "full_path": "手机平板与配件 > SIM卡"
+  },
+  {
+    "category_id": 100084,
+    "full_path": "穆斯林服饰 > 其他"
+  },
+  {
+    "category_id": 100083,
+    "full_path": "穆斯林服饰 > 套装"
+  },
+  {
+    "category_id": 100319,
+    "full_path": "穆斯林服饰 > 外穿服饰 > 其他"
+  },
+  {
+    "category_id": 100318,
+    "full_path": "穆斯林服饰 > 外穿服饰 > 针织"
+  },
+  {
+    "category_id": 100317,
+    "full_path": "穆斯林服饰 > 外穿服饰 > 大衣"
+  },
+  {
+    "category_id": 100316,
+    "full_path": "穆斯林服饰 > 外穿服饰 > 外套"
+  },
+  {
+    "category_id": 100315,
+    "full_path": "穆斯林服饰 > 外穿服饰 > 背心外套"
+  },
+  {
+    "category_id": 100314,
+    "full_path": "穆斯林服饰 > 穆斯林童装 > 其他"
+  },
+  {
+    "category_id": 100313,
+    "full_path": "穆斯林服饰 > 穆斯林童装 > 穆斯林男童装"
+  },
+  {
+    "category_id": 100522,
+    "full_path": "穆斯林服饰 > 穆斯林童装 > 穆斯林女童装 > 其他"
+  },
+  {
+    "category_id": 100521,
+    "full_path": "穆斯林服饰 > 穆斯林童装 > 穆斯林女童装 > 服装及套装"
+  },
+  {
+    "category_id": 100520,
+    "full_path": "穆斯林服饰 > 穆斯林童装 > 穆斯林女童装 > 祈祷长袍"
+  },
+  {
+    "category_id": 100519,
+    "full_path": "穆斯林服饰 > 穆斯林童装 > 穆斯林女童装 > 面纱"
+  },
+  {
+    "category_id": 100311,
+    "full_path": "穆斯林服饰 > 穆斯林男装 > 其他"
+  },
+  {
+    "category_id": 100310,
+    "full_path": "穆斯林服饰 > 穆斯林男装 > 马来装"
+  },
+  {
+    "category_id": 100309,
+    "full_path": "穆斯林服饰 > 穆斯林男装 > 纱笼"
+  },
+  {
+    "category_id": 100308,
+    "full_path": "穆斯林服饰 > 穆斯林男装 > 长裤"
+  },
+  {
+    "category_id": 100307,
+    "full_path": "穆斯林服饰 > 穆斯林男装 > 长袍"
+  },
+  {
+    "category_id": 100306,
+    "full_path": "穆斯林服饰 > 穆斯林男装 > 上衣"
+  },
+  {
+    "category_id": 100305,
+    "full_path": "穆斯林服饰 > 祈祷服装及装备 > 其他"
+  },
+  {
+    "category_id": 100304,
+    "full_path": "穆斯林服饰 > 祈祷服装及装备 > 长袍旅行款"
+  },
+  {
+    "category_id": 100303,
+    "full_path": "穆斯林服饰 > 祈祷服装及装备 > 祈祷长袍"
+  },
+  {
+    "category_id": 100302,
+    "full_path": "穆斯林服饰 > 祈祷服装及装备 > 祈祷帽"
+  },
+  {
+    "category_id": 100301,
+    "full_path": "穆斯林服饰 > 祈祷服装及装备 > 祈祷垫"
+  },
+  {
+    "category_id": 100300,
+    "full_path": "穆斯林服饰 > 祈祷服装及装备 > 祈祷套装"
+  },
+  {
+    "category_id": 100299,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 其他"
+  },
+  {
+    "category_id": 100518,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 下装 > 其他"
+  },
+  {
+    "category_id": 100517,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 下装 > 阔腿裤"
+  },
+  {
+    "category_id": 100516,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 下装 > 紧身裤"
+  },
+  {
+    "category_id": 100515,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 下装 > 长裤"
+  },
+  {
+    "category_id": 100514,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 下装 > 裙子"
+  },
+  {
+    "category_id": 100513,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > 其他"
+  },
+  {
+    "category_id": 100512,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > 连身长裤"
+  },
+  {
+    "category_id": 100511,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > Set Warda"
+  },
+  {
+    "category_id": 100510,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > 马来套装"
+  },
+  {
+    "category_id": 100509,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > 可巴雅、娘惹衫"
+  },
+  {
+    "category_id": 100508,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > 卡夫坦"
+  },
+  {
+    "category_id": 100507,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > 哺乳长袍"
+  },
+  {
+    "category_id": 100506,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > Abaya Cloak"
+  },
+  {
+    "category_id": 100505,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 裙装 > 长袍"
+  },
+  {
+    "category_id": 100504,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 上衣 > 其他"
+  },
+  {
+    "category_id": 100503,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 上衣 > 哺乳上衣"
+  },
+  {
+    "category_id": 100502,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 上衣 > 衬衫&内衫"
+  },
+  {
+    "category_id": 100501,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 上衣 > 长款上衣"
+  },
+  {
+    "category_id": 100295,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 穆斯林泳装"
+  },
+  {
+    "category_id": 100294,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 穆斯林运动装"
+  },
+  {
+    "category_id": 100500,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 配件 > 其他"
+  },
+  {
+    "category_id": 100499,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 配件 > 手袜"
+  },
+  {
+    "category_id": 100498,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 配件 > 袜子"
+  },
+  {
+    "category_id": 100497,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 其他"
+  },
+  {
+    "category_id": 100529,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 头巾配件 > 其他"
+  },
+  {
+    "category_id": 100528,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 头巾配件 > 头巾针"
+  },
+  {
+    "category_id": 100527,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 头巾配件 > 打底头巾"
+  },
+  {
+    "category_id": 100495,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 纯羊绒"
+  },
+  {
+    "category_id": 100494,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 方形头巾"
+  },
+  {
+    "category_id": 100493,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 便式头巾"
+  },
+  {
+    "category_id": 100492,
+    "full_path": "穆斯林服饰 > 穆斯林女装 > 面纱 > 头巾"
+  },
+  {
+    "category_id": 100088,
+    "full_path": "旅行用品&行李箱 > 其他"
+  },
+  {
+    "category_id": 100333,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 其他"
+  },
+  {
+    "category_id": 100332,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 旅行分装瓶"
+  },
+  {
+    "category_id": 100331,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 旅行枕&眼罩"
+  },
+  {
+    "category_id": 100330,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 行李秤"
+  },
+  {
+    "category_id": 100329,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 行李箱锁"
+  },
+  {
+    "category_id": 100328,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 行李绑带"
+  },
+  {
+    "category_id": 100327,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 行李吊牌"
+  },
+  {
+    "category_id": 100326,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 行李箱套"
+  },
+  {
+    "category_id": 100325,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 旅行收纳包"
+  },
+  {
+    "category_id": 100324,
+    "full_path": "旅行用品&行李箱 > 旅行配件 > 护照夹&护照套"
+  },
+  {
+    "category_id": 100323,
+    "full_path": "旅行用品&行李箱 > 旅行包 > 其他"
+  },
+  {
+    "category_id": 100322,
+    "full_path": "旅行用品&行李箱 > 旅行包 > 束口包"
+  },
+  {
+    "category_id": 100321,
+    "full_path": "旅行用品&行李箱 > 旅行包 > 折叠包"
+  },
+  {
+    "category_id": 100320,
+    "full_path": "旅行用品&行李箱 > 旅行包 > 手提行李袋"
+  },
+  {
+    "category_id": 100085,
+    "full_path": "旅行用品&行李箱 > 行李箱"
+  },
+  {
+    "category_id": 100098,
+    "full_path": "女包 > 其他"
+  },
+  {
+    "category_id": 100349,
+    "full_path": "女包 > 包包配件 > 其他"
+  },
+  {
+    "category_id": 100348,
+    "full_path": "女包 > 包包配件 > 清洁&保养用品"
+  },
+  {
+    "category_id": 100347,
+    "full_path": "女包 > 包包配件 > 收纳包"
+  },
+  {
+    "category_id": 100346,
+    "full_path": "女包 > 包包配件 > 吊饰"
+  },
+  {
+    "category_id": 100345,
+    "full_path": "女包 > 包包配件 > 挂钩"
+  },
+  {
+    "category_id": 100344,
+    "full_path": "女包 > 包包配件 > 背带"
+  },
+  {
+    "category_id": 100343,
+    "full_path": "女包 > 钱包 > 其他"
+  },
+  {
+    "category_id": 100342,
+    "full_path": "女包 > 钱包 > 长款钱包"
+  },
+  {
+    "category_id": 100341,
+    "full_path": "女包 > 钱包 > 双折&三折钱包"
+  },
+  {
+    "category_id": 100340,
+    "full_path": "女包 > 钱包 > 手机&钥匙包"
+  },
+  {
+    "category_id": 100339,
+    "full_path": "女包 > 钱包 > 零钱包"
+  },
+  {
+    "category_id": 100338,
+    "full_path": "女包 > 钱包 > 卡包"
+  },
+  {
+    "category_id": 100095,
+    "full_path": "女包 > 斜挎包&单肩包"
+  },
+  {
+    "category_id": 100094,
+    "full_path": "女包 > 手提包"
+  },
+  {
+    "category_id": 100093,
+    "full_path": "女包 > 托特包"
+  },
+  {
+    "category_id": 100092,
+    "full_path": "女包 > 腰包&胸包"
+  },
+  {
+    "category_id": 100091,
+    "full_path": "女包 > 手拿包"
+  },
+  {
+    "category_id": 100337,
+    "full_path": "女包 > 笔记本电脑包 > 其他"
+  },
+  {
+    "category_id": 100336,
+    "full_path": "女包 > 笔记本电脑包 > 笔记本电脑背包"
+  },
+  {
+    "category_id": 100335,
+    "full_path": "女包 > 笔记本电脑包 > 笔记本内胆包"
+  },
+  {
+    "category_id": 100334,
+    "full_path": "女包 > 笔记本电脑包 > 笔记本电脑包&保护壳"
+  },
+  {
+    "category_id": 100089,
+    "full_path": "女包 > 背包"
+  },
+  {
+    "category_id": 100419,
+    "full_path": "女装 > 袜子&丝袜 > 其他"
+  },
+  {
+    "category_id": 100418,
+    "full_path": "女装 > 袜子&丝袜 > 连裤袜"
+  },
+  {
+    "category_id": 100417,
+    "full_path": "女装 > 袜子&丝袜 > 袜子"
+  },
+  {
+    "category_id": 100416,
+    "full_path": "女装 > 布料 > 其他"
+  },
+  {
+    "category_id": 100415,
+    "full_path": "女装 > 布料 > 宋吉"
+  },
+  {
+    "category_id": 100414,
+    "full_path": "女装 > 布料 > 马来套装布"
+  },
+  {
+    "category_id": 100413,
+    "full_path": "女装 > 布料 > 帆布"
+  },
+  {
+    "category_id": 100412,
+    "full_path": "女装 > 布料 > 牛仔"
+  },
+  {
+    "category_id": 100411,
+    "full_path": "女装 > 布料 > 尼龙"
+  },
+  {
+    "category_id": 100410,
+    "full_path": "女装 > 布料 > 皮革"
+  },
+  {
+    "category_id": 100409,
+    "full_path": "女装 > 布料 > 天鹅绒，丝绸&缎面"
+  },
+  {
+    "category_id": 100408,
+    "full_path": "女装 > 布料 > 羊毛"
+  },
+  {
+    "category_id": 100407,
+    "full_path": "女装 > 布料 > 棉"
+  },
+  {
+    "category_id": 100406,
+    "full_path": "女装 > 布料 > 娘惹装"
+  },
+  {
+    "category_id": 100405,
+    "full_path": "女装 > 布料 > 巴迪布"
+  },
+  {
+    "category_id": 100116,
+    "full_path": "女装 > 其他"
+  },
+  {
+    "category_id": 100115,
+    "full_path": "女装 > 角色扮演服装"
+  },
+  {
+    "category_id": 100404,
+    "full_path": "女装 > 传统服装 > 其他"
+  },
+  {
+    "category_id": 100403,
+    "full_path": "女装 > 传统服装 > 连衣裙"
+  },
+  {
+    "category_id": 100402,
+    "full_path": "女装 > 传统服装 > 套装"
+  },
+  {
+    "category_id": 100401,
+    "full_path": "女装 > 传统服装 > 下装"
+  },
+  {
+    "category_id": 100400,
+    "full_path": "女装 > 传统服装 > 上衣"
+  },
+  {
+    "category_id": 100399,
+    "full_path": "女装 > 孕妇装 > 其他"
+  },
+  {
+    "category_id": 100398,
+    "full_path": "女装 > 孕妇装 > 孕妇内裤"
+  },
+  {
+    "category_id": 100397,
+    "full_path": "女装 > 孕妇装 > 孕妇套装"
+  },
+  {
+    "category_id": 100396,
+    "full_path": "女装 > 孕妇装 > 哺乳衣"
+  },
+  {
+    "category_id": 100395,
+    "full_path": "女装 > 孕妇装 > 孕妇上衣"
+  },
+  {
+    "category_id": 100394,
+    "full_path": "女装 > 孕妇装 > 孕妇连衣裙"
+  },
+  {
+    "category_id": 100393,
+    "full_path": "女装 > 孕妇装 > 哺乳内衣"
+  },
+  {
+    "category_id": 100392,
+    "full_path": "女装 > 睡衣 > 其他"
+  },
+  {
+    "category_id": 100391,
+    "full_path": "女装 > 睡衣 > 睡袍"
+  },
+  {
+    "category_id": 100390,
+    "full_path": "女装 > 睡衣 > 连身睡裙"
+  },
+  {
+    "category_id": 100389,
+    "full_path": "女装 > 睡衣 > 睡衣"
+  },
+  {
+    "category_id": 100388,
+    "full_path": "女装 > 内衣裤 > 其他"
+  },
+  {
+    "category_id": 100387,
+    "full_path": "女装 > 内衣裤 > 情趣内衣"
+  },
+  {
+    "category_id": 100386,
+    "full_path": "女装 > 内衣裤 > 安全裤"
+  },
+  {
+    "category_id": 100385,
+    "full_path": "女装 > 内衣裤 > 塑身衣"
+  },
+  {
+    "category_id": 100526,
+    "full_path": "女装 > 内衣裤 > 内衣配件 > 其他"
+  },
+  {
+    "category_id": 100525,
+    "full_path": "女装 > 内衣裤 > 内衣配件 > 胸贴"
+  },
+  {
+    "category_id": 100524,
+    "full_path": "女装 > 内衣裤 > 内衣配件 > 胸垫"
+  },
+  {
+    "category_id": 100523,
+    "full_path": "女装 > 内衣裤 > 内衣配件 > 内衣肩带"
+  },
+  {
+    "category_id": 100383,
+    "full_path": "女装 > 内衣裤 > 保暖内衣"
+  },
+  {
+    "category_id": 100382,
+    "full_path": "女装 > 内衣裤 > 内裤"
+  },
+  {
+    "category_id": 100381,
+    "full_path": "女装 > 内衣裤 > 内衣"
+  },
+  {
+    "category_id": 100380,
+    "full_path": "女装 > 内衣裤 > 套装"
+  },
+  {
+    "category_id": 100379,
+    "full_path": "女装 > 套装 > 其他"
+  },
+  {
+    "category_id": 100378,
+    "full_path": "女装 > 套装 > 个人套装"
+  },
+  {
+    "category_id": 100377,
+    "full_path": "女装 > 套装 > 亲子装"
+  },
+  {
+    "category_id": 100376,
+    "full_path": "女装 > 套装 > 情侣装"
+  },
+  {
+    "category_id": 100375,
+    "full_path": "女装 > 连帽衣&卫衣 > 其他"
+  },
+  {
+    "category_id": 100374,
+    "full_path": "女装 > 连帽衣&卫衣 > 连帽衣"
+  },
+  {
+    "category_id": 100373,
+    "full_path": "女装 > 连帽衣&卫衣 > 卫衣"
+  },
+  {
+    "category_id": 100108,
+    "full_path": "女装 > 毛衣&针织"
+  },
+  {
+    "category_id": 100372,
+    "full_path": "女装 > 外套，风衣&马甲 > 其他"
+  },
+  {
+    "category_id": 100371,
+    "full_path": "女装 > 外套，风衣&马甲 > 马甲"
+  },
+  {
+    "category_id": 100370,
+    "full_path": "女装 > 外套，风衣&马甲 > 外套"
+  },
+  {
+    "category_id": 100369,
+    "full_path": "女装 > 外套，风衣&马甲 > 西装"
+  },
+  {
+    "category_id": 100368,
+    "full_path": "女装 > 外套，风衣&马甲 > 斗篷"
+  },
+  {
+    "category_id": 100367,
+    "full_path": "女装 > 外套，风衣&马甲 > 冬季外套 & 大衣"
+  },
+  {
+    "category_id": 100366,
+    "full_path": "女装 > 连身裤/吊带裤 > 其他"
+  },
+  {
+    "category_id": 100365,
+    "full_path": "女装 > 连身裤/吊带裤 > 吊带裤"
+  },
+  {
+    "category_id": 100364,
+    "full_path": "女装 > 连身裤/吊带裤 > 连身短裤"
+  },
+  {
+    "category_id": 100363,
+    "full_path": "女装 > 连身裤/吊带裤 > 连身长裤"
+  },
+  {
+    "category_id": 100105,
+    "full_path": "女装 > 礼服"
+  },
+  {
+    "category_id": 100104,
+    "full_path": "女装 > 连衣裙"
+  },
+  {
+    "category_id": 100103,
+    "full_path": "女装 > 牛仔裤"
+  },
+  {
+    "category_id": 100102,
+    "full_path": "女装 > 裙装"
+  },
+  {
+    "category_id": 100362,
+    "full_path": "女装 > 短裤 > 其他"
+  },
+  {
+    "category_id": 100361,
+    "full_path": "女装 > 短裤 > 裤裙"
+  },
+  {
+    "category_id": 100360,
+    "full_path": "女装 > 短裤 > 短裤"
+  },
+  {
+    "category_id": 100359,
+    "full_path": "女装 > 长裤&紧身裤 > 其他"
+  },
+  {
+    "category_id": 100358,
+    "full_path": "女装 > 长裤&紧身裤 > 长裤"
+  },
+  {
+    "category_id": 100357,
+    "full_path": "女装 > 长裤&紧身裤 > 紧身裤&内搭裤"
+  },
+  {
+    "category_id": 100356,
+    "full_path": "女装 > 上衣 > 其他"
+  },
+  {
+    "category_id": 100355,
+    "full_path": "女装 > 上衣 > 连体衣"
+  },
+  {
+    "category_id": 100354,
+    "full_path": "女装 > 上衣 > Polo衫"
+  },
+  {
+    "category_id": 100353,
+    "full_path": "女装 > 上衣 > 衬衫"
+  },
+  {
+    "category_id": 100352,
+    "full_path": "女装 > 上衣 > T恤"
+  },
+  {
+    "category_id": 100351,
+    "full_path": "女装 > 上衣 > 抹胸"
+  },
+  {
+    "category_id": 100350,
+    "full_path": "女装 > 上衣 > 背心"
+  },
+  {
+    "category_id": 100563,
+    "full_path": "女鞋 > 其他"
+  },
+  {
+    "category_id": 100603,
+    "full_path": "女鞋 > 鞋子保养&配件 > 其他"
+  },
+  {
+    "category_id": 100602,
+    "full_path": "女鞋 > 鞋子保养&配件 > 鞋带"
+  },
+  {
+    "category_id": 100601,
+    "full_path": "女鞋 > 鞋子保养&配件 > 鞋子保养&清洁工具"
+  },
+  {
+    "category_id": 100600,
+    "full_path": "女鞋 > 鞋子保养&配件 > 鞋拔和鞋撑"
+  },
+  {
+    "category_id": 100599,
+    "full_path": "女鞋 > 鞋子保养&配件 > 鞋垫 & 后跟贴"
+  },
+  {
+    "category_id": 100598,
+    "full_path": "女鞋 > 鞋子保养&配件 > 鞋子除臭剂"
+  },
+  {
+    "category_id": 100597,
+    "full_path": "女鞋 > 平底凉鞋 & 拖鞋 > 其他"
+  },
+  {
+    "category_id": 100596,
+    "full_path": "女鞋 > 平底凉鞋 & 拖鞋 > 室内拖鞋"
+  },
+  {
+    "category_id": 100595,
+    "full_path": "女鞋 > 平底凉鞋 & 拖鞋 > 健康拖鞋"
+  },
+  {
+    "category_id": 100594,
+    "full_path": "女鞋 > 平底凉鞋 & 拖鞋 > 人字拖"
+  },
+  {
+    "category_id": 100593,
+    "full_path": "女鞋 > 平底凉鞋 & 拖鞋 > 平底凉鞋"
+  },
+  {
+    "category_id": 100560,
+    "full_path": "女鞋 > 坡跟鞋"
+  },
+  {
+    "category_id": 100559,
+    "full_path": "女鞋 > 高跟鞋"
+  },
+  {
+    "category_id": 100592,
+    "full_path": "女鞋 > 平底鞋 > 其他"
+  },
+  {
+    "category_id": 100591,
+    "full_path": "女鞋 > 平底鞋 > 懒人鞋/穆勒鞋"
+  },
+  {
+    "category_id": 100590,
+    "full_path": "女鞋 > 平底鞋 > 牛津鞋&绑带鞋"
+  },
+  {
+    "category_id": 100589,
+    "full_path": "女鞋 > 平底鞋 > 乐福鞋&帆船鞋"
+  },
+  {
+    "category_id": 100588,
+    "full_path": "女鞋 > 平底鞋 > 芭蕾平底鞋"
+  },
+  {
+    "category_id": 100557,
+    "full_path": "女鞋 > 运动鞋"
+  },
+  {
+    "category_id": 100587,
+    "full_path": "女鞋 > 靴子 > 其他"
+  },
+  {
+    "category_id": 100586,
+    "full_path": "女鞋 > 靴子 > 时尚靴"
+  },
+  {
+    "category_id": 100585,
+    "full_path": "女鞋 > 靴子 > 雨靴"
+  },
+  {
+    "category_id": 100572,
+    "full_path": "男包 > 其他"
+  },
+  {
+    "category_id": 100613,
+    "full_path": "男包 > 钱包 > 其他"
+  },
+  {
+    "category_id": 100612,
+    "full_path": "男包 > 钱包 > 长款钱包"
+  },
+  {
+    "category_id": 100611,
+    "full_path": "男包 > 钱包 > 双折&三折钱包"
+  },
+  {
+    "category_id": 100610,
+    "full_path": "男包 > 钱包 > 手机&钥匙包"
+  },
+  {
+    "category_id": 100609,
+    "full_path": "男包 > 钱包 > 零钱包"
+  },
+  {
+    "category_id": 100608,
+    "full_path": "男包 > 钱包 > 卡包"
+  },
+  {
+    "category_id": 100570,
+    "full_path": "男包 > 斜挎包&单肩包"
+  },
+  {
+    "category_id": 100569,
+    "full_path": "男包 > 腰包&胸包"
+  },
+  {
+    "category_id": 100568,
+    "full_path": "男包 > 手拿包"
+  },
+  {
+    "category_id": 100567,
+    "full_path": "男包 > 公文包"
+  },
+  {
+    "category_id": 100566,
+    "full_path": "男包 > 托特包"
+  },
+  {
+    "category_id": 100607,
+    "full_path": "男包 > 笔记本电脑包 > 其他"
+  },
+  {
+    "category_id": 100606,
+    "full_path": "男包 > 笔记本电脑包 > 笔记本电脑背包"
+  },
+  {
+    "category_id": 100605,
+    "full_path": "男包 > 笔记本电脑包 > 笔记本电脑套"
+  },
+  {
+    "category_id": 100604,
+    "full_path": "男包 > 笔记本电脑包 > 笔记本电脑包&保护壳"
+  },
+  {
+    "category_id": 100564,
+    "full_path": "男包 > 背包"
+  },
+  {
+    "category_id": 100577,
+    "full_path": "手表 > 其他"
+  },
+  {
+    "category_id": 100619,
+    "full_path": "手表 > 手表配件 > 其他"
+  },
+  {
+    "category_id": 100618,
+    "full_path": "手表 > 手表配件 > 收纳盒"
+  },
+  {
+    "category_id": 100617,
+    "full_path": "手表 > 手表配件 > 电池"
+  },
+  {
+    "category_id": 100616,
+    "full_path": "手表 > 手表配件 > 表扣"
+  },
+  {
+    "category_id": 100615,
+    "full_path": "手表 > 手表配件 > 维修工具"
+  },
+  {
+    "category_id": 100614,
+    "full_path": "手表 > 手表配件 > 表带"
+  },
+  {
+    "category_id": 100575,
+    "full_path": "手表 > 套装&情侣表"
+  },
+  {
+    "category_id": 100574,
+    "full_path": "手表 > 男表"
+  },
+  {
+    "category_id": 100573,
+    "full_path": "手表 > 女表"
+  },
+  {
+    "category_id": 100584,
+    "full_path": "影音娱乐 > 其他"
+  },
+  {
+    "category_id": 100583,
+    "full_path": "影音娱乐 > 视听器材&转换器"
+  },
+  {
+    "category_id": 100628,
+    "full_path": "影音娱乐 > 家用音响 > 其他"
+  },
+  {
+    "category_id": 100627,
+    "full_path": "影音娱乐 > 家用音响 > AV接收机"
+  },
+  {
+    "category_id": 100626,
+    "full_path": "影音娱乐 > 家用音响 > 家庭影院系统"
+  },
+  {
+    "category_id": 100625,
+    "full_path": "影音娱乐 > 家用音响 > 音响"
+  },
+  {
+    "category_id": 100581,
+    "full_path": "影音娱乐 > 扩音器 & 混音器"
+  },
+  {
+    "category_id": 100580,
+    "full_path": "影音娱乐 > 麦克风"
+  },
+  {
+    "category_id": 100624,
+    "full_path": "影音娱乐 > 多媒体播放器 > 其他"
+  },
+  {
+    "category_id": 100623,
+    "full_path": "影音娱乐 > 多媒体播放器 > 收音机 & 卡带收音机"
+  },
+  {
+    "category_id": 100622,
+    "full_path": "影音娱乐 > 多媒体播放器 > 录音机"
+  },
+  {
+    "category_id": 100621,
+    "full_path": "影音娱乐 > 多媒体播放器 > CD、DVD & 蓝牙播放机"
+  },
+  {
+    "category_id": 100620,
+    "full_path": "影音娱乐 > 多媒体播放器 > MP3 & MP4 播放机"
+  },
+  {
+    "category_id": 100578,
+    "full_path": "影音娱乐 > 耳机"
+  },
+  {
+    "category_id": 100657,
+    "full_path": "食品饮料 > 其他"
+  },
+  {
+    "category_id": 100656,
+    "full_path": "食品饮料 > 礼盒"
+  },
+  {
+    "category_id": 100864,
+    "full_path": "食品饮料 > 酒精饮料 > 其他"
+  },
+  {
+    "category_id": 100863,
+    "full_path": "食品饮料 > 酒精饮料 > 米酒，烧酒与梅酒"
+  },
+  {
+    "category_id": 100862,
+    "full_path": "食品饮料 > 酒精饮料 > 烈酒"
+  },
+  {
+    "category_id": 100861,
+    "full_path": "食品饮料 > 酒精饮料 > 葡萄酒与香槟"
+  },
+  {
+    "category_id": 100860,
+    "full_path": "食品饮料 > 酒精饮料 > 啤酒与苹果酒"
+  },
+  {
+    "category_id": 100859,
+    "full_path": "食品饮料 > 烘培点心 > 其他"
+  },
+  {
+    "category_id": 100858,
+    "full_path": "食品饮料 > 烘培点心 > 糕饼点心"
+  },
+  {
+    "category_id": 100857,
+    "full_path": "食品饮料 > 烘培点心 > 蛋糕与馅饼"
+  },
+  {
+    "category_id": 100856,
+    "full_path": "食品饮料 > 烘培点心 > 面包"
+  },
+  {
+    "category_id": 100855,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 加工肉类与海鲜"
+  },
+  {
+    "category_id": 100854,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 冷冻食品"
+  },
+  {
+    "category_id": 100853,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 菇类"
+  },
+  {
+    "category_id": 102093,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 其他"
+  },
+  {
+    "category_id": 102092,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 预切及什锦水果组合"
+  },
+  {
+    "category_id": 102091,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 热带、异国水果"
+  },
+  {
+    "category_id": 102090,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 核果类"
+  },
+  {
+    "category_id": 102089,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 甜瓜类"
+  },
+  {
+    "category_id": 102088,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 葡萄"
+  },
+  {
+    "category_id": 102087,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 柑橘类"
+  },
+  {
+    "category_id": 102086,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 莓果"
+  },
+  {
+    "category_id": 102085,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 香蕉"
+  },
+  {
+    "category_id": 102084,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 水果 > 苹果及梨子"
+  },
+  {
+    "category_id": 102083,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 其他"
+  },
+  {
+    "category_id": 102082,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 预切及什锦蔬菜组合"
+  },
+  {
+    "category_id": 102081,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 蔬菜沙拉"
+  },
+  {
+    "category_id": 102080,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 芽类"
+  },
+  {
+    "category_id": 102079,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 根茎类"
+  },
+  {
+    "category_id": 102078,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 豆类、坚果、谷物及玉米"
+  },
+  {
+    "category_id": 102077,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 葱、姜、蒜"
+  },
+  {
+    "category_id": 102076,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 辣椒及甜椒"
+  },
+  {
+    "category_id": 102075,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 花椰菜及西兰花"
+  },
+  {
+    "category_id": 102074,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 茄类、瓜类及葫芦科"
+  },
+  {
+    "category_id": 102073,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 叶菜"
+  },
+  {
+    "category_id": 102072,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 新鲜香草"
+  },
+  {
+    "category_id": 102071,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 蔬菜 > 包菜及球芽甘蓝"
+  },
+  {
+    "category_id": 100850,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 其他"
+  },
+  {
+    "category_id": 100849,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 素食肉类"
+  },
+  {
+    "category_id": 101606,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 海鲜 > 其他"
+  },
+  {
+    "category_id": 101605,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 海鲜 > 蟹类"
+  },
+  {
+    "category_id": 101604,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 海鲜 > 虾类"
+  },
+  {
+    "category_id": 101603,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 海鲜 > 鱼类"
+  },
+  {
+    "category_id": 101602,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 肉类 > 其他"
+  },
+  {
+    "category_id": 101601,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 肉类 > 羊肉"
+  },
+  {
+    "category_id": 101600,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 肉类 > 猪肉"
+  },
+  {
+    "category_id": 101599,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 肉类 > 鸡肉"
+  },
+  {
+    "category_id": 101598,
+    "full_path": "食品饮料 > 新鲜与冷冻食品 > 肉类 > 牛肉"
+  },
+  {
+    "category_id": 100846,
+    "full_path": "食品饮料 > 乳制品与蛋 > 其他"
+  },
+  {
+    "category_id": 100845,
+    "full_path": "食品饮料 > 乳制品与蛋 > 豆腐"
+  },
+  {
+    "category_id": 100844,
+    "full_path": "食品饮料 > 乳制品与蛋 > 蛋"
+  },
+  {
+    "category_id": 100843,
+    "full_path": "食品饮料 > 乳制品与蛋 > 冰淇淋"
+  },
+  {
+    "category_id": 100842,
+    "full_path": "食品饮料 > 乳制品与蛋 > 芝士与芝士粉"
+  },
+  {
+    "category_id": 100841,
+    "full_path": "食品饮料 > 乳制品与蛋 > 奶油与人造黄油"
+  },
+  {
+    "category_id": 100840,
+    "full_path": "食品饮料 > 乳制品与蛋 > 奶精"
+  },
+  {
+    "category_id": 100839,
+    "full_path": "食品饮料 > 乳制品与蛋 > 酸奶与优酪乳"
+  },
+  {
+    "category_id": 101597,
+    "full_path": "食品饮料 > 乳制品与蛋 > 牛奶 > 其他"
+  },
+  {
+    "category_id": 101596,
+    "full_path": "食品饮料 > 乳制品与蛋 > 牛奶 > 奶粉"
+  },
+  {
+    "category_id": 101595,
+    "full_path": "食品饮料 > 乳制品与蛋 > 牛奶 > 炼乳与淡奶"
+  },
+  {
+    "category_id": 101594,
+    "full_path": "食品饮料 > 乳制品与蛋 > 牛奶 > 高温灭菌奶"
+  },
+  {
+    "category_id": 101593,
+    "full_path": "食品饮料 > 乳制品与蛋 > 牛奶 > 鲜奶"
+  },
+  {
+    "category_id": 100837,
+    "full_path": "食品饮料 > 饮料 > 其他"
+  },
+  {
+    "category_id": 100836,
+    "full_path": "食品饮料 > 饮料 > 植物奶"
+  },
+  {
+    "category_id": 100835,
+    "full_path": "食品饮料 > 饮料 > 饮料配料"
+  },
+  {
+    "category_id": 100834,
+    "full_path": "食品饮料 > 饮料 > 草本与中药饮料"
+  },
+  {
+    "category_id": 100833,
+    "full_path": "食品饮料 > 饮料 > 即饮甜品"
+  },
+  {
+    "category_id": 100832,
+    "full_path": "食品饮料 > 饮料 > 能量冲泡饮料"
+  },
+  {
+    "category_id": 100831,
+    "full_path": "食品饮料 > 饮料 > 汽水与碳酸饮料"
+  },
+  {
+    "category_id": 100830,
+    "full_path": "食品饮料 > 饮料 > 甜果汁饮料"
+  },
+  {
+    "category_id": 100829,
+    "full_path": "食品饮料 > 饮料 > 果汁与果醋"
+  },
+  {
+    "category_id": 100828,
+    "full_path": "食品饮料 > 饮料 > 水"
+  },
+  {
+    "category_id": 100827,
+    "full_path": "食品饮料 > 饮料 > 能量与运动饮料"
+  },
+  {
+    "category_id": 100826,
+    "full_path": "食品饮料 > 饮料 > 巧克力饮料"
+  },
+  {
+    "category_id": 100825,
+    "full_path": "食品饮料 > 饮料 > 茶叶与茶包"
+  },
+  {
+    "category_id": 100824,
+    "full_path": "食品饮料 > 饮料 > 咖啡"
+  },
+  {
+    "category_id": 100823,
+    "full_path": "食品饮料 > 早餐麦片 > 其他"
+  },
+  {
+    "category_id": 100822,
+    "full_path": "食品饮料 > 早餐麦片 > 早餐棒"
+  },
+  {
+    "category_id": 100821,
+    "full_path": "食品饮料 > 早餐麦片 > 早餐谷类，麦片与燕麦"
+  },
+  {
+    "category_id": 100820,
+    "full_path": "食品饮料 > 早餐麦片 > 果酱"
+  },
+  {
+    "category_id": 100819,
+    "full_path": "食品饮料 > 早餐麦片 > 蜂蜜和枫糖浆"
+  },
+  {
+    "category_id": 100818,
+    "full_path": "食品饮料 > 烘培必备 > 其他"
+  },
+  {
+    "category_id": 100817,
+    "full_path": "食品饮料 > 烘培必备 > 烘培装饰"
+  },
+  {
+    "category_id": 100816,
+    "full_path": "食品饮料 > 烘培必备 > 食用色素"
+  },
+  {
+    "category_id": 100815,
+    "full_path": "食品饮料 > 烘培必备 > 烘培面粉"
+  },
+  {
+    "category_id": 100814,
+    "full_path": "食品饮料 > 烘培必备 > 预拌面粉"
+  },
+  {
+    "category_id": 100813,
+    "full_path": "食品饮料 > 烘培必备 > 发酵粉与苏打粉"
+  },
+  {
+    "category_id": 100812,
+    "full_path": "食品饮料 > 烘培必备 > 烘焙调味"
+  },
+  {
+    "category_id": 100811,
+    "full_path": "食品饮料 > 烹饪调味 > 其他"
+  },
+  {
+    "category_id": 100810,
+    "full_path": "食品饮料 > 烹饪调味 > 面粉"
+  },
+  {
+    "category_id": 100809,
+    "full_path": "食品饮料 > 烹饪调味 > 味精"
+  },
+  {
+    "category_id": 100808,
+    "full_path": "食品饮料 > 烹饪调味 > 调理包"
+  },
+  {
+    "category_id": 100807,
+    "full_path": "食品饮料 > 烹饪调味 > 高汤，肉汁与汤底"
+  },
+  {
+    "category_id": 100806,
+    "full_path": "食品饮料 > 烹饪调味 > 甜味剂"
+  },
+  {
+    "category_id": 100805,
+    "full_path": "食品饮料 > 烹饪调味 > 糖"
+  },
+  {
+    "category_id": 101592,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 其他"
+  },
+  {
+    "category_id": 101591,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 沙拉酱"
+  },
+  {
+    "category_id": 101590,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 料酒"
+  },
+  {
+    "category_id": 101589,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 醋"
+  },
+  {
+    "category_id": 101588,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 辣椒和辣椒酱"
+  },
+  {
+    "category_id": 101587,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 烹饪酱料"
+  },
+  {
+    "category_id": 101586,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 香料"
+  },
+  {
+    "category_id": 101585,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 盐"
+  },
+  {
+    "category_id": 101584,
+    "full_path": "食品饮料 > 烹饪调味 > 调味料与调味品 > 胡椒"
+  },
+  {
+    "category_id": 100803,
+    "full_path": "食品饮料 > 烹饪调味 > 食用油"
+  },
+  {
+    "category_id": 100802,
+    "full_path": "食品饮料 > 主食 > 腌制蔬菜"
+  },
+  {
+    "category_id": 102028,
+    "full_path": "食品饮料 > 主食 > 罐头食品 > 其他"
+  },
+  {
+    "category_id": 102027,
+    "full_path": "食品饮料 > 主食 > 罐头食品 > 汤罐头"
+  },
+  {
+    "category_id": 102026,
+    "full_path": "食品饮料 > 主食 > 罐头食品 > 蔬菜罐头"
+  },
+  {
+    "category_id": 102025,
+    "full_path": "食品饮料 > 主食 > 罐头食品 > 海产罐头"
+  },
+  {
+    "category_id": 102024,
+    "full_path": "食品饮料 > 主食 > 罐头食品 > 肉品罐头"
+  },
+  {
+    "category_id": 101583,
+    "full_path": "食品饮料 > 主食 > 罐头食品 > 水果罐头"
+  },
+  {
+    "category_id": 100800,
+    "full_path": "食品饮料 > 主食 > 其他"
+  },
+  {
+    "category_id": 100799,
+    "full_path": "食品饮料 > 主食 > 意大利面"
+  },
+  {
+    "category_id": 100798,
+    "full_path": "食品饮料 > 主食 > 食用米"
+  },
+  {
+    "category_id": 100797,
+    "full_path": "食品饮料 > 主食 > 面"
+  },
+  {
+    "category_id": 101582,
+    "full_path": "食品饮料 > 主食 > 干货 > 其他"
+  },
+  {
+    "category_id": 101581,
+    "full_path": "食品饮料 > 主食 > 干货 > 中药材"
+  },
+  {
+    "category_id": 101580,
+    "full_path": "食品饮料 > 主食 > 干货 > 海产干货"
+  },
+  {
+    "category_id": 101579,
+    "full_path": "食品饮料 > 主食 > 干货 > 豆类与五谷杂粮"
+  },
+  {
+    "category_id": 101578,
+    "full_path": "食品饮料 > 零食 > 干粮零食 > 其他"
+  },
+  {
+    "category_id": 101577,
+    "full_path": "食品饮料 > 零食 > 干粮零食 > 海鲜零食"
+  },
+  {
+    "category_id": 101576,
+    "full_path": "食品饮料 > 零食 > 干粮零食 > 肉松"
+  },
+  {
+    "category_id": 101575,
+    "full_path": "食品饮料 > 零食 > 干粮零食 > 果干"
+  },
+  {
+    "category_id": 101574,
+    "full_path": "食品饮料 > 零食 > 干粮零食 > 肉干"
+  },
+  {
+    "category_id": 100794,
+    "full_path": "食品饮料 > 零食 > 布丁，果冻与棉花糖"
+  },
+  {
+    "category_id": 100793,
+    "full_path": "食品饮料 > 零食 > 其他"
+  },
+  {
+    "category_id": 100792,
+    "full_path": "食品饮料 > 零食 > 坚果"
+  },
+  {
+    "category_id": 100791,
+    "full_path": "食品饮料 > 零食 > 海苔"
+  },
+  {
+    "category_id": 100790,
+    "full_path": "食品饮料 > 零食 > 爆米花"
+  },
+  {
+    "category_id": 100789,
+    "full_path": "食品饮料 > 零食 > 瓜子"
+  },
+  {
+    "category_id": 100788,
+    "full_path": "食品饮料 > 零食 > 薯片"
+  },
+  {
+    "category_id": 100787,
+    "full_path": "食品饮料 > 零食 > 饼干，曲奇与威化饼"
+  },
+  {
+    "category_id": 100786,
+    "full_path": "食品饮料 > 零食 > 巧克力"
+  },
+  {
+    "category_id": 100785,
+    "full_path": "食品饮料 > 零食 > 糖果"
+  },
+  {
+    "category_id": 100784,
+    "full_path": "食品饮料 > 方便速食/即食品 > 即食泡面"
+  },
+  {
+    "category_id": 100783,
+    "full_path": "食品饮料 > 方便速食/即食品 > 即食火锅"
+  },
+  {
+    "category_id": 100782,
+    "full_path": "食品饮料 > 方便速食/即食品 > 即食饭与粥"
+  },
+  {
+    "category_id": 100781,
+    "full_path": "食品饮料 > 方便速食/即食品 > 其他"
+  },
+  {
+    "category_id": 100780,
+    "full_path": "食品饮料 > 方便速食/即食品 > 熟食小吃"
+  },
+  {
+    "category_id": 102013,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 其他"
+  },
+  {
+    "category_id": 102012,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 胸部保养"
+  },
+  {
+    "category_id": 102016,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 防晒 > 其他"
+  },
+  {
+    "category_id": 102015,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 防晒 > 助晒油"
+  },
+  {
+    "category_id": 102014,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 防晒 > 防晒乳与晒后护理"
+  },
+  {
+    "category_id": 102010,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 脱毛膏、蜜蜡脱毛"
+  },
+  {
+    "category_id": 102009,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 按摩油"
+  },
+  {
+    "category_id": 102008,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 身体除臭剂"
+  },
+  {
+    "category_id": 102007,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 身体霜、乳与黄油"
+  },
+  {
+    "category_id": 102006,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 身体油"
+  },
+  {
+    "category_id": 102005,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 身体敷膜"
+  },
+  {
+    "category_id": 102004,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 身体磨砂膏、去角质"
+  },
+  {
+    "category_id": 102003,
+    "full_path": "美妆保健 > 沐浴与身体保养 > 沐浴露与香皂"
+  },
+  {
+    "category_id": 100666,
+    "full_path": "美妆保健 > 其他"
+  },
+  {
+    "category_id": 100665,
+    "full_path": "美妆保健 > 美妆保养套装"
+  },
+  {
+    "category_id": 100905,
+    "full_path": "美妆保健 > 护肤品 > 其他"
+  },
+  {
+    "category_id": 100904,
+    "full_path": "美妆保健 > 护肤品 > 痘痘、粉刺护理"
+  },
+  {
+    "category_id": 100903,
+    "full_path": "美妆保健 > 护肤品 > 吸油面紙"
+  },
+  {
+    "category_id": 100902,
+    "full_path": "美妆保健 > 护肤品 > 脸部晒后护理"
+  },
+  {
+    "category_id": 100901,
+    "full_path": "美妆保健 > 护肤品 > 脸部防晒霜"
+  },
+  {
+    "category_id": 101676,
+    "full_path": "美妆保健 > 护肤品 > 唇部护理 > 其他"
+  },
+  {
+    "category_id": 101675,
+    "full_path": "美妆保健 > 护肤品 > 唇部护理 > 唇膜"
+  },
+  {
+    "category_id": 101674,
+    "full_path": "美妆保健 > 护肤品 > 唇部护理 > 唇部磨砂膏与去角质"
+  },
+  {
+    "category_id": 101673,
+    "full_path": "美妆保健 > 护肤品 > 唇部护理 > 润唇膏"
+  },
+  {
+    "category_id": 101672,
+    "full_path": "美妆保健 > 护肤品 > 眼部护理 > 其他"
+  },
+  {
+    "category_id": 101671,
+    "full_path": "美妆保健 > 护肤品 > 眼部护理 > 眉毛与睫毛精华液"
+  },
+  {
+    "category_id": 101670,
+    "full_path": "美妆保健 > 护肤品 > 眼部护理 > 眼膜"
+  },
+  {
+    "category_id": 101669,
+    "full_path": "美妆保健 > 护肤品 > 眼部护理 > 眼霜"
+  },
+  {
+    "category_id": 100898,
+    "full_path": "美妆保健 > 护肤品 > 面膜"
+  },
+  {
+    "category_id": 100897,
+    "full_path": "美妆保健 > 护肤品 > 面部磨砂膏与去角质"
+  },
+  {
+    "category_id": 100896,
+    "full_path": "美妆保健 > 护肤品 > 面部精华液"
+  },
+  {
+    "category_id": 100895,
+    "full_path": "美妆保健 > 护肤品 > 保湿喷雾"
+  },
+  {
+    "category_id": 100894,
+    "full_path": "美妆保健 > 护肤品 > 面部精油"
+  },
+  {
+    "category_id": 100893,
+    "full_path": "美妆保健 > 护肤品 > 保湿乳液、乳霜"
+  },
+  {
+    "category_id": 100892,
+    "full_path": "美妆保健 > 护肤品 > 爽肤水、化妆水"
+  },
+  {
+    "category_id": 100891,
+    "full_path": "美妆保健 > 护肤品 > 洗面乳"
+  },
+  {
+    "category_id": 100890,
+    "full_path": "美妆保健 > 美容工具 > 其他"
+  },
+  {
+    "category_id": 101668,
+    "full_path": "美妆保健 > 美容工具 > 美发工具 > 其他"
+  },
+  {
+    "category_id": 101667,
+    "full_path": "美妆保健 > 美容工具 > 美发工具 > 美发用具"
+  },
+  {
+    "category_id": 101666,
+    "full_path": "美妆保健 > 美容工具 > 美发工具 > 美发电器"
+  },
+  {
+    "category_id": 101665,
+    "full_path": "美妆保健 > 美容工具 > 美发工具 > 吹风机"
+  },
+  {
+    "category_id": 101664,
+    "full_path": "美妆保健 > 美容工具 > 美发工具 > 梳子"
+  },
+  {
+    "category_id": 100888,
+    "full_path": "美妆保健 > 美容工具 > 除毛工具"
+  },
+  {
+    "category_id": 100887,
+    "full_path": "美妆保健 > 美容工具 > 瘦身器材"
+  },
+  {
+    "category_id": 101663,
+    "full_path": "美妆保健 > 美容工具 > 脸部保养工具 > 其他"
+  },
+  {
+    "category_id": 101662,
+    "full_path": "美妆保健 > 美容工具 > 脸部保养工具 > 洁面工具"
+  },
+  {
+    "category_id": 101661,
+    "full_path": "美妆保健 > 美容工具 > 脸部保养工具 > 瘦脸器与按摩工具"
+  },
+  {
+    "category_id": 101660,
+    "full_path": "美妆保健 > 美容工具 > 脸部保养工具 > 蒸脸机"
+  },
+  {
+    "category_id": 101659,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 削笔器"
+  },
+  {
+    "category_id": 101658,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 双眼皮贴与眼皮胶"
+  },
+  {
+    "category_id": 101657,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 假睫毛"
+  },
+  {
+    "category_id": 101656,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 画眉卡"
+  },
+  {
+    "category_id": 101655,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 睫毛夹"
+  },
+  {
+    "category_id": 101654,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 美妆蛋与化妆海绵"
+  },
+  {
+    "category_id": 101653,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 化妆刷"
+  },
+  {
+    "category_id": 101652,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 化妆刷清洁剂"
+  },
+  {
+    "category_id": 101651,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 化妆镜"
+  },
+  {
+    "category_id": 101650,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 化妆包与收纳袋"
+  },
+  {
+    "category_id": 101649,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 化妆棉与棉花棒"
+  },
+  {
+    "category_id": 101648,
+    "full_path": "美妆保健 > 美容工具 > 化妆工具 > 其他"
+  },
+  {
+    "category_id": 100884,
+    "full_path": "美妆保健 > 化妆品 > 卸妆用品"
+  },
+  {
+    "category_id": 101647,
+    "full_path": "美妆保健 > 化妆品 > 唇部 > 其他"
+  },
+  {
+    "category_id": 101646,
+    "full_path": "美妆保健 > 化妆品 > 唇部 > 唇彩"
+  },
+  {
+    "category_id": 101645,
+    "full_path": "美妆保健 > 化妆品 > 唇部 > 唇釉"
+  },
+  {
+    "category_id": 101644,
+    "full_path": "美妆保健 > 化妆品 > 唇部 > 唇线笔"
+  },
+  {
+    "category_id": 101643,
+    "full_path": "美妆保健 > 化妆品 > 唇部 > 唇蜜"
+  },
+  {
+    "category_id": 101642,
+    "full_path": "美妆保健 > 化妆品 > 唇部 > 口红"
+  },
+  {
+    "category_id": 101641,
+    "full_path": "美妆保健 > 化妆品 > 眼部 > 其他"
+  },
+  {
+    "category_id": 101640,
+    "full_path": "美妆保健 > 化妆品 > 眼部 > 眉笔、眉粉"
+  },
+  {
+    "category_id": 101639,
+    "full_path": "美妆保健 > 化妆品 > 眼部 > 睫毛膏"
+  },
+  {
+    "category_id": 101638,
+    "full_path": "美妆保健 > 化妆品 > 眼部 > 眼线"
+  },
+  {
+    "category_id": 101637,
+    "full_path": "美妆保健 > 化妆品 > 眼部 > 眼部打底"
+  },
+  {
+    "category_id": 101636,
+    "full_path": "美妆保健 > 化妆品 > 眼部 > 眼影"
+  },
+  {
+    "category_id": 101635,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 其他"
+  },
+  {
+    "category_id": 101634,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 腮红"
+  },
+  {
+    "category_id": 101633,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 定妆喷雾"
+  },
+  {
+    "category_id": 101632,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 高光与修容"
+  },
+  {
+    "category_id": 101631,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 遮瑕"
+  },
+  {
+    "category_id": 101630,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 蜜粉"
+  },
+  {
+    "category_id": 101629,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > BB霜与CC霜"
+  },
+  {
+    "category_id": 101628,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 粉底"
+  },
+  {
+    "category_id": 101627,
+    "full_path": "美妆保健 > 化妆品 > 脸部 > 妆前乳"
+  },
+  {
+    "category_id": 100880,
+    "full_path": "美妆保健 > 化妆品 > 其他"
+  },
+  {
+    "category_id": 100661,
+    "full_path": "美妆保健 > 香水"
+  },
+  {
+    "category_id": 100879,
+    "full_path": "美妆保健 > 男士保养 > 其他"
+  },
+  {
+    "category_id": 100878,
+    "full_path": "美妆保健 > 男士保养 > 头发护理"
+  },
+  {
+    "category_id": 101626,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 其他"
+  },
+  {
+    "category_id": 101625,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 剃须配件"
+  },
+  {
+    "category_id": 101624,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 修剪器、理发器与多功能刮胡刀"
+  },
+  {
+    "category_id": 101623,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 剃须刷"
+  },
+  {
+    "category_id": 101622,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 电动剃须刀"
+  },
+  {
+    "category_id": 101621,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 剃胡刀与剃胡刀片"
+  },
+  {
+    "category_id": 101620,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 刮胡泡"
+  },
+  {
+    "category_id": 101619,
+    "full_path": "美妆保健 > 男士保养 > 男士剃须与除毛用品 > 刮胡水"
+  },
+  {
+    "category_id": 101618,
+    "full_path": "美妆保健 > 男士保养 > 男士护肤品 > 其他"
+  },
+  {
+    "category_id": 101617,
+    "full_path": "美妆保健 > 男士保养 > 男士护肤品 > 男士保湿与护肤品"
+  },
+  {
+    "category_id": 101616,
+    "full_path": "美妆保健 > 男士保养 > 男士护肤品 > 男士洗面乳"
+  },
+  {
+    "category_id": 100875,
+    "full_path": "美妆保健 > 男士保养 > 男士沐浴与身体保养"
+  },
+  {
+    "category_id": 100874,
+    "full_path": "美妆保健 > 头发护理 > 其他"
+  },
+  {
+    "category_id": 100873,
+    "full_path": "美妆保健 > 头发护理 > 造型用品"
+  },
+  {
+    "category_id": 100872,
+    "full_path": "美妆保健 > 头发护理 > 护发素"
+  },
+  {
+    "category_id": 100871,
+    "full_path": "美妆保健 > 头发护理 > 护发用品"
+  },
+  {
+    "category_id": 100870,
+    "full_path": "美妆保健 > 头发护理 > 染发剂"
+  },
+  {
+    "category_id": 100869,
+    "full_path": "美妆保健 > 头发护理 > 洗发剂"
+  },
+  {
+    "category_id": 100868,
+    "full_path": "美妆保健 > 手足保养与美甲 > 其他"
+  },
+  {
+    "category_id": 102178,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 甲油胶"
+  },
+  {
+    "category_id": 102035,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 其他"
+  },
+  {
+    "category_id": 102034,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 美甲工具与设备"
+  },
+  {
+    "category_id": 102033,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 指甲贴纸"
+  },
+  {
+    "category_id": 102032,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 美甲贴片"
+  },
+  {
+    "category_id": 102031,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 美甲工具"
+  },
+  {
+    "category_id": 102030,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 卸甲工具"
+  },
+  {
+    "category_id": 102029,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 指甲油"
+  },
+  {
+    "category_id": 101615,
+    "full_path": "美妆保健 > 手足保养与美甲 > 指甲保养 > 底油与顶油"
+  },
+  {
+    "category_id": 101614,
+    "full_path": "美妆保健 > 手足保养与美甲 > 足部护理 > 其他"
+  },
+  {
+    "category_id": 101613,
+    "full_path": "美妆保健 > 手足保养与美甲 > 足部护理 > 护足霜、乳液与磨砂膏"
+  },
+  {
+    "category_id": 101612,
+    "full_path": "美妆保健 > 手足保养与美甲 > 足部护理 > 足膜"
+  },
+  {
+    "category_id": 101611,
+    "full_path": "美妆保健 > 手足保养与美甲 > 足部护理 > 足部除臭"
+  },
+  {
+    "category_id": 101610,
+    "full_path": "美妆保健 > 手足保养与美甲 > 手部保养 > 其他"
+  },
+  {
+    "category_id": 101609,
+    "full_path": "美妆保健 > 手足保养与美甲 > 手部保养 > 洗手液"
+  },
+  {
+    "category_id": 101608,
+    "full_path": "美妆保健 > 手足保养与美甲 > 手部保养 > 护手霜、乳液与磨砂膏"
+  },
+  {
+    "category_id": 101607,
+    "full_path": "美妆保健 > 手足保养与美甲 > 手部保养 > 手膜"
+  },
+  {
+    "category_id": 100673,
+    "full_path": "宠物 > 其他"
+  },
+  {
+    "category_id": 100944,
+    "full_path": "宠物 > 宠物保健 > 维他命与保健食品"
+  },
+  {
+    "category_id": 100943,
+    "full_path": "宠物 > 宠物保健 > 其他"
+  },
+  {
+    "category_id": 100942,
+    "full_path": "宠物 > 宠物保健 > 宠物医疗"
+  },
+  {
+    "category_id": 100941,
+    "full_path": "宠物 > 宠物保健 > 除蚤除虱"
+  },
+  {
+    "category_id": 100940,
+    "full_path": "宠物 > 宠物服饰与配件 > 其他"
+  },
+  {
+    "category_id": 100939,
+    "full_path": "宠物 > 宠物服饰与配件 > 帽子"
+  },
+  {
+    "category_id": 100938,
+    "full_path": "宠物 > 宠物服饰与配件 > 宠物发饰"
+  },
+  {
+    "category_id": 100937,
+    "full_path": "宠物 > 宠物服饰与配件 > 宠物眼镜"
+  },
+  {
+    "category_id": 100936,
+    "full_path": "宠物 > 宠物服饰与配件 > 颈部配件"
+  },
+  {
+    "category_id": 100935,
+    "full_path": "宠物 > 宠物服饰与配件 > 靴子、袜子与足部保护"
+  },
+  {
+    "category_id": 100934,
+    "full_path": "宠物 > 宠物服饰与配件 > 雨具"
+  },
+  {
+    "category_id": 100933,
+    "full_path": "宠物 > 宠物服饰与配件 > 宠物服饰"
+  },
+  {
+    "category_id": 100932,
+    "full_path": "宠物 > 宠物美容 > 其他"
+  },
+  {
+    "category_id": 100931,
+    "full_path": "宠物 > 宠物美容 > 指甲护理"
+  },
+  {
+    "category_id": 100930,
+    "full_path": "宠物 > 宠物美容 > 口腔护理"
+  },
+  {
+    "category_id": 100929,
+    "full_path": "宠物 > 宠物美容 > 毛发护理"
+  },
+  {
+    "category_id": 100928,
+    "full_path": "宠物 > 猫砂、宠物厕所 > 其他"
+  },
+  {
+    "category_id": 100927,
+    "full_path": "宠物 > 猫砂、宠物厕所 > 便袋与铲"
+  },
+  {
+    "category_id": 100926,
+    "full_path": "宠物 > 猫砂、宠物厕所 > 狗训练尿垫与盆"
+  },
+  {
+    "category_id": 100925,
+    "full_path": "宠物 > 猫砂、宠物厕所 > 宠物尿布"
+  },
+  {
+    "category_id": 100924,
+    "full_path": "宠物 > 猫砂、宠物厕所 > 小型宠物便盆与砂/木屑"
+  },
+  {
+    "category_id": 100923,
+    "full_path": "宠物 > 猫砂、宠物厕所 > 猫砂与猫砂盆"
+  },
+  {
+    "category_id": 100922,
+    "full_path": "宠物 > 宠物配件 > 其他"
+  },
+  {
+    "category_id": 100921,
+    "full_path": "宠物 > 宠物配件 > 水族设备"
+  },
+  {
+    "category_id": 101686,
+    "full_path": "宠物 > 宠物配件 > 宠物家具 > 其他"
+  },
+  {
+    "category_id": 101685,
+    "full_path": "宠物 > 宠物配件 > 宠物家具 > 抓板与柱"
+  },
+  {
+    "category_id": 101684,
+    "full_path": "宠物 > 宠物配件 > 宠物家具 > 笼子与箱"
+  },
+  {
+    "category_id": 101683,
+    "full_path": "宠物 > 宠物配件 > 宠物家具 > 居住配件"
+  },
+  {
+    "category_id": 101682,
+    "full_path": "宠物 > 宠物配件 > 宠物家具 > 小屋"
+  },
+  {
+    "category_id": 101681,
+    "full_path": "宠物 > 宠物配件 > 宠物家具 > 床与垫子"
+  },
+  {
+    "category_id": 101680,
+    "full_path": "宠物 > 宠物配件 > 宠物玩具 > 其他"
+  },
+  {
+    "category_id": 101679,
+    "full_path": "宠物 > 宠物配件 > 宠物玩具 > 鸟类玩具"
+  },
+  {
+    "category_id": 101678,
+    "full_path": "宠物 > 宠物配件 > 宠物玩具 > 小型宠物玩具"
+  },
+  {
+    "category_id": 101928,
+    "full_path": "宠物 > 宠物配件 > 宠物玩具 > 猫狗玩具 > 其他"
+  },
+  {
+    "category_id": 101927,
+    "full_path": "宠物 > 宠物配件 > 宠物玩具 > 猫狗玩具 > 飞盘"
+  },
+  {
+    "category_id": 101926,
+    "full_path": "宠物 > 宠物配件 > 宠物玩具 > 猫狗玩具 > 磨牙玩具和球类"
+  },
+  {
+    "category_id": 101925,
+    "full_path": "宠物 > 宠物配件 > 宠物玩具 > 猫狗玩具 > 逗猫、逗狗玩具"
+  },
+  {
+    "category_id": 100918,
+    "full_path": "宠物 > 宠物配件 > 牵引绳、项圈与嘴套"
+  },
+  {
+    "category_id": 100917,
+    "full_path": "宠物 > 宠物配件 > 旅行用品"
+  },
+  {
+    "category_id": 100916,
+    "full_path": "宠物 > 宠物配件 > 碗与喂食器"
+  },
+  {
+    "category_id": 100915,
+    "full_path": "宠物 > 宠物食品 > 其他"
+  },
+  {
+    "category_id": 100914,
+    "full_path": "宠物 > 宠物食品 > 两栖爬虫饲料"
+  },
+  {
+    "category_id": 100913,
+    "full_path": "宠物 > 宠物食品 > 鸟饲料"
+  },
+  {
+    "category_id": 100912,
+    "full_path": "宠物 > 宠物食品 > 水族饲料"
+  },
+  {
+    "category_id": 100911,
+    "full_path": "宠物 > 宠物食品 > 小型宠物零食"
+  },
+  {
+    "category_id": 100910,
+    "full_path": "宠物 > 宠物食品 > 小型宠物食品"
+  },
+  {
+    "category_id": 100909,
+    "full_path": "宠物 > 宠物食品 > 猫零食"
+  },
+  {
+    "category_id": 100908,
+    "full_path": "宠物 > 宠物食品 > 猫粮"
+  },
+  {
+    "category_id": 100907,
+    "full_path": "宠物 > 宠物食品 > 狗零食"
+  },
+  {
+    "category_id": 100906,
+    "full_path": "宠物 > 宠物食品 > 狗粮"
+  },
+  {
+    "category_id": 100686,
+    "full_path": "母婴 > 其他"
+  },
+  {
+    "category_id": 100685,
+    "full_path": "母婴 > 礼盒"
+  },
+  {
+    "category_id": 101015,
+    "full_path": "母婴 > 玩具 > 其他"
+  },
+  {
+    "category_id": 101014,
+    "full_path": "母婴 > 玩具 > 史莱姆与按压玩具"
+  },
+  {
+    "category_id": 101013,
+    "full_path": "母婴 > 玩具 > 玩具机器人"
+  },
+  {
+    "category_id": 102184,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > Educational Posters"
+  },
+  {
+    "category_id": 102182,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > Flash Cards"
+  },
+  {
+    "category_id": 101739,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 其他"
+  },
+  {
+    "category_id": 101738,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 玩具平板与玩具电脑"
+  },
+  {
+    "category_id": 101737,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 音乐玩具"
+  },
+  {
+    "category_id": 101736,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 拼图"
+  },
+  {
+    "category_id": 101735,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 几何玩具"
+  },
+  {
+    "category_id": 101734,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 科学玩具"
+  },
+  {
+    "category_id": 101733,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 数学玩具"
+  },
+  {
+    "category_id": 101732,
+    "full_path": "母婴 > 玩具 > 益智类玩具 > 美术与手工用具"
+  },
+  {
+    "category_id": 101731,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 其他"
+  },
+  {
+    "category_id": 101730,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 飞行玩具、风筝与风车"
+  },
+  {
+    "category_id": 101729,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 运动玩具"
+  },
+  {
+    "category_id": 101728,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 玩具枪"
+  },
+  {
+    "category_id": 101727,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 游泳池、水上玩具与沙滩玩具"
+  },
+  {
+    "category_id": 101726,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 帐篷、游戏隧道与波波池"
+  },
+  {
+    "category_id": 101725,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 充气玩具与滑梯"
+  },
+  {
+    "category_id": 101724,
+    "full_path": "母婴 > 玩具 > 运动与户外玩具 > 自行车、滑板车与骑乘类玩具"
+  },
+  {
+    "category_id": 101010,
+    "full_path": "母婴 > 玩具 > 玩具车、交通工具玩具"
+  },
+  {
+    "category_id": 101009,
+    "full_path": "母婴 > 玩具 > 过家家玩具"
+  },
+  {
+    "category_id": 101723,
+    "full_path": "母婴 > 玩具 > 娃娃与毛绒玩具 > 其他"
+  },
+  {
+    "category_id": 101722,
+    "full_path": "母婴 > 玩具 > 娃娃与毛绒玩具 > 毛绒玩具"
+  },
+  {
+    "category_id": 101721,
+    "full_path": "母婴 > 玩具 > 娃娃与毛绒玩具 > 娃娃屋与配件"
+  },
+  {
+    "category_id": 101720,
+    "full_path": "母婴 > 玩具 > 娃娃与毛绒玩具 > 娃娃与配件"
+  },
+  {
+    "category_id": 101007,
+    "full_path": "母婴 > 玩具 > 积木玩具"
+  },
+  {
+    "category_id": 101719,
+    "full_path": "母婴 > 玩具 > 婴儿与幼童玩具 > 其他"
+  },
+  {
+    "category_id": 101718,
+    "full_path": "母婴 > 玩具 > 婴儿与幼童玩具 > 牙胶"
+  },
+  {
+    "category_id": 101717,
+    "full_path": "母婴 > 玩具 > 婴儿与幼童玩具 > 婴儿床铃、摇铃"
+  },
+  {
+    "category_id": 101716,
+    "full_path": "母婴 > 玩具 > 婴儿与幼童玩具 > 洗澡玩具"
+  },
+  {
+    "category_id": 101715,
+    "full_path": "母婴 > 玩具 > 婴儿与幼童玩具 > 游戏围栏"
+  },
+  {
+    "category_id": 101714,
+    "full_path": "母婴 > 玩具 > 婴儿与幼童玩具 > 婴儿健身架与游戏垫"
+  },
+  {
+    "category_id": 101005,
+    "full_path": "母婴 > 尿布与坐便器 > 其他"
+  },
+  {
+    "category_id": 101004,
+    "full_path": "母婴 > 尿布与坐便器 > 布尿裤与配件"
+  },
+  {
+    "category_id": 101003,
+    "full_path": "母婴 > 尿布与坐便器 > 纸尿裤"
+  },
+  {
+    "category_id": 101002,
+    "full_path": "母婴 > 尿布与坐便器 > 如厕训练器及坐便器"
+  },
+  {
+    "category_id": 101001,
+    "full_path": "母婴 > 尿布与坐便器 > 隔尿垫、防水垫"
+  },
+  {
+    "category_id": 101000,
+    "full_path": "母婴 > 婴儿保健食品 > 其他"
+  },
+  {
+    "category_id": 100999,
+    "full_path": "母婴 > 婴儿保健食品 > 防晒"
+  },
+  {
+    "category_id": 100998,
+    "full_path": "母婴 > 婴儿保健食品 > 婴幼儿口腔护理用品"
+  },
+  {
+    "category_id": 101713,
+    "full_path": "母婴 > 婴儿保健食品 > 婴幼儿护肤品 > 其他"
+  },
+  {
+    "category_id": 101712,
+    "full_path": "母婴 > 婴儿保健食品 > 婴幼儿护肤品 > 爽身粉"
+  },
+  {
+    "category_id": 101711,
+    "full_path": "母婴 > 婴儿保健食品 > 婴幼儿护肤品 > 婴儿油"
+  },
+  {
+    "category_id": 101710,
+    "full_path": "母婴 > 婴儿保健食品 > 婴幼儿护肤品 > 乳液与乳霜"
+  },
+  {
+    "category_id": 100996,
+    "full_path": "母婴 > 婴儿保健食品 > 鼻腔护理用品"
+  },
+  {
+    "category_id": 100995,
+    "full_path": "母婴 > 婴儿保健食品 > 婴儿维生素与补品"
+  },
+  {
+    "category_id": 100994,
+    "full_path": "母婴 > 奶粉与婴儿食品 > 其他"
+  },
+  {
+    "category_id": 102070,
+    "full_path": "母婴 > 奶粉与婴儿食品 > 即饮牛奶"
+  },
+  {
+    "category_id": 100993,
+    "full_path": "母婴 > 奶粉与婴儿食品 > 宝宝零食"
+  },
+  {
+    "category_id": 100992,
+    "full_path": "母婴 > 奶粉与婴儿食品 > 婴幼儿副食"
+  },
+  {
+    "category_id": 100991,
+    "full_path": "母婴 > 奶粉与婴儿食品 > 奶粉"
+  },
+  {
+    "category_id": 100990,
+    "full_path": "母婴 > 婴幼儿居家防护用品 > 其他"
+  },
+  {
+    "category_id": 100989,
+    "full_path": "母婴 > 婴幼儿居家防护用品 > 安全锁"
+  },
+  {
+    "category_id": 100988,
+    "full_path": "母婴 > 婴幼儿居家防护用品 > 婴儿安全门、防护栏"
+  },
+  {
+    "category_id": 100987,
+    "full_path": "母婴 > 婴幼儿居家防护用品 > 防撞用品"
+  },
+  {
+    "category_id": 100986,
+    "full_path": "母婴 > 婴幼儿居家防护用品 > 床围、床护栏"
+  },
+  {
+    "category_id": 100985,
+    "full_path": "母婴 > 婴幼儿居家防护用品 > 蚊帐"
+  },
+  {
+    "category_id": 100984,
+    "full_path": "母婴 > 婴幼儿居家防护用品 > 儿童监视器"
+  },
+  {
+    "category_id": 100983,
+    "full_path": "母婴 > 婴幼童家具 > 其他"
+  },
+  {
+    "category_id": 100982,
+    "full_path": "母婴 > 婴幼童家具 > 收纳用品"
+  },
+  {
+    "category_id": 101709,
+    "full_path": "母婴 > 婴幼童家具 > 婴幼童床垫与寝具 > 其他"
+  },
+  {
+    "category_id": 101708,
+    "full_path": "母婴 > 婴幼童家具 > 婴幼童床垫与寝具 > 床单"
+  },
+  {
+    "category_id": 101707,
+    "full_path": "母婴 > 婴幼童家具 > 婴幼童床垫与寝具 > 枕头与抱枕"
+  },
+  {
+    "category_id": 101706,
+    "full_path": "母婴 > 婴幼童家具 > 婴幼童床垫与寝具 > 婴儿被、防踢被"
+  },
+  {
+    "category_id": 100980,
+    "full_path": "母婴 > 婴幼童家具 > 学步车"
+  },
+  {
+    "category_id": 100979,
+    "full_path": "母婴 > 婴幼童家具 > 摇椅与跳跳椅"
+  },
+  {
+    "category_id": 100978,
+    "full_path": "母婴 > 婴幼童家具 > 婴儿床、摇篮"
+  },
+  {
+    "category_id": 100977,
+    "full_path": "母婴 > 沐浴与护肤用品 > 其他"
+  },
+  {
+    "category_id": 100976,
+    "full_path": "母婴 > 沐浴与护肤用品 > 婴儿洗衣液"
+  },
+  {
+    "category_id": 100975,
+    "full_path": "母婴 > 沐浴与护肤用品 > 湿纸巾"
+  },
+  {
+    "category_id": 100974,
+    "full_path": "母婴 > 沐浴与护肤用品 > 婴幼儿护理工具"
+  },
+  {
+    "category_id": 100973,
+    "full_path": "母婴 > 沐浴与护肤用品 > 宝宝香水"
+  },
+  {
+    "category_id": 100972,
+    "full_path": "母婴 > 沐浴与护肤用品 > 洗发剂与沐浴露"
+  },
+  {
+    "category_id": 100971,
+    "full_path": "母婴 > 沐浴与护肤用品 > 洗澡用具与配件"
+  },
+  {
+    "category_id": 100970,
+    "full_path": "母婴 > 沐浴与护肤用品 > 浴帽"
+  },
+  {
+    "category_id": 100969,
+    "full_path": "母婴 > 沐浴与护肤用品 > 浴袍及浴巾"
+  },
+  {
+    "category_id": 100968,
+    "full_path": "母婴 > 沐浴与护肤用品 > 浴盆与浴座"
+  },
+  {
+    "category_id": 100967,
+    "full_path": "母婴 > 孕妇保健 > 其他"
+  },
+  {
+    "category_id": 100966,
+    "full_path": "母婴 > 孕妇保健 > 孕产妇洗护"
+  },
+  {
+    "category_id": 100965,
+    "full_path": "母婴 > 孕妇保健 > 孕期维生素及营养品"
+  },
+  {
+    "category_id": 100964,
+    "full_path": "母婴 > 孕妇保健 > 妈妈奶粉"
+  },
+  {
+    "category_id": 100963,
+    "full_path": "母婴 > 孕妇用品 > 其他"
+  },
+  {
+    "category_id": 100962,
+    "full_path": "母婴 > 孕妇用品 > 孕妇枕/护腰枕"
+  },
+  {
+    "category_id": 100961,
+    "full_path": "母婴 > 孕妇用品 > 托腹带、束腹带"
+  },
+  {
+    "category_id": 100960,
+    "full_path": "母婴 > 哺育必备品 > 其他"
+  },
+  {
+    "category_id": 100959,
+    "full_path": "母婴 > 哺育必备品 > 辅食料理机"
+  },
+  {
+    "category_id": 100958,
+    "full_path": "母婴 > 哺育必备品 > 奶嘴"
+  },
+  {
+    "category_id": 100957,
+    "full_path": "母婴 > 哺育必备品 > 围兜、口水巾"
+  },
+  {
+    "category_id": 101705,
+    "full_path": "母婴 > 哺育必备品 > 餐具 > 其他"
+  },
+  {
+    "category_id": 101704,
+    "full_path": "母婴 > 哺育必备品 > 餐具 > 婴儿食品容器"
+  },
+  {
+    "category_id": 101703,
+    "full_path": "母婴 > 哺育必备品 > 餐具 > 婴儿餐具"
+  },
+  {
+    "category_id": 101702,
+    "full_path": "母婴 > 哺育必备品 > 餐具 > 婴儿水杯、水壶"
+  },
+  {
+    "category_id": 100955,
+    "full_path": "母婴 > 哺育必备品 > 儿童用餐椅"
+  },
+  {
+    "category_id": 101701,
+    "full_path": "母婴 > 哺育必备品 > 哺乳用品 > 其他"
+  },
+  {
+    "category_id": 101700,
+    "full_path": "母婴 > 哺育必备品 > 哺乳用品 > 母乳保鲜袋"
+  },
+  {
+    "category_id": 101699,
+    "full_path": "母婴 > 哺育必备品 > 哺乳用品 > 哺乳巾"
+  },
+  {
+    "category_id": 101698,
+    "full_path": "母婴 > 哺育必备品 > 哺乳用品 > 溢乳垫，乳头保护器"
+  },
+  {
+    "category_id": 101697,
+    "full_path": "母婴 > 哺育必备品 > 哺乳用品 > 吸奶器及配件"
+  },
+  {
+    "category_id": 101696,
+    "full_path": "母婴 > 哺育必备品 > 奶瓶 > 其他"
+  },
+  {
+    "category_id": 101695,
+    "full_path": "母婴 > 哺育必备品 > 奶瓶 > 奶瓶消毒器"
+  },
+  {
+    "category_id": 101694,
+    "full_path": "母婴 > 哺育必备品 > 奶瓶 > 温奶器"
+  },
+  {
+    "category_id": 101693,
+    "full_path": "母婴 > 哺育必备品 > 奶瓶 > 奶瓶清洁用品"
+  },
+  {
+    "category_id": 101692,
+    "full_path": "母婴 > 哺育必备品 > 奶瓶 > 奶瓶与配件"
+  },
+  {
+    "category_id": 101691,
+    "full_path": "母婴 > 哺育必备品 > 奶瓶 > 奶瓶保温袋"
+  },
+  {
+    "category_id": 100952,
+    "full_path": "母婴 > 婴儿外出用品 > 其他"
+  },
+  {
+    "category_id": 100951,
+    "full_path": "母婴 > 婴儿外出用品 > 防走失用品"
+  },
+  {
+    "category_id": 100950,
+    "full_path": "母婴 > 婴儿外出用品 > 妈妈包"
+  },
+  {
+    "category_id": 100949,
+    "full_path": "母婴 > 婴儿外出用品 > 汽摩安全座椅配件"
+  },
+  {
+    "category_id": 100948,
+    "full_path": "母婴 > 婴儿外出用品 > 汽摩安全座椅"
+  },
+  {
+    "category_id": 100947,
+    "full_path": "母婴 > 婴儿外出用品 > 手推车配件"
+  },
+  {
+    "category_id": 100946,
+    "full_path": "母婴 > 婴儿外出用品 > 手推车"
+  },
+  {
+    "category_id": 100945,
+    "full_path": "母婴 > 婴儿外出用品 > 婴儿背带"
+  },
+  {
+    "category_id": 100694,
+    "full_path": "童装 > 其他"
+  },
+  {
+    "category_id": 101072,
+    "full_path": "童装 > 女童鞋 > 其他"
+  },
+  {
+    "category_id": 101071,
+    "full_path": "童装 > 女童鞋 > 平底鞋"
+  },
+  {
+    "category_id": 101070,
+    "full_path": "童装 > 女童鞋 > 人字拖"
+  },
+  {
+    "category_id": 101069,
+    "full_path": "童装 > 女童鞋 > 乐福鞋"
+  },
+  {
+    "category_id": 101068,
+    "full_path": "童装 > 女童鞋 > 运动鞋"
+  },
+  {
+    "category_id": 101067,
+    "full_path": "童装 > 女童鞋 > 凉鞋"
+  },
+  {
+    "category_id": 101066,
+    "full_path": "童装 > 女童鞋 > 靴子"
+  },
+  {
+    "category_id": 101065,
+    "full_path": "童装 > 男童鞋 > 其他"
+  },
+  {
+    "category_id": 101064,
+    "full_path": "童装 > 男童鞋 > 乐福鞋"
+  },
+  {
+    "category_id": 101063,
+    "full_path": "童装 > 男童鞋 > 皮鞋"
+  },
+  {
+    "category_id": 101062,
+    "full_path": "童装 > 男童鞋 > 人字拖"
+  },
+  {
+    "category_id": 101061,
+    "full_path": "童装 > 男童鞋 > 运动鞋"
+  },
+  {
+    "category_id": 101060,
+    "full_path": "童装 > 男童鞋 > 凉鞋"
+  },
+  {
+    "category_id": 101059,
+    "full_path": "童装 > 男童鞋 > 靴子"
+  },
+  {
+    "category_id": 101058,
+    "full_path": "童装 > 女童服装 > 其他"
+  },
+  {
+    "category_id": 101057,
+    "full_path": "童装 > 女童服装 > 套装"
+  },
+  {
+    "category_id": 101056,
+    "full_path": "童装 > 女童服装 > 连衣裙"
+  },
+  {
+    "category_id": 101055,
+    "full_path": "童装 > 女童服装 > 工装裤/背带裤"
+  },
+  {
+    "category_id": 101789,
+    "full_path": "童装 > 女童服装 > 下装 > 其他"
+  },
+  {
+    "category_id": 101788,
+    "full_path": "童装 > 女童服装 > 下装 > 紧身裤"
+  },
+  {
+    "category_id": 101787,
+    "full_path": "童装 > 女童服装 > 下装 > 裙子"
+  },
+  {
+    "category_id": 101786,
+    "full_path": "童装 > 女童服装 > 下装 > 短裤"
+  },
+  {
+    "category_id": 101785,
+    "full_path": "童装 > 女童服装 > 下装 > 裤子"
+  },
+  {
+    "category_id": 101784,
+    "full_path": "童装 > 女童服装 > 下装 > 牛仔裤"
+  },
+  {
+    "category_id": 101783,
+    "full_path": "童装 > 女童服装 > 外套 > 其他"
+  },
+  {
+    "category_id": 101782,
+    "full_path": "童装 > 女童服装 > 外套 > 连帽上衣"
+  },
+  {
+    "category_id": 101781,
+    "full_path": "童装 > 女童服装 > 外套 > 西装外套"
+  },
+  {
+    "category_id": 101780,
+    "full_path": "童装 > 女童服装 > 外套 > 针织外套、毛衣"
+  },
+  {
+    "category_id": 101779,
+    "full_path": "童装 > 女童服装 > 外套 > 马甲"
+  },
+  {
+    "category_id": 101778,
+    "full_path": "童装 > 女童服装 > 外套 > 冬装外套"
+  },
+  {
+    "category_id": 101777,
+    "full_path": "童装 > 女童服装 > 外套 > 外套与大衣"
+  },
+  {
+    "category_id": 101776,
+    "full_path": "童装 > 女童服装 > 上衣 > 其他"
+  },
+  {
+    "category_id": 101775,
+    "full_path": "童装 > 女童服装 > 上衣 > 衬衫"
+  },
+  {
+    "category_id": 101774,
+    "full_path": "童装 > 女童服装 > 上衣 > Polo衫"
+  },
+  {
+    "category_id": 101773,
+    "full_path": "童装 > 女童服装 > 上衣 > T恤"
+  },
+  {
+    "category_id": 101051,
+    "full_path": "童装 > 女童服装 > 泳衣"
+  },
+  {
+    "category_id": 101050,
+    "full_path": "童装 > 女童服装 > 睡衣"
+  },
+  {
+    "category_id": 101049,
+    "full_path": "童装 > 女童服装 > 内衣裤"
+  },
+  {
+    "category_id": 101048,
+    "full_path": "童装 > 女童服装 > 造型服装"
+  },
+  {
+    "category_id": 101047,
+    "full_path": "童装 > 男童服装 > 其他"
+  },
+  {
+    "category_id": 101046,
+    "full_path": "童装 > 男童服装 > 西装与套装"
+  },
+  {
+    "category_id": 101772,
+    "full_path": "童装 > 男童服装 > 下装 > 其他"
+  },
+  {
+    "category_id": 101771,
+    "full_path": "童装 > 男童服装 > 下装 > 工装裤/背带裤"
+  },
+  {
+    "category_id": 101770,
+    "full_path": "童装 > 男童服装 > 下装 > 短裤"
+  },
+  {
+    "category_id": 101769,
+    "full_path": "童装 > 男童服装 > 下装 > 裤子"
+  },
+  {
+    "category_id": 101768,
+    "full_path": "童装 > 男童服装 > 下装 > 牛仔裤"
+  },
+  {
+    "category_id": 101767,
+    "full_path": "童装 > 男童服装 > 外套 > 其他"
+  },
+  {
+    "category_id": 101766,
+    "full_path": "童装 > 男童服装 > 外套 > 连帽上衣"
+  },
+  {
+    "category_id": 101765,
+    "full_path": "童装 > 男童服装 > 外套 > 西装外套"
+  },
+  {
+    "category_id": 101764,
+    "full_path": "童装 > 男童服装 > 外套 > 针织外套、毛衣"
+  },
+  {
+    "category_id": 101763,
+    "full_path": "童装 > 男童服装 > 外套 > 马甲"
+  },
+  {
+    "category_id": 101762,
+    "full_path": "童装 > 男童服装 > 外套 > 冬装外套"
+  },
+  {
+    "category_id": 101761,
+    "full_path": "童装 > 男童服装 > 外套 > 外套与大衣"
+  },
+  {
+    "category_id": 101760,
+    "full_path": "童装 > 男童服装 > 上衣 > 其他"
+  },
+  {
+    "category_id": 101759,
+    "full_path": "童装 > 男童服装 > 上衣 > 衬衫"
+  },
+  {
+    "category_id": 101758,
+    "full_path": "童装 > 男童服装 > 上衣 > Polo衫"
+  },
+  {
+    "category_id": 101757,
+    "full_path": "童装 > 男童服装 > 上衣 > T恤"
+  },
+  {
+    "category_id": 101042,
+    "full_path": "童装 > 男童服装 > 泳装"
+  },
+  {
+    "category_id": 101041,
+    "full_path": "童装 > 男童服装 > 睡衣"
+  },
+  {
+    "category_id": 101040,
+    "full_path": "童装 > 男童服装 > 内衣裤"
+  },
+  {
+    "category_id": 101039,
+    "full_path": "童装 > 男童服装 > 造型服装"
+  },
+  {
+    "category_id": 101038,
+    "full_path": "童装 > 婴儿与儿童配饰 > 其他"
+  },
+  {
+    "category_id": 101037,
+    "full_path": "童装 > 婴儿与儿童配饰 > 耳罩"
+  },
+  {
+    "category_id": 101756,
+    "full_path": "童装 > 婴儿与儿童配饰 > 雨具 > 其他"
+  },
+  {
+    "category_id": 101755,
+    "full_path": "童装 > 婴儿与儿童配饰 > 雨具 > 雨靴"
+  },
+  {
+    "category_id": 101754,
+    "full_path": "童装 > 婴儿与儿童配饰 > 雨具 > 雨衣"
+  },
+  {
+    "category_id": 101753,
+    "full_path": "童装 > 婴儿与儿童配饰 > 饰品 > 其他"
+  },
+  {
+    "category_id": 101752,
+    "full_path": "童装 > 婴儿与儿童配饰 > 饰品 > 戒指"
+  },
+  {
+    "category_id": 101751,
+    "full_path": "童装 > 婴儿与儿童配饰 > 饰品 > 项链"
+  },
+  {
+    "category_id": 101750,
+    "full_path": "童装 > 婴儿与儿童配饰 > 饰品 > 耳环"
+  },
+  {
+    "category_id": 101749,
+    "full_path": "童装 > 婴儿与儿童配饰 > 饰品 > 手链"
+  },
+  {
+    "category_id": 101034,
+    "full_path": "童装 > 婴儿与儿童配饰 > 手表"
+  },
+  {
+    "category_id": 101033,
+    "full_path": "童装 > 婴儿与儿童配饰 > 围巾"
+  },
+  {
+    "category_id": 101032,
+    "full_path": "童装 > 婴儿与儿童配饰 > 袜子"
+  },
+  {
+    "category_id": 101031,
+    "full_path": "童装 > 婴儿与儿童配饰 > 皮带"
+  },
+  {
+    "category_id": 101030,
+    "full_path": "童装 > 婴儿与儿童配饰 > 手套"
+  },
+  {
+    "category_id": 101029,
+    "full_path": "童装 > 婴儿与儿童配饰 > 发饰"
+  },
+  {
+    "category_id": 101028,
+    "full_path": "童装 > 婴儿与儿童配饰 > 眼镜、太阳眼镜"
+  },
+  {
+    "category_id": 101027,
+    "full_path": "童装 > 婴儿与儿童配饰 > 帽子"
+  },
+  {
+    "category_id": 101748,
+    "full_path": "童装 > 婴儿与儿童配饰 > 包与行李箱 > 其他"
+  },
+  {
+    "category_id": 101747,
+    "full_path": "童装 > 婴儿与儿童配饰 > 包与行李箱 > 钱包"
+  },
+  {
+    "category_id": 101746,
+    "full_path": "童装 > 婴儿与儿童配饰 > 包与行李箱 > 拉杆包"
+  },
+  {
+    "category_id": 101745,
+    "full_path": "童装 > 婴儿与儿童配饰 > 包与行李箱 > 斜挎包、单肩包"
+  },
+  {
+    "category_id": 101744,
+    "full_path": "童装 > 婴儿与儿童配饰 > 包与行李箱 > 背包"
+  },
+  {
+    "category_id": 100688,
+    "full_path": "童装 > 婴儿护手与脚套"
+  },
+  {
+    "category_id": 101025,
+    "full_path": "童装 > 婴儿服装 > 其他"
+  },
+  {
+    "category_id": 101024,
+    "full_path": "童装 > 婴儿服装 > 泳装"
+  },
+  {
+    "category_id": 101023,
+    "full_path": "童装 > 婴儿服装 > 套装"
+  },
+  {
+    "category_id": 101022,
+    "full_path": "童装 > 婴儿服装 > 连体衣与连身长裤"
+  },
+  {
+    "category_id": 101021,
+    "full_path": "童装 > 婴儿服装 > 上衣"
+  },
+  {
+    "category_id": 101020,
+    "full_path": "童装 > 婴儿服装 > 睡衣"
+  },
+  {
+    "category_id": 101743,
+    "full_path": "童装 > 婴儿服装 > 下装 > 其他"
+  },
+  {
+    "category_id": 101742,
+    "full_path": "童装 > 婴儿服装 > 下装 > 裙子"
+  },
+  {
+    "category_id": 101741,
+    "full_path": "童装 > 婴儿服装 > 下装 > 短裤"
+  },
+  {
+    "category_id": 101740,
+    "full_path": "童装 > 婴儿服装 > 下装 > 长裤、紧身裤"
+  },
+  {
+    "category_id": 101018,
+    "full_path": "童装 > 婴儿服装 > 连衣裙"
+  },
+  {
+    "category_id": 101017,
+    "full_path": "童装 > 婴儿服装 > 冬装外套"
+  },
+  {
+    "category_id": 101016,
+    "full_path": "童装 > 婴儿服装 > 外套"
+  },
+  {
+    "category_id": 100698,
+    "full_path": "游戏电玩 > 其他"
+  },
+  {
+    "category_id": 101091,
+    "full_path": "游戏电玩 > 游戏软件 > 其他"
+  },
+  {
+    "category_id": 101090,
+    "full_path": "游戏电玩 > 游戏软件 > 电脑游戏"
+  },
+  {
+    "category_id": 101089,
+    "full_path": "游戏电玩 > 游戏软件 > PSP"
+  },
+  {
+    "category_id": 101088,
+    "full_path": "游戏电玩 > 游戏软件 > PS Vita"
+  },
+  {
+    "category_id": 101087,
+    "full_path": "游戏电玩 > 游戏软件 > Switch"
+  },
+  {
+    "category_id": 101086,
+    "full_path": "游戏电玩 > 游戏软件 > Gameboy"
+  },
+  {
+    "category_id": 101085,
+    "full_path": "游戏电玩 > 游戏软件 > Nintendo DS"
+  },
+  {
+    "category_id": 101084,
+    "full_path": "游戏电玩 > 游戏软件 > Wii"
+  },
+  {
+    "category_id": 101083,
+    "full_path": "游戏电玩 > 游戏软件 > Xbox"
+  },
+  {
+    "category_id": 101082,
+    "full_path": "游戏电玩 > 游戏软件 > Playstation"
+  },
+  {
+    "category_id": 100696,
+    "full_path": "游戏电玩 > 主机配件"
+  },
+  {
+    "category_id": 101081,
+    "full_path": "游戏电玩 > 游戏机 > 其他"
+  },
+  {
+    "category_id": 101080,
+    "full_path": "游戏电玩 > 游戏机 > PSP"
+  },
+  {
+    "category_id": 101079,
+    "full_path": "游戏电玩 > 游戏机 > PS Vita"
+  },
+  {
+    "category_id": 101078,
+    "full_path": "游戏电玩 > 游戏机 > Switch"
+  },
+  {
+    "category_id": 101077,
+    "full_path": "游戏电玩 > 游戏机 > Gameboy"
+  },
+  {
+    "category_id": 101076,
+    "full_path": "游戏电玩 > 游戏机 > Nintendo DS"
+  },
+  {
+    "category_id": 101075,
+    "full_path": "游戏电玩 > 游戏机 > Wii"
+  },
+  {
+    "category_id": 101074,
+    "full_path": "游戏电玩 > 游戏机 > Xbox"
+  },
+  {
+    "category_id": 101073,
+    "full_path": "游戏电玩 > 游戏机 > Playstation"
+  },
+  {
+    "category_id": 100707,
+    "full_path": "摄影摄像 > 其他"
+  },
+  {
+    "category_id": 100706,
+    "full_path": "摄影摄像 > 无人机配件"
+  },
+  {
+    "category_id": 100705,
+    "full_path": "摄影摄像 > 无人机"
+  },
+  {
+    "category_id": 101126,
+    "full_path": "摄影摄像 > 相机护理 > 其他"
+  },
+  {
+    "category_id": 101125,
+    "full_path": "摄影摄像 > 相机护理 > 镜头笔 / 镜头刷"
+  },
+  {
+    "category_id": 101124,
+    "full_path": "摄影摄像 > 相机护理 > 吹尘器"
+  },
+  {
+    "category_id": 101123,
+    "full_path": "摄影摄像 > 相机护理 > 干燥剂"
+  },
+  {
+    "category_id": 101122,
+    "full_path": "摄影摄像 > 相机护理 > 清洁套件"
+  },
+  {
+    "category_id": 101121,
+    "full_path": "摄影摄像 > 相机护理 > 防潮箱 / 防潮柜"
+  },
+  {
+    "category_id": 101120,
+    "full_path": "摄影摄像 > 相机配件 > 其他"
+  },
+  {
+    "category_id": 101119,
+    "full_path": "摄影摄像 > 相机配件 > 三脚架 / 单脚架 / 配件"
+  },
+  {
+    "category_id": 101118,
+    "full_path": "摄影摄像 > 相机配件 > 电池 / 电池手柄"
+  },
+  {
+    "category_id": 101117,
+    "full_path": "摄影摄像 > 相机配件 > 充电器"
+  },
+  {
+    "category_id": 101116,
+    "full_path": "摄影摄像 > 相机配件 > 相机套 / 相机包"
+  },
+  {
+    "category_id": 101115,
+    "full_path": "摄影摄像 > 相机配件 > 照片打印机"
+  },
+  {
+    "category_id": 101114,
+    "full_path": "摄影摄像 > 相机配件 > 胶卷及相纸"
+  },
+  {
+    "category_id": 101113,
+    "full_path": "摄影摄像 > 相机配件 > 闪光灯 & 影棚器材"
+  },
+  {
+    "category_id": 101112,
+    "full_path": "摄影摄像 > 相机配件 > 云台"
+  },
+  {
+    "category_id": 102023,
+    "full_path": "摄影摄像 > 相机配件 > 闪光灯配件 > 其他"
+  },
+  {
+    "category_id": 102022,
+    "full_path": "摄影摄像 > 相机配件 > 闪光灯配件 > 闪光罩"
+  },
+  {
+    "category_id": 102021,
+    "full_path": "摄影摄像 > 相机配件 > 闪光灯配件 > 引闪器"
+  },
+  {
+    "category_id": 101110,
+    "full_path": "摄影摄像 > 相机配件 > 闪光灯"
+  },
+  {
+    "category_id": 101109,
+    "full_path": "摄影摄像 > 镜头配件 > 其他"
+  },
+  {
+    "category_id": 101108,
+    "full_path": "摄影摄像 > 镜头配件 > 遮光罩"
+  },
+  {
+    "category_id": 101107,
+    "full_path": "摄影摄像 > 镜头配件 > 滤镜"
+  },
+  {
+    "category_id": 101106,
+    "full_path": "摄影摄像 > 镜头配件 > 镜头盖"
+  },
+  {
+    "category_id": 101105,
+    "full_path": "摄影摄像 > 镜头配件 > 镜头接口 & 转接器"
+  },
+  {
+    "category_id": 100701,
+    "full_path": "摄影摄像 > 镜头"
+  },
+  {
+    "category_id": 101104,
+    "full_path": "摄影摄像 > 监控摄像头与安保系统 > 其他"
+  },
+  {
+    "category_id": 101103,
+    "full_path": "摄影摄像 > 监控摄像头与安保系统 > 针孔摄像机"
+  },
+  {
+    "category_id": 101102,
+    "full_path": "摄影摄像 > 监控摄像头与安保系统 > 伪装监控摄像机"
+  },
+  {
+    "category_id": 101101,
+    "full_path": "摄影摄像 > 监控摄像头与安保系统 > 数码录像机"
+  },
+  {
+    "category_id": 101100,
+    "full_path": "摄影摄像 > 监控摄像头与安保系统 > 监控摄像头"
+  },
+  {
+    "category_id": 101099,
+    "full_path": "摄影摄像 > 相机 > 其他"
+  },
+  {
+    "category_id": 101098,
+    "full_path": "摄影摄像 > 相机 > 单反相机"
+  },
+  {
+    "category_id": 101097,
+    "full_path": "摄影摄像 > 相机 > 胶片相机"
+  },
+  {
+    "category_id": 101096,
+    "full_path": "摄影摄像 > 相机 > 拍立得相机"
+  },
+  {
+    "category_id": 101095,
+    "full_path": "摄影摄像 > 相机 > 摄影机"
+  },
+  {
+    "category_id": 101094,
+    "full_path": "摄影摄像 > 相机 > 运动相机"
+  },
+  {
+    "category_id": 101093,
+    "full_path": "摄影摄像 > 相机 > 微单（无反）相机"
+  },
+  {
+    "category_id": 101092,
+    "full_path": "摄影摄像 > 相机 > 全自动数码相机"
+  },
+  {
+    "category_id": 100724,
+    "full_path": "家居生活 > 其他"
+  },
+  {
+    "category_id": 100723,
+    "full_path": "家居生活 > 风水与宗教商品"
+  },
+  {
+    "category_id": 101270,
+    "full_path": "家居生活 > 派对用品 > 其他"
+  },
+  {
+    "category_id": 101269,
+    "full_path": "家居生活 > 派对用品 > 肩带"
+  },
+  {
+    "category_id": 101268,
+    "full_path": "家居生活 > 派对用品 > 派对帽与面具"
+  },
+  {
+    "category_id": 101267,
+    "full_path": "家居生活 > 派对用品 > 一次性餐具"
+  },
+  {
+    "category_id": 101266,
+    "full_path": "家居生活 > 派对用品 > 卡片"
+  },
+  {
+    "category_id": 101265,
+    "full_path": "家居生活 > 派对用品 > 活动背板与横幅"
+  },
+  {
+    "category_id": 101264,
+    "full_path": "家居生活 > 派对用品 > 木夹子"
+  },
+  {
+    "category_id": 101263,
+    "full_path": "家居生活 > 派对用品 > 气球"
+  },
+  {
+    "category_id": 101262,
+    "full_path": "家居生活 > 居家收纳 > 其他"
+  },
+  {
+    "category_id": 101261,
+    "full_path": "家居生活 > 居家收纳 > 纸巾盒"
+  },
+  {
+    "category_id": 101260,
+    "full_path": "家居生活 > 居家收纳 > 首饰收纳"
+  },
+  {
+    "category_id": 101259,
+    "full_path": "家居生活 > 居家收纳 > 衣橱收纳"
+  },
+  {
+    "category_id": 101258,
+    "full_path": "家居生活 > 居家收纳 > 桌上收纳"
+  },
+  {
+    "category_id": 101257,
+    "full_path": "家居生活 > 居家收纳 > 洗衣袋与洗衣篮"
+  },
+  {
+    "category_id": 101256,
+    "full_path": "家居生活 > 居家收纳 > 挂钩"
+  },
+  {
+    "category_id": 101255,
+    "full_path": "家居生活 > 居家收纳 > 鞋盒"
+  },
+  {
+    "category_id": 101254,
+    "full_path": "家居生活 > 居家收纳 > 收纳盒、收纳包与篮子"
+  },
+  {
+    "category_id": 101253,
+    "full_path": "家居生活 > 居家收纳 > 衣架与衣夹"
+  },
+  {
+    "category_id": 101252,
+    "full_path": "家居生活 > 居家防盗 > 其他"
+  },
+  {
+    "category_id": 101251,
+    "full_path": "家居生活 > 居家防盗 > 门五金及门锁"
+  },
+  {
+    "category_id": 101250,
+    "full_path": "家居生活 > 居家防盗 > 消防器材"
+  },
+  {
+    "category_id": 101249,
+    "full_path": "家居生活 > 居家防盗 > 保险箱"
+  },
+  {
+    "category_id": 100719,
+    "full_path": "家居生活 > 灯具"
+  },
+  {
+    "category_id": 101248,
+    "full_path": "家居生活 > 餐饮用品 > 其他"
+  },
+  {
+    "category_id": 101247,
+    "full_path": "家居生活 > 餐饮用品 > 餐垫与杯垫"
+  },
+  {
+    "category_id": 101246,
+    "full_path": "家居生活 > 餐饮用品 > 食物罩"
+  },
+  {
+    "category_id": 101245,
+    "full_path": "家居生活 > 餐饮用品 > 吸管"
+  },
+  {
+    "category_id": 101244,
+    "full_path": "家居生活 > 餐饮用品 > 餐具"
+  },
+  {
+    "category_id": 101243,
+    "full_path": "家居生活 > 餐饮用品 > 盘子"
+  },
+  {
+    "category_id": 101242,
+    "full_path": "家居生活 > 餐饮用品 > 碗"
+  },
+  {
+    "category_id": 101241,
+    "full_path": "家居生活 > 餐饮用品 > 水瓶与配件"
+  },
+  {
+    "category_id": 101240,
+    "full_path": "家居生活 > 餐饮用品 > 水杯、马克杯与玻璃杯"
+  },
+  {
+    "category_id": 101239,
+    "full_path": "家居生活 > 餐饮用品 > 茶壶与茶具"
+  },
+  {
+    "category_id": 101238,
+    "full_path": "家居生活 > 餐饮用品 > 保温壶、水壶与配件"
+  },
+  {
+    "category_id": 101237,
+    "full_path": "家居生活 > 厨具 > 其他"
+  },
+  {
+    "category_id": 101236,
+    "full_path": "家居生活 > 厨具 > 打火机与火柴"
+  },
+  {
+    "category_id": 101235,
+    "full_path": "家居生活 > 厨具 > 封口机"
+  },
+  {
+    "category_id": 101234,
+    "full_path": "家居生活 > 厨具 > 厨房秤"
+  },
+  {
+    "category_id": 101233,
+    "full_path": "家居生活 > 厨具 > 磨碎器、削皮器、切菜机"
+  },
+  {
+    "category_id": 101232,
+    "full_path": "家居生活 > 厨具 > 过滤器"
+  },
+  {
+    "category_id": 101231,
+    "full_path": "家居生活 > 厨具 > 量杯与量匙"
+  },
+  {
+    "category_id": 101230,
+    "full_path": "家居生活 > 厨具 > 开罐与开瓶器"
+  },
+  {
+    "category_id": 101229,
+    "full_path": "家居生活 > 厨具 > 打蛋器与搅拌器"
+  },
+  {
+    "category_id": 101228,
+    "full_path": "家居生活 > 厨具 > 刀具与料理剪刀"
+  },
+  {
+    "category_id": 101227,
+    "full_path": "家居生活 > 厨具 > 砧板"
+  },
+  {
+    "category_id": 101226,
+    "full_path": "家居生活 > 厨具 > 锅铲与食物夹"
+  },
+  {
+    "category_id": 101225,
+    "full_path": "家居生活 > 厨具 > 围裙与隔热手套"
+  },
+  {
+    "category_id": 101224,
+    "full_path": "家居生活 > 厨具 > 厨房置物架"
+  },
+  {
+    "category_id": 101223,
+    "full_path": "家居生活 > 厨具 > 茶、咖啡、调酒用品"
+  },
+  {
+    "category_id": 101222,
+    "full_path": "家居生活 > 厨具 > 锡纸"
+  },
+  {
+    "category_id": 101221,
+    "full_path": "家居生活 > 厨具 > 保鲜膜"
+  },
+  {
+    "category_id": 101220,
+    "full_path": "家居生活 > 厨具 > 保鲜盒"
+  },
+  {
+    "category_id": 101219,
+    "full_path": "家居生活 > 厨具 > 蒸煮锅具"
+  },
+  {
+    "category_id": 101218,
+    "full_path": "家居生活 > 厨具 > 炒锅与平底锅"
+  },
+  {
+    "category_id": 101217,
+    "full_path": "家居生活 > 厨具 > 烘培用具与装饰"
+  },
+  {
+    "category_id": 101216,
+    "full_path": "家居生活 > 厨具 > 烤架与配件"
+  },
+  {
+    "category_id": 101215,
+    "full_path": "家居生活 > 居家日用品 > 其他"
+  },
+  {
+    "category_id": 101815,
+    "full_path": "家居生活 > 居家日用品 > 洗衣清洁剂 > 其他"
+  },
+  {
+    "category_id": 101814,
+    "full_path": "家居生活 > 居家日用品 > 洗衣清洁剂 > 洗衣粉、洗衣液"
+  },
+  {
+    "category_id": 101813,
+    "full_path": "家居生活 > 居家日用品 > 洗衣清洁剂 > 衣物柔软剂"
+  },
+  {
+    "category_id": 101812,
+    "full_path": "家居生活 > 居家日用品 > 洗衣清洁剂 > 洗衣护理"
+  },
+  {
+    "category_id": 101213,
+    "full_path": "家居生活 > 居家日用品 > 家用清洁剂"
+  },
+  {
+    "category_id": 101212,
+    "full_path": "家居生活 > 居家日用品 > 厕纸"
+  },
+  {
+    "category_id": 101211,
+    "full_path": "家居生活 > 居家日用品 > 卫生纸、厨房纸巾"
+  },
+  {
+    "category_id": 101210,
+    "full_path": "家居生活 > 居家日用品 > 防虫及防草"
+  },
+  {
+    "category_id": 101209,
+    "full_path": "家居生活 > 居家日用品 > 抹布"
+  },
+  {
+    "category_id": 101208,
+    "full_path": "家居生活 > 居家日用品 > 塑料袋与垃圾袋"
+  },
+  {
+    "category_id": 101207,
+    "full_path": "家居生活 > 居家日用品 > 垃圾桶"
+  },
+  {
+    "category_id": 101206,
+    "full_path": "家居生活 > 居家日用品 > 海绵与百洁布"
+  },
+  {
+    "category_id": 101205,
+    "full_path": "家居生活 > 居家日用品 > 脸盆、水桶与水瓢"
+  },
+  {
+    "category_id": 101204,
+    "full_path": "家居生活 > 居家日用品 > 拖把"
+  },
+  {
+    "category_id": 101203,
+    "full_path": "家居生活 > 居家日用品 > 除尘掸"
+  },
+  {
+    "category_id": 101202,
+    "full_path": "家居生活 > 居家日用品 > 扫把"
+  },
+  {
+    "category_id": 101201,
+    "full_path": "家居生活 > 居家日用品 > 清洁刷"
+  },
+  {
+    "category_id": 101200,
+    "full_path": "家居生活 > 居家日用品 > 晒衣绳与晒衣架"
+  },
+  {
+    "category_id": 101199,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 其他"
+  },
+  {
+    "category_id": 101198,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 门与窗"
+  },
+  {
+    "category_id": 101197,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 建筑材料"
+  },
+  {
+    "category_id": 101196,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 遮阳棚与防水布"
+  },
+  {
+    "category_id": 101195,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 手推车"
+  },
+  {
+    "category_id": 101194,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具梯"
+  },
+  {
+    "category_id": 101193,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 气泵、零件与配件"
+  },
+  {
+    "category_id": 101192,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 水泵、零件与配件"
+  },
+  {
+    "category_id": 101811,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 其他"
+  },
+  {
+    "category_id": 101810,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 鼓风机"
+  },
+  {
+    "category_id": 101809,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 焊接工具"
+  },
+  {
+    "category_id": 101808,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 砂纸，磨光机与配件"
+  },
+  {
+    "category_id": 101807,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 空气压缩机"
+  },
+  {
+    "category_id": 101806,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 测距仪"
+  },
+  {
+    "category_id": 101805,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 水平仪与测距轮"
+  },
+  {
+    "category_id": 101804,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 测电表与万用表"
+  },
+  {
+    "category_id": 101803,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 发电机"
+  },
+  {
+    "category_id": 101802,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 高压清洗机"
+  },
+  {
+    "category_id": 101801,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 电锯、切割机与砂轮机"
+  },
+  {
+    "category_id": 101800,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 电钻，螺丝刀与配件"
+  },
+  {
+    "category_id": 101799,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 钉子、螺丝与紧固件"
+  },
+  {
+    "category_id": 101798,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 钳子"
+  },
+  {
+    "category_id": 101797,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 锤子"
+  },
+  {
+    "category_id": 101796,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 扳手套装"
+  },
+  {
+    "category_id": 101795,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 测量卷尺"
+  },
+  {
+    "category_id": 101794,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 工具 > 工具箱"
+  },
+  {
+    "category_id": 101190,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 油漆与涂料"
+  },
+  {
+    "category_id": 101189,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 屋顶砖与地板砖"
+  },
+  {
+    "category_id": 101188,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 水槽与水龙头"
+  },
+  {
+    "category_id": 101187,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 防护手套、护目镜和面罩"
+  },
+  {
+    "category_id": 101186,
+    "full_path": "家居生活 > 五金工具与家居修缮 > 黏接、修补胶带"
+  },
+  {
+    "category_id": 101185,
+    "full_path": "家居生活 > 园艺 > 割草机"
+  },
+  {
+    "category_id": 101184,
+    "full_path": "家居生活 > 园艺 > 其他"
+  },
+  {
+    "category_id": 101183,
+    "full_path": "家居生活 > 园艺 > 园艺工具"
+  },
+  {
+    "category_id": 101182,
+    "full_path": "家居生活 > 园艺 > 灌溉系统"
+  },
+  {
+    "category_id": 101181,
+    "full_path": "家居生活 > 园艺 > 花盆"
+  },
+  {
+    "category_id": 101180,
+    "full_path": "家居生活 > 园艺 > 种子与花苗"
+  },
+  {
+    "category_id": 101179,
+    "full_path": "家居生活 > 园艺 > 肥料"
+  },
+  {
+    "category_id": 101178,
+    "full_path": "家居生活 > 园艺 > 园艺土壤"
+  },
+  {
+    "category_id": 101177,
+    "full_path": "家居生活 > 园艺 > 园艺装饰"
+  },
+  {
+    "category_id": 101176,
+    "full_path": "家居生活 > 园艺 > 植物与盆栽"
+  },
+  {
+    "category_id": 101175,
+    "full_path": "家居生活 > 家具 > 其他"
+  },
+  {
+    "category_id": 101174,
+    "full_path": "家居生活 > 家具 > 架子与置物架"
+  },
+  {
+    "category_id": 101173,
+    "full_path": "家居生活 > 家具 > 橱柜与壁橱"
+  },
+  {
+    "category_id": 101172,
+    "full_path": "家居生活 > 家具 > 沙发"
+  },
+  {
+    "category_id": 101171,
+    "full_path": "家居生活 > 家具 > 椅子与凳子"
+  },
+  {
+    "category_id": 101170,
+    "full_path": "家居生活 > 家具 > 衣橱"
+  },
+  {
+    "category_id": 101169,
+    "full_path": "家居生活 > 家具 > 桌子"
+  },
+  {
+    "category_id": 101168,
+    "full_path": "家居生活 > 家具 > 床架与床头板"
+  },
+  {
+    "category_id": 101167,
+    "full_path": "家居生活 > 家具 > 门挡"
+  },
+  {
+    "category_id": 101166,
+    "full_path": "家居生活 > 家具 > 靠垫"
+  },
+  {
+    "category_id": 100712,
+    "full_path": "家居生活 > 暖手包，热水袋与冰袋"
+  },
+  {
+    "category_id": 101165,
+    "full_path": "家居生活 > 装饰 > 其他"
+  },
+  {
+    "category_id": 101164,
+    "full_path": "家居生活 > 装饰 > 桌布"
+  },
+  {
+    "category_id": 101163,
+    "full_path": "家居生活 > 装饰 > 镜子"
+  },
+  {
+    "category_id": 101162,
+    "full_path": "家居生活 > 装饰 > 蜡烛与烛台"
+  },
+  {
+    "category_id": 101161,
+    "full_path": "家居生活 > 装饰 > 花瓶"
+  },
+  {
+    "category_id": 101160,
+    "full_path": "家居生活 > 装饰 > 地毯"
+  },
+  {
+    "category_id": 101159,
+    "full_path": "家居生活 > 装饰 > 地毯/地垫"
+  },
+  {
+    "category_id": 101158,
+    "full_path": "家居生活 > 装饰 > 时钟"
+  },
+  {
+    "category_id": 101157,
+    "full_path": "家居生活 > 装饰 > 墙纸与窗贴"
+  },
+  {
+    "category_id": 101156,
+    "full_path": "家居生活 > 装饰 > 相框与墙壁装饰"
+  },
+  {
+    "category_id": 101155,
+    "full_path": "家居生活 > 装饰 > 窗帘与百叶窗"
+  },
+  {
+    "category_id": 101154,
+    "full_path": "家居生活 > 装饰 > 家具罩与家电防尘套"
+  },
+  {
+    "category_id": 101153,
+    "full_path": "家居生活 > 装饰 > 鲜花，干花与人造花"
+  },
+  {
+    "category_id": 101152,
+    "full_path": "家居生活 > 寝具 > 其他"
+  },
+  {
+    "category_id": 101151,
+    "full_path": "家居生活 > 寝具 > 抱枕"
+  },
+  {
+    "category_id": 101150,
+    "full_path": "家居生活 > 寝具 > 蚊帐"
+  },
+  {
+    "category_id": 101149,
+    "full_path": "家居生活 > 寝具 > 床垫"
+  },
+  {
+    "category_id": 101148,
+    "full_path": "家居生活 > 寝具 > 床单、枕头套与抱枕套"
+  },
+  {
+    "category_id": 101147,
+    "full_path": "家居生活 > 寝具 > 枕头"
+  },
+  {
+    "category_id": 101146,
+    "full_path": "家居生活 > 寝具 > 毯子、被单与被套"
+  },
+  {
+    "category_id": 101145,
+    "full_path": "家居生活 > 寝具 > 床垫保护套和床罩"
+  },
+  {
+    "category_id": 101144,
+    "full_path": "家居生活 > 寝具 > 凉垫"
+  },
+  {
+    "category_id": 101143,
+    "full_path": "家居生活 > 浴室 > 其他"
+  },
+  {
+    "category_id": 101142,
+    "full_path": "家居生活 > 浴室 > 浴帽"
+  },
+  {
+    "category_id": 101141,
+    "full_path": "家居生活 > 浴室 > 安全扶手"
+  },
+  {
+    "category_id": 101140,
+    "full_path": "家居生活 > 浴室 > 淋浴座椅与马桶椅"
+  },
+  {
+    "category_id": 101139,
+    "full_path": "家居生活 > 浴室 > 浴帘"
+  },
+  {
+    "category_id": 101138,
+    "full_path": "家居生活 > 浴室 > 淋浴刷与浴球"
+  },
+  {
+    "category_id": 101137,
+    "full_path": "家居生活 > 浴室 > 淋浴花洒"
+  },
+  {
+    "category_id": 101793,
+    "full_path": "家居生活 > 浴室 > 毛巾与浴袍 > 其他"
+  },
+  {
+    "category_id": 101792,
+    "full_path": "家居生活 > 浴室 > 毛巾与浴袍 > 浴袍"
+  },
+  {
+    "category_id": 101791,
+    "full_path": "家居生活 > 浴室 > 毛巾与浴袍 > 毛巾与手巾"
+  },
+  {
+    "category_id": 101790,
+    "full_path": "家居生活 > 浴室 > 毛巾与浴袍 > 浴巾"
+  },
+  {
+    "category_id": 101135,
+    "full_path": "家居生活 > 浴室 > 浴缸"
+  },
+  {
+    "category_id": 101134,
+    "full_path": "家居生活 > 浴室 > 浴室架与浴室柜"
+  },
+  {
+    "category_id": 101133,
+    "full_path": "家居生活 > 浴室 > 皂液器，肥皂架与肥皂盒"
+  },
+  {
+    "category_id": 101132,
+    "full_path": "家居生活 > 浴室 > 牙刷架与挤牙膏器"
+  },
+  {
+    "category_id": 101131,
+    "full_path": "家居生活 > 浴室 > 马桶、马桶座与马桶盖"
+  },
+  {
+    "category_id": 101130,
+    "full_path": "家居生活 > 居家香氛 > 其他"
+  },
+  {
+    "category_id": 101129,
+    "full_path": "家居生活 > 居家香氛 > 加湿器与香薰机"
+  },
+  {
+    "category_id": 101128,
+    "full_path": "家居生活 > 居家香氛 > 精油"
+  },
+  {
+    "category_id": 101127,
+    "full_path": "家居生活 > 居家香氛 > 空气清新剂与扩香瓶"
+  },
+  {
+    "category_id": 100729,
+    "full_path": "运动户外 > 其他"
+  },
+  {
+    "category_id": 101329,
+    "full_path": "运动户外 > 运动与户外活动配件 > 其他"
+  },
+  {
+    "category_id": 101328,
+    "full_path": "运动户外 > 运动与户外活动配件 > 健身防护装备"
+  },
+  {
+    "category_id": 101327,
+    "full_path": "运动户外 > 运动与户外活动配件 > 训练装备"
+  },
+  {
+    "category_id": 101326,
+    "full_path": "运动户外 > 运动与户外活动配件 > 护齿套与运动贴布"
+  },
+  {
+    "category_id": 101325,
+    "full_path": "运动户外 > 运动与户外活动配件 > 雨伞"
+  },
+  {
+    "category_id": 101324,
+    "full_path": "运动户外 > 运动与户外活动配件 > 雨衣"
+  },
+  {
+    "category_id": 101323,
+    "full_path": "运动户外 > 运动与户外活动配件 > 防水袋"
+  },
+  {
+    "category_id": 101322,
+    "full_path": "运动户外 > 运动与户外活动配件 > 运动与户外帽"
+  },
+  {
+    "category_id": 101321,
+    "full_path": "运动户外 > 运动与户外活动配件 > 运动头带"
+  },
+  {
+    "category_id": 101320,
+    "full_path": "运动户外 > 运动与户外活动配件 > 运动护腕"
+  },
+  {
+    "category_id": 101319,
+    "full_path": "运动户外 > 运动与户外活动配件 > 鞋袋"
+  },
+  {
+    "category_id": 101318,
+    "full_path": "运动户外 > 运动与户外活动配件 > 秒表与计步器"
+  },
+  {
+    "category_id": 101317,
+    "full_path": "运动户外 > 运动与户外服饰 > 其他"
+  },
+  {
+    "category_id": 101316,
+    "full_path": "运动户外 > 运动与户外服饰 > 儿童运动服饰"
+  },
+  {
+    "category_id": 101315,
+    "full_path": "运动户外 > 运动与户外服饰 > 运动内衣"
+  },
+  {
+    "category_id": 101901,
+    "full_path": "运动户外 > 运动与户外服饰 > 泳装 > 其他"
+  },
+  {
+    "category_id": 101900,
+    "full_path": "运动户外 > 运动与户外服饰 > 泳装 > 防磨衣"
+  },
+  {
+    "category_id": 101899,
+    "full_path": "运动户外 > 运动与户外服饰 > 泳装 > 一件式泳裝"
+  },
+  {
+    "category_id": 101898,
+    "full_path": "运动户外 > 运动与户外服饰 > 泳装 > 比基尼套装"
+  },
+  {
+    "category_id": 101897,
+    "full_path": "运动户外 > 运动与户外服饰 > 泳装 > 泳裤"
+  },
+  {
+    "category_id": 101313,
+    "full_path": "运动户外 > 运动与户外服饰 > 运动裤装"
+  },
+  {
+    "category_id": 101312,
+    "full_path": "运动户外 > 运动与户外服饰 > 球衣"
+  },
+  {
+    "category_id": 101311,
+    "full_path": "运动户外 > 运动与户外服饰 > 上衣"
+  },
+  {
+    "category_id": 101310,
+    "full_path": "运动户外 > 运动与户外服饰 > 外套"
+  },
+  {
+    "category_id": 101309,
+    "full_path": "运动户外 > 运动与户外服饰 > 运动套装"
+  },
+  {
+    "category_id": 101308,
+    "full_path": "运动户外 > 运动鞋 > 其他"
+  },
+  {
+    "category_id": 101307,
+    "full_path": "运动户外 > 运动鞋 > 儿童运动鞋"
+  },
+  {
+    "category_id": 101306,
+    "full_path": "运动户外 > 运动鞋 > 足球鞋"
+  },
+  {
+    "category_id": 101305,
+    "full_path": "运动户外 > 运动鞋 > 登山鞋"
+  },
+  {
+    "category_id": 101304,
+    "full_path": "运动户外 > 运动鞋 > 室内足球鞋"
+  },
+  {
+    "category_id": 101303,
+    "full_path": "运动户外 > 运动鞋 > 羽毛球鞋"
+  },
+  {
+    "category_id": 101302,
+    "full_path": "运动户外 > 运动鞋 > 排球鞋"
+  },
+  {
+    "category_id": 101301,
+    "full_path": "运动户外 > 运动鞋 > 网球鞋"
+  },
+  {
+    "category_id": 101300,
+    "full_path": "运动户外 > 运动鞋 > 训练鞋"
+  },
+  {
+    "category_id": 101299,
+    "full_path": "运动户外 > 运动鞋 > 跑步鞋"
+  },
+  {
+    "category_id": 101298,
+    "full_path": "运动户外 > 运动鞋 > 篮球鞋"
+  },
+  {
+    "category_id": 101297,
+    "full_path": "运动户外 > 户外运动装备 > 其他"
+  },
+  {
+    "category_id": 101296,
+    "full_path": "运动户外 > 户外运动装备 > 飞镖"
+  },
+  {
+    "category_id": 102181,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > Hand Grips"
+  },
+  {
+    "category_id": 102180,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > Waist Twisting Disc"
+  },
+  {
+    "category_id": 101896,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > 其他"
+  },
+  {
+    "category_id": 101895,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > 引体向上杆与俯卧撑架"
+  },
+  {
+    "category_id": 101894,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > 健腹轮"
+  },
+  {
+    "category_id": 101893,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > 健身仪器"
+  },
+  {
+    "category_id": 101892,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > 健身球"
+  },
+  {
+    "category_id": 101891,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > 跳绳"
+  },
+  {
+    "category_id": 101890,
+    "full_path": "运动户外 > 户外运动装备 > 健身器材 > 举重训练器材"
+  },
+  {
+    "category_id": 101889,
+    "full_path": "运动户外 > 户外运动装备 > 瑜伽与普拉提 > 其他"
+  },
+  {
+    "category_id": 101888,
+    "full_path": "运动户外 > 户外运动装备 > 瑜伽与普拉提 > 阻力带"
+  },
+  {
+    "category_id": 101887,
+    "full_path": "运动户外 > 户外运动装备 > 瑜伽与普拉提 > 瑜伽垫块、瑜伽环和泡沫辊"
+  },
+  {
+    "category_id": 101886,
+    "full_path": "运动户外 > 户外运动装备 > 瑜伽与普拉提 > 瑜珈垫"
+  },
+  {
+    "category_id": 101293,
+    "full_path": "运动户外 > 户外运动装备 > 帆船、桨板"
+  },
+  {
+    "category_id": 101885,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 其他"
+  },
+  {
+    "category_id": 101884,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 救生衣"
+  },
+  {
+    "category_id": 101883,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 潜水脚蹼"
+  },
+  {
+    "category_id": 101882,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 潜水面罩"
+  },
+  {
+    "category_id": 101881,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 潜水灯"
+  },
+  {
+    "category_id": 101880,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 游泳浮板"
+  },
+  {
+    "category_id": 101879,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 泳镜"
+  },
+  {
+    "category_id": 101878,
+    "full_path": "运动户外 > 户外运动装备 > 游泳与潜水 > 游泳帽"
+  },
+  {
+    "category_id": 101291,
+    "full_path": "运动户外 > 户外运动装备 > 溜冰与冬季运动"
+  },
+  {
+    "category_id": 101290,
+    "full_path": "运动户外 > 户外运动装备 > 冲浪"
+  },
+  {
+    "category_id": 101289,
+    "full_path": "运动户外 > 户外运动装备 > 桌球"
+  },
+  {
+    "category_id": 101288,
+    "full_path": "运动户外 > 户外运动装备 > 橄榄球"
+  },
+  {
+    "category_id": 101287,
+    "full_path": "运动户外 > 户外运动装备 > 射击与生存游戏"
+  },
+  {
+    "category_id": 101286,
+    "full_path": "运动户外 > 户外运动装备 > 壁球"
+  },
+  {
+    "category_id": 101285,
+    "full_path": "运动户外 > 户外运动装备 > 棒球与垒球"
+  },
+  {
+    "category_id": 101877,
+    "full_path": "运动户外 > 户外运动装备 > 高尔夫球 > 其他"
+  },
+  {
+    "category_id": 101876,
+    "full_path": "运动户外 > 户外运动装备 > 高尔夫球 > 高尔夫球袋与包袋"
+  },
+  {
+    "category_id": 101875,
+    "full_path": "运动户外 > 户外运动装备 > 高尔夫球 > 高尔夫装备与训练器材"
+  },
+  {
+    "category_id": 101874,
+    "full_path": "运动户外 > 户外运动装备 > 高尔夫球 > 高尔夫球杆"
+  },
+  {
+    "category_id": 101873,
+    "full_path": "运动户外 > 户外运动装备 > 高尔夫球 > 高尔夫球"
+  },
+  {
+    "category_id": 101872,
+    "full_path": "运动户外 > 户外运动装备 > 拳击与武术 > 其他"
+  },
+  {
+    "category_id": 101871,
+    "full_path": "运动户外 > 户外运动装备 > 拳击与武术 > 拳套、绷带与头盔"
+  },
+  {
+    "category_id": 101870,
+    "full_path": "运动户外 > 户外运动装备 > 拳击与武术 > 武术腰带"
+  },
+  {
+    "category_id": 101869,
+    "full_path": "运动户外 > 户外运动装备 > 拳击与武术 > 沙包与沙袋"
+  },
+  {
+    "category_id": 101868,
+    "full_path": "运动户外 > 户外运动装备 > 乒乓球 > 其他"
+  },
+  {
+    "category_id": 101867,
+    "full_path": "运动户外 > 户外运动装备 > 乒乓球 > 乒乓球网"
+  },
+  {
+    "category_id": 101866,
+    "full_path": "运动户外 > 户外运动装备 > 乒乓球 > 乒乓球拍"
+  },
+  {
+    "category_id": 101865,
+    "full_path": "运动户外 > 户外运动装备 > 乒乓球 > 乒乓球"
+  },
+  {
+    "category_id": 101864,
+    "full_path": "运动户外 > 户外运动装备 > 网球 > 其他"
+  },
+  {
+    "category_id": 101863,
+    "full_path": "运动户外 > 户外运动装备 > 网球 > 网球网"
+  },
+  {
+    "category_id": 101862,
+    "full_path": "运动户外 > 户外运动装备 > 网球 > 网球"
+  },
+  {
+    "category_id": 101861,
+    "full_path": "运动户外 > 户外运动装备 > 网球 > 网球拍"
+  },
+  {
+    "category_id": 101860,
+    "full_path": "运动户外 > 户外运动装备 > 羽毛球 > 其他"
+  },
+  {
+    "category_id": 101859,
+    "full_path": "运动户外 > 户外运动装备 > 羽毛球 > 羽毛球网"
+  },
+  {
+    "category_id": 101858,
+    "full_path": "运动户外 > 户外运动装备 > 羽毛球 > 羽毛球"
+  },
+  {
+    "category_id": 101857,
+    "full_path": "运动户外 > 户外运动装备 > 羽毛球 > 羽毛球拍"
+  },
+  {
+    "category_id": 101856,
+    "full_path": "运动户外 > 户外运动装备 > 排球 > 其他"
+  },
+  {
+    "category_id": 101855,
+    "full_path": "运动户外 > 户外运动装备 > 排球 > 排球网"
+  },
+  {
+    "category_id": 101854,
+    "full_path": "运动户外 > 户外运动装备 > 排球 > 排球"
+  },
+  {
+    "category_id": 101853,
+    "full_path": "运动户外 > 户外运动装备 > 篮球 > 其他"
+  },
+  {
+    "category_id": 101852,
+    "full_path": "运动户外 > 户外运动装备 > 篮球 > 篮筐"
+  },
+  {
+    "category_id": 101851,
+    "full_path": "运动户外 > 户外运动装备 > 篮球 > 篮球"
+  },
+  {
+    "category_id": 101850,
+    "full_path": "运动户外 > 户外运动装备 > 足球、室内足球与藤球 > 其他"
+  },
+  {
+    "category_id": 101849,
+    "full_path": "运动户外 > 户外运动装备 > 足球、室内足球与藤球 > 球门柱与球网"
+  },
+  {
+    "category_id": 101848,
+    "full_path": "运动户外 > 户外运动装备 > 足球、室内足球与藤球 > 守门员手套与护胫"
+  },
+  {
+    "category_id": 101847,
+    "full_path": "运动户外 > 户外运动装备 > 足球、室内足球与藤球 > 足球"
+  },
+  {
+    "category_id": 101846,
+    "full_path": "运动户外 > 户外运动装备 > 射箭 > 其他"
+  },
+  {
+    "category_id": 101845,
+    "full_path": "运动户外 > 户外运动装备 > 射箭 > 箭"
+  },
+  {
+    "category_id": 101844,
+    "full_path": "运动户外 > 户外运动装备 > 射箭 > 弓"
+  },
+  {
+    "category_id": 101843,
+    "full_path": "运动户外 > 户外运动装备 > 滑板与滑轮类运动 > 其他"
+  },
+  {
+    "category_id": 101842,
+    "full_path": "运动户外 > 户外运动装备 > 滑板与滑轮类运动 > 头盔与防护装备"
+  },
+  {
+    "category_id": 101841,
+    "full_path": "运动户外 > 户外运动装备 > 滑板与滑轮类运动 > 平衡车"
+  },
+  {
+    "category_id": 101840,
+    "full_path": "运动户外 > 户外运动装备 > 滑板与滑轮类运动 > 滑板车与单轮车"
+  },
+  {
+    "category_id": 101839,
+    "full_path": "运动户外 > 户外运动装备 > 滑板与滑轮类运动 > 滑板和旱冰鞋"
+  },
+  {
+    "category_id": 101274,
+    "full_path": "运动户外 > 户外运动装备 > 攀岩"
+  },
+  {
+    "category_id": 101838,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 其他"
+  },
+  {
+    "category_id": 101837,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 野餐垫与野餐篮"
+  },
+  {
+    "category_id": 101836,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 登山杖"
+  },
+  {
+    "category_id": 101835,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 吊床"
+  },
+  {
+    "category_id": 101834,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 露营刀与救生包"
+  },
+  {
+    "category_id": 101833,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 指南针"
+  },
+  {
+    "category_id": 101832,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 望远镜"
+  },
+  {
+    "category_id": 101831,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 睡袋"
+  },
+  {
+    "category_id": 101830,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 帐篷与帐篷配件"
+  },
+  {
+    "category_id": 101829,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 露营灯与露营手电筒"
+  },
+  {
+    "category_id": 101828,
+    "full_path": "运动户外 > 户外运动装备 > 露营与登山 > 露营炊具"
+  },
+  {
+    "category_id": 101827,
+    "full_path": "运动户外 > 户外运动装备 > 自行车 > 其他"
+  },
+  {
+    "category_id": 101826,
+    "full_path": "运动户外 > 户外运动装备 > 自行车 > 自行车头盔"
+  },
+  {
+    "category_id": 101825,
+    "full_path": "运动户外 > 户外运动装备 > 自行车 > 自行车组件与配件"
+  },
+  {
+    "category_id": 101824,
+    "full_path": "运动户外 > 户外运动装备 > 自行车 > 自行车"
+  },
+  {
+    "category_id": 101823,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 其他"
+  },
+  {
+    "category_id": 101822,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 渔网"
+  },
+  {
+    "category_id": 101821,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 钓鱼包"
+  },
+  {
+    "category_id": 101820,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 鱼饵"
+  },
+  {
+    "category_id": 101819,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 钓鱼线"
+  },
+  {
+    "category_id": 101818,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 探鱼器"
+  },
+  {
+    "category_id": 101817,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 钓竿与卷线器"
+  },
+  {
+    "category_id": 101816,
+    "full_path": "运动户外 > 户外运动装备 > 钓鱼 > 鱼钩"
+  },
+  {
+    "category_id": 100736,
+    "full_path": "文具 > 其他"
+  },
+  {
+    "category_id": 101384,
+    "full_path": "文具 > 书信与信封 > 其他"
+  },
+  {
+    "category_id": 101383,
+    "full_path": "文具 > 书信与信封 > 邮票"
+  },
+  {
+    "category_id": 101382,
+    "full_path": "文具 > 书信与信封 > 明信片"
+  },
+  {
+    "category_id": 101381,
+    "full_path": "文具 > 书信与信封 > 信封与红包袋"
+  },
+  {
+    "category_id": 101380,
+    "full_path": "文具 > 笔记本与纸质用品 > 其他"
+  },
+  {
+    "category_id": 101379,
+    "full_path": "文具 > 笔记本与纸质用品 > 标签与贴纸"
+  },
+  {
+    "category_id": 101378,
+    "full_path": "文具 > 笔记本与纸质用品 > 笔记本与记事本"
+  },
+  {
+    "category_id": 101377,
+    "full_path": "文具 > 笔记本与纸质用品 > 画纸与画板"
+  },
+  {
+    "category_id": 101376,
+    "full_path": "文具 > 笔记本与纸质用品 > 备忘录与便利贴"
+  },
+  {
+    "category_id": 101375,
+    "full_path": "文具 > 笔记本与纸质用品 > 活页纸"
+  },
+  {
+    "category_id": 101374,
+    "full_path": "文具 > 笔记本与纸质用品 > 印刷纸与复印纸"
+  },
+  {
+    "category_id": 101373,
+    "full_path": "文具 > 笔记本与纸质用品 > 热敏纸与打印纸"
+  },
+  {
+    "category_id": 101372,
+    "full_path": "文具 > 笔记本与纸质用品 > 书套"
+  },
+  {
+    "category_id": 101371,
+    "full_path": "文具 > 笔记本与纸质用品 > 书签"
+  },
+  {
+    "category_id": 101370,
+    "full_path": "文具 > 美术用品 > 其他"
+  },
+  {
+    "category_id": 101369,
+    "full_path": "文具 > 美术用品 > 素描本"
+  },
+  {
+    "category_id": 101368,
+    "full_path": "文具 > 美术用品 > 画布与画架"
+  },
+  {
+    "category_id": 101367,
+    "full_path": "文具 > 美术用品 > 调色盘"
+  },
+  {
+    "category_id": 101366,
+    "full_path": "文具 > 美术用品 > 油画刷"
+  },
+  {
+    "category_id": 101365,
+    "full_path": "文具 > 美术用品 > 亚克力颜料"
+  },
+  {
+    "category_id": 101364,
+    "full_path": "文具 > 美术用品 > 油画颜料"
+  },
+  {
+    "category_id": 101363,
+    "full_path": "文具 > 美术用品 > 水彩与广告画颜料"
+  },
+  {
+    "category_id": 101362,
+    "full_path": "文具 > 美术用品 > 蜡笔与粉彩笔"
+  },
+  {
+    "category_id": 101361,
+    "full_path": "文具 > 美术用品 > 彩色铅笔"
+  },
+  {
+    "category_id": 101360,
+    "full_path": "文具 > 学校与办公用品 > 其他"
+  },
+  {
+    "category_id": 101359,
+    "full_path": "文具 > 学校与办公用品 > 文具盒/笔袋"
+  },
+  {
+    "category_id": 101358,
+    "full_path": "文具 > 学校与办公用品 > 削笔器"
+  },
+  {
+    "category_id": 101357,
+    "full_path": "文具 > 学校与办公用品 > 尺、量角器与模具"
+  },
+  {
+    "category_id": 101356,
+    "full_path": "文具 > 学校与办公用品 > 文件收纳用品"
+  },
+  {
+    "category_id": 101355,
+    "full_path": "文具 > 学校与办公用品 > 日历"
+  },
+  {
+    "category_id": 101354,
+    "full_path": "文具 > 学校与办公用品 > 订书机与订书钉"
+  },
+  {
+    "category_id": 101353,
+    "full_path": "文具 > 学校与办公用品 > 印章与印泥"
+  },
+  {
+    "category_id": 101352,
+    "full_path": "文具 > 学校与办公用品 > 剪刀"
+  },
+  {
+    "category_id": 101351,
+    "full_path": "文具 > 学校与办公用品 > 打洞机"
+  },
+  {
+    "category_id": 101350,
+    "full_path": "文具 > 学校与办公用品 > 夹子、别针与大头钉"
+  },
+  {
+    "category_id": 101349,
+    "full_path": "文具 > 学校与办公用品 > 挂绳和姓名牌"
+  },
+  {
+    "category_id": 101348,
+    "full_path": "文具 > 学校与办公用品 > 标签打印机"
+  },
+  {
+    "category_id": 101347,
+    "full_path": "文具 > 学校与办公用品 > 胶水"
+  },
+  {
+    "category_id": 101346,
+    "full_path": "文具 > 学校与办公用品 > 绳子与胶带"
+  },
+  {
+    "category_id": 101345,
+    "full_path": "文具 > 学校与办公用品 > 美工刀与切纸机"
+  },
+  {
+    "category_id": 101344,
+    "full_path": "文具 > 学校与办公用品 > 计算器"
+  },
+  {
+    "category_id": 101343,
+    "full_path": "文具 > 学校与办公用品 > 书写板、黑白板、板架"
+  },
+  {
+    "category_id": 101342,
+    "full_path": "文具 > 文具 > 其他"
+  },
+  {
+    "category_id": 101341,
+    "full_path": "文具 > 文具 > 荧光笔"
+  },
+  {
+    "category_id": 101340,
+    "full_path": "文具 > 文具 > 马克笔"
+  },
+  {
+    "category_id": 101339,
+    "full_path": "文具 > 文具 > 橡皮擦与修正用品"
+  },
+  {
+    "category_id": 101338,
+    "full_path": "文具 > 文具 > 铅笔"
+  },
+  {
+    "category_id": 101337,
+    "full_path": "文具 > 文具 > 笔与墨水"
+  },
+  {
+    "category_id": 101336,
+    "full_path": "文具 > 礼品与包装材料 > 其他"
+  },
+  {
+    "category_id": 101335,
+    "full_path": "文具 > 礼品与包装材料 > 纸箱"
+  },
+  {
+    "category_id": 101334,
+    "full_path": "文具 > 礼品与包装材料 > 气泡膜"
+  },
+  {
+    "category_id": 101333,
+    "full_path": "文具 > 礼品与包装材料 > 缎带"
+  },
+  {
+    "category_id": 101332,
+    "full_path": "文具 > 礼品与包装材料 > 礼品包"
+  },
+  {
+    "category_id": 101331,
+    "full_path": "文具 > 礼品与包装材料 > 礼品盒"
+  },
+  {
+    "category_id": 101330,
+    "full_path": "文具 > 礼品与包装材料 > 礼品包装纸"
+  },
+  {
+    "category_id": 100745,
+    "full_path": "兴趣&文娱 > 其他"
+  },
+  {
+    "category_id": 100744,
+    "full_path": "兴趣&文娱 > 刺绣"
+  },
+  {
+    "category_id": 100743,
+    "full_path": "兴趣&文娱 > 相簿"
+  },
+  {
+    "category_id": 100742,
+    "full_path": "兴趣&文娱 > 黑胶唱片"
+  },
+  {
+    "category_id": 102020,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 弦乐器 > 其他"
+  },
+  {
+    "category_id": 102019,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 弦乐器 > 吉他与贝斯"
+  },
+  {
+    "category_id": 102018,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 弦乐器 > 乌克丽丽"
+  },
+  {
+    "category_id": 101414,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 其他"
+  },
+  {
+    "category_id": 101413,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 音乐配件"
+  },
+  {
+    "category_id": 101412,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 管乐器"
+  },
+  {
+    "category_id": 101411,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 打击乐器"
+  },
+  {
+    "category_id": 101410,
+    "full_path": "兴趣&文娱 > 乐器与配件 > 电子琴与钢琴"
+  },
+  {
+    "category_id": 100740,
+    "full_path": "兴趣&文娱 > CD，DVD & 蓝光光碟"
+  },
+  {
+    "category_id": 101409,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 其他"
+  },
+  {
+    "category_id": 101408,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 扭蛋"
+  },
+  {
+    "category_id": 101407,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 遥控玩具与配件"
+  },
+  {
+    "category_id": 101406,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 溜溜球"
+  },
+  {
+    "category_id": 101405,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 剑玉"
+  },
+  {
+    "category_id": 101404,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 陀螺"
+  },
+  {
+    "category_id": 101403,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 魔方"
+  },
+  {
+    "category_id": 101402,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 恶作剧玩具"
+  },
+  {
+    "category_id": 101401,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 魔术玩具"
+  },
+  {
+    "category_id": 101400,
+    "full_path": "兴趣&文娱 > 桌游与玩具 > 桌游"
+  },
+  {
+    "category_id": 101399,
+    "full_path": "兴趣&文娱 > 纪念品 > 其他"
+  },
+  {
+    "category_id": 101398,
+    "full_path": "兴趣&文娱 > 纪念品 > 冰箱贴"
+  },
+  {
+    "category_id": 101397,
+    "full_path": "兴趣&文娱 > 纪念品 > 存钱罐"
+  },
+  {
+    "category_id": 101396,
+    "full_path": "兴趣&文娱 > 纪念品 > 钥匙圈"
+  },
+  {
+    "category_id": 101395,
+    "full_path": "兴趣&文娱 > 纪念品 > 手扇"
+  },
+  {
+    "category_id": 101394,
+    "full_path": "兴趣&文娱 > 收藏品 > 其他"
+  },
+  {
+    "category_id": 101393,
+    "full_path": "兴趣&文娱 > 收藏品 > 纪念币、纪念钞"
+  },
+  {
+    "category_id": 101392,
+    "full_path": "兴趣&文娱 > 收藏品 > 动漫周边"
+  },
+  {
+    "category_id": 101391,
+    "full_path": "兴趣&文娱 > 收藏品 > 运动周边"
+  },
+  {
+    "category_id": 101390,
+    "full_path": "兴趣&文娱 > 收藏品 > 偶像周边"
+  },
+  {
+    "category_id": 101389,
+    "full_path": "兴趣&文娱 > 收藏品 > 原石水晶"
+  },
+  {
+    "category_id": 101388,
+    "full_path": "兴趣&文娱 > 收藏品 > 汽车模型"
+  },
+  {
+    "category_id": 101387,
+    "full_path": "兴趣&文娱 > 收藏品 > 组装模型"
+  },
+  {
+    "category_id": 101386,
+    "full_path": "兴趣&文娱 > 收藏品 > 雕像与雕塑"
+  },
+  {
+    "category_id": 101385,
+    "full_path": "兴趣&文娱 > 收藏品 > 人偶、公仔"
+  },
+  {
+    "category_id": 102059,
+    "full_path": "汽车类 > 汽车维修与设备"
+  },
+  {
+    "category_id": 100754,
+    "full_path": "汽车类 > 其他"
+  },
+  {
+    "category_id": 100753,
+    "full_path": "汽车类 > 汽车钥匙扣和钥匙套"
+  },
+  {
+    "category_id": 101472,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 其他"
+  },
+  {
+    "category_id": 101912,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 车油 > 其他"
+  },
+  {
+    "category_id": 101911,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 车油 > 变速箱油"
+  },
+  {
+    "category_id": 101910,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 车油 > 煞车油"
+  },
+  {
+    "category_id": 101470,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 防冻剂"
+  },
+  {
+    "category_id": 101469,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 润滑油"
+  },
+  {
+    "category_id": 101468,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 燃油添加剂"
+  },
+  {
+    "category_id": 101467,
+    "full_path": "汽车类 > 汽车油品与润滑油 > 机油"
+  },
+  {
+    "category_id": 101466,
+    "full_path": "汽车类 > 汽车保养用品 > 其他"
+  },
+  {
+    "category_id": 101465,
+    "full_path": "汽车类 > 汽车保养用品 > 抛光镀膜用品"
+  },
+  {
+    "category_id": 101464,
+    "full_path": "汽车类 > 汽车保养用品 > 轮胎与车轮护理用品"
+  },
+  {
+    "category_id": 101463,
+    "full_path": "汽车类 > 汽车保养用品 > 内部清洁护理用品"
+  },
+  {
+    "category_id": 101462,
+    "full_path": "汽车类 > 汽车保养用品 > 玻璃护理与防水剂用品"
+  },
+  {
+    "category_id": 101461,
+    "full_path": "汽车类 > 汽车保养用品 > 清洗与打蜡用品"
+  },
+  {
+    "category_id": 101460,
+    "full_path": "汽车类 > 汽车维修工具 > 其他"
+  },
+  {
+    "category_id": 101459,
+    "full_path": "汽车类 > 汽车维修工具 > 轮胎压力监测器"
+  },
+  {
+    "category_id": 101458,
+    "full_path": "汽车类 > 汽车维修工具 > 汽车测试、诊断维修工具"
+  },
+  {
+    "category_id": 101457,
+    "full_path": "汽车类 > 汽车零件 > 其他"
+  },
+  {
+    "category_id": 101456,
+    "full_path": "汽车类 > 汽车零件 > 燃油系统"
+  },
+  {
+    "category_id": 101909,
+    "full_path": "汽车类 > 汽车零件 > 电子零件 > 其他"
+  },
+  {
+    "category_id": 101908,
+    "full_path": "汽车类 > 汽车零件 > 电子零件 > 车灯"
+  },
+  {
+    "category_id": 101907,
+    "full_path": "汽车类 > 汽车零件 > 电子零件 > 汽车电池与配件"
+  },
+  {
+    "category_id": 101931,
+    "full_path": "汽车类 > 汽车零件 > 电子零件 > 汽车点火装置 > 其他"
+  },
+  {
+    "category_id": 101930,
+    "full_path": "汽车类 > 汽车零件 > 电子零件 > 汽车点火装置 > 汽车火花塞"
+  },
+  {
+    "category_id": 101929,
+    "full_path": "汽车类 > 汽车零件 > 电子零件 > 汽车点火装置 > 汽车点火线圈"
+  },
+  {
+    "category_id": 101454,
+    "full_path": "汽车类 > 汽车零件 > 皮带、油管与滑轮"
+  },
+  {
+    "category_id": 101453,
+    "full_path": "汽车类 > 汽车零件 > 刹车系统"
+  },
+  {
+    "category_id": 101905,
+    "full_path": "汽车类 > 汽车零件 > 汽车引擎零件 > 其他"
+  },
+  {
+    "category_id": 101904,
+    "full_path": "汽车类 > 汽车零件 > 汽车引擎零件 > 汽车机油滤清器"
+  },
+  {
+    "category_id": 101903,
+    "full_path": "汽车类 > 汽车零件 > 汽车引擎零件 > 汽车空调滤清器"
+  },
+  {
+    "category_id": 101902,
+    "full_path": "汽车类 > 汽车零件 > 汽车引擎零件 > 汽车引擎活塞"
+  },
+  {
+    "category_id": 101451,
+    "full_path": "汽车类 > 汽车零件 > 汽车轴承"
+  },
+  {
+    "category_id": 101450,
+    "full_path": "汽车类 > 汽车零件 > 离合器、变速器、动力传动系统"
+  },
+  {
+    "category_id": 101449,
+    "full_path": "汽车类 > 汽车零件 > 散热器与引擎冷却器"
+  },
+  {
+    "category_id": 101448,
+    "full_path": "汽车类 > 汽车零件 > 避震器、减震器与悬架"
+  },
+  {
+    "category_id": 101447,
+    "full_path": "汽车类 > 汽车零件 > 轮胎与配件"
+  },
+  {
+    "category_id": 101446,
+    "full_path": "汽车类 > 汽车零件 > 轮框、轮圈与配件"
+  },
+  {
+    "category_id": 101445,
+    "full_path": "汽车类 > 汽车零件 > 排气管"
+  },
+  {
+    "category_id": 101444,
+    "full_path": "汽车类 > 汽车零件 > 雨刷与喷洗器"
+  },
+  {
+    "category_id": 101443,
+    "full_path": "汽车类 > 汽车零件 > 车身、车架与减震器"
+  },
+  {
+    "category_id": 101442,
+    "full_path": "汽车类 > 车外配件 > 其他"
+  },
+  {
+    "category_id": 101441,
+    "full_path": "汽车类 > 车外配件 > 车牌配件"
+  },
+  {
+    "category_id": 101440,
+    "full_path": "汽车类 > 车外配件 > 后视镜与配件"
+  },
+  {
+    "category_id": 101439,
+    "full_path": "汽车类 > 车外配件 > 车用喇叭与配件"
+  },
+  {
+    "category_id": 101438,
+    "full_path": "汽车类 > 车外配件 > 车窗雨眉"
+  },
+  {
+    "category_id": 101437,
+    "full_path": "汽车类 > 车外配件 > 门槛板"
+  },
+  {
+    "category_id": 101436,
+    "full_path": "汽车类 > 车外配件 > 挡泥板"
+  },
+  {
+    "category_id": 101435,
+    "full_path": "汽车类 > 车外配件 > 车贴、车标改装"
+  },
+  {
+    "category_id": 101434,
+    "full_path": "汽车类 > 车外配件 > 汽车车罩"
+  },
+  {
+    "category_id": 101433,
+    "full_path": "汽车类 > 车外配件 > 车用天线"
+  },
+  {
+    "category_id": 101432,
+    "full_path": "汽车类 > 车外配件 > 车用装饰品"
+  },
+  {
+    "category_id": 101431,
+    "full_path": "汽车类 > 车内配件 > 其他"
+  },
+  {
+    "category_id": 101430,
+    "full_path": "汽车类 > 车内配件 > HUD与车速表"
+  },
+  {
+    "category_id": 101429,
+    "full_path": "汽车类 > 车内配件 > 行车记录仪、倒车影像"
+  },
+  {
+    "category_id": 101428,
+    "full_path": "汽车类 > 车内配件 > 防盗器材"
+  },
+  {
+    "category_id": 101427,
+    "full_path": "汽车类 > 车内配件 > 遮阳板与仪表盘隔热套"
+  },
+  {
+    "category_id": 101426,
+    "full_path": "汽车类 > 车内配件 > 踏板与变速杆"
+  },
+  {
+    "category_id": 101425,
+    "full_path": "汽车类 > 车内配件 > 车用USB充电器、蓝牙接收器"
+  },
+  {
+    "category_id": 101424,
+    "full_path": "汽车类 > 车内配件 > 手机支架"
+  },
+  {
+    "category_id": 101423,
+    "full_path": "汽车类 > 车内配件 > 座椅与座椅套"
+  },
+  {
+    "category_id": 101422,
+    "full_path": "汽车类 > 车内配件 > 方向盘与方向盘套"
+  },
+  {
+    "category_id": 101421,
+    "full_path": "汽车类 > 车内配件 > 汽车床垫"
+  },
+  {
+    "category_id": 101420,
+    "full_path": "汽车类 > 车内配件 > 车用头枕与腰靠垫"
+  },
+  {
+    "category_id": 101419,
+    "full_path": "汽车类 > 车内配件 > 脚垫"
+  },
+  {
+    "category_id": 101418,
+    "full_path": "汽车类 > 车内配件 > 车载香水与空气净化器"
+  },
+  {
+    "category_id": 101417,
+    "full_path": "汽车类 > 车内配件 > 车用收纳"
+  },
+  {
+    "category_id": 101416,
+    "full_path": "汽车类 > 车内配件 > 扩音器、音响和低音炮"
+  },
+  {
+    "category_id": 101415,
+    "full_path": "汽车类 > 车内配件 > 导航、车用影音接收器"
+  },
+  {
+    "category_id": 100746,
+    "full_path": "汽车类 > 汽车"
+  },
+  {
+    "category_id": 100759,
+    "full_path": "摩托车类 > 其他"
+  },
+  {
+    "category_id": 100758,
+    "full_path": "摩托车类 > 摩托车头盔与配件"
+  },
+  {
+    "category_id": 101497,
+    "full_path": "摩托车类 > 摩托车零件 > 其他"
+  },
+  {
+    "category_id": 101496,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车灯具"
+  },
+  {
+    "category_id": 101495,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车轮胎与配件"
+  },
+  {
+    "category_id": 101494,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车轮框、轮圈与配件"
+  },
+  {
+    "category_id": 101493,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车排气管"
+  },
+  {
+    "category_id": 101492,
+    "full_path": "摩托车类 > 摩托车零件 > 车身与车架"
+  },
+  {
+    "category_id": 101491,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车电缆与油管"
+  },
+  {
+    "category_id": 101490,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车喇叭与配件"
+  },
+  {
+    "category_id": 101489,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车电池与配件"
+  },
+  {
+    "category_id": 101924,
+    "full_path": "摩托车类 > 摩托车零件 > 动力传动系统、变速器与离合器 > 其他"
+  },
+  {
+    "category_id": 101923,
+    "full_path": "摩托车类 > 摩托车零件 > 动力传动系统、变速器与离合器 > 摩托车轴承"
+  },
+  {
+    "category_id": 101922,
+    "full_path": "摩托车类 > 摩托车零件 > 动力传动系统、变速器与离合器 > 离合器"
+  },
+  {
+    "category_id": 101921,
+    "full_path": "摩托车类 > 摩托车零件 > 动力传动系统、变速器与离合器 > 摩托车链条、齿轮"
+  },
+  {
+    "category_id": 101487,
+    "full_path": "摩托车类 > 摩托车零件 > 摩托车避震、支撑与悬架"
+  },
+  {
+    "category_id": 101486,
+    "full_path": "摩托车类 > 摩托车零件 > 刹车系统"
+  },
+  {
+    "category_id": 101485,
+    "full_path": "摩托车类 > 摩托车零件 > 燃油系统"
+  },
+  {
+    "category_id": 101920,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > 其他"
+  },
+  {
+    "category_id": 101919,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > 摩托车空气滤清器"
+  },
+  {
+    "category_id": 101918,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > 摩托车变速V带"
+  },
+  {
+    "category_id": 101917,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > 摩托车点火线圈"
+  },
+  {
+    "category_id": 101916,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > 摩托车火花塞"
+  },
+  {
+    "category_id": 101915,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > CDI & ECU"
+  },
+  {
+    "category_id": 101914,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > 摩托车引擎活塞"
+  },
+  {
+    "category_id": 101913,
+    "full_path": "摩托车类 > 摩托车零件 > 点火与引擎零件 > 散热器"
+  },
+  {
+    "category_id": 101483,
+    "full_path": "摩托车类 > 摩托车配件 > 其他"
+  },
+  {
+    "category_id": 101482,
+    "full_path": "摩托车类 > 摩托车配件 > 挡泥板"
+  },
+  {
+    "category_id": 101481,
+    "full_path": "摩托车类 > 摩托车配件 > 手机支架"
+  },
+  {
+    "category_id": 101480,
+    "full_path": "摩托车类 > 摩托车配件 > 摩托车收纳箱"
+  },
+  {
+    "category_id": 101479,
+    "full_path": "摩托车类 > 摩托车配件 > 摩托车锁扣"
+  },
+  {
+    "category_id": 101478,
+    "full_path": "摩托车类 > 摩托车配件 > 后视镜与配件"
+  },
+  {
+    "category_id": 101477,
+    "full_path": "摩托车类 > 摩托车配件 > 坐垫与坐垫罩"
+  },
+  {
+    "category_id": 101476,
+    "full_path": "摩托车类 > 摩托车配件 > 摩托车贴、车标改装"
+  },
+  {
+    "category_id": 101475,
+    "full_path": "摩托车类 > 摩托车配件 > 摩托车罩"
+  },
+  {
+    "category_id": 101474,
+    "full_path": "摩托车类 > 摩托车配件 > 车速表、仪表板"
+  },
+  {
+    "category_id": 101473,
+    "full_path": "摩托车类 > 摩托车配件 > 摩托车地毯"
+  },
+  {
+    "category_id": 100755,
+    "full_path": "摩托车类 > 摩托车"
+  },
+  {
+    "category_id": 100775,
+    "full_path": "票务、优惠券与服务 > 其他"
+  },
+  {
+    "category_id": 102170,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Transportation Card Top-Up"
+  },
+  {
+    "category_id": 102169,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Easy Invest"
+  },
+  {
+    "category_id": 102168,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Crack Screen Insurance"
+  },
+  {
+    "category_id": 102167,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Sell Gold"
+  },
+  {
+    "category_id": 102166,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Buy Gold"
+  },
+  {
+    "category_id": 102165,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Home Service"
+  },
+  {
+    "category_id": 102164,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Covid-19 Vaccination"
+  },
+  {
+    "category_id": 102163,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > International Events"
+  },
+  {
+    "category_id": 102162,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Express Tickets"
+  },
+  {
+    "category_id": 102161,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Movie & Theatre"
+  },
+  {
+    "category_id": 102160,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Events & Attractions"
+  },
+  {
+    "category_id": 102159,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Wakaf"
+  },
+  {
+    "category_id": 102158,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Fidyah"
+  },
+  {
+    "category_id": 102157,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Qurban"
+  },
+  {
+    "category_id": 102156,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Zakat"
+  },
+  {
+    "category_id": 102155,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Zakat FItrah"
+  },
+  {
+    "category_id": 102154,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Special Event"
+  },
+  {
+    "category_id": 102153,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Donation"
+  },
+  {
+    "category_id": 102152,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Taxi"
+  },
+  {
+    "category_id": 102151,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Hotel"
+  },
+  {
+    "category_id": 102150,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Bus"
+  },
+  {
+    "category_id": 102149,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Flight"
+  },
+  {
+    "category_id": 102148,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Train"
+  },
+  {
+    "category_id": 102147,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Online Streaming Top-Up"
+  },
+  {
+    "category_id": 102146,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Game Top-Up"
+  },
+  {
+    "category_id": 102145,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Gift Card"
+  },
+  {
+    "category_id": 102144,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Movie Snack"
+  },
+  {
+    "category_id": 102143,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Online Streaming"
+  },
+  {
+    "category_id": 102142,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > E-Voucher"
+  },
+  {
+    "category_id": 102141,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Game EPIN"
+  },
+  {
+    "category_id": 102140,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Highway Fee Top-Up"
+  },
+  {
+    "category_id": 102139,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Bus Card Top-Up"
+  },
+  {
+    "category_id": 102138,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > MRT Card Top-Up"
+  },
+  {
+    "category_id": 102137,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Expressway Card Top-Up"
+  },
+  {
+    "category_id": 102136,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > E-Money Top-Up"
+  },
+  {
+    "category_id": 102135,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Memorial Bill"
+  },
+  {
+    "category_id": 102134,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Retribution Bill"
+  },
+  {
+    "category_id": 102133,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Property Maintenance Bill"
+  },
+  {
+    "category_id": 102132,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Vehinal Tax Bill (E-SAMSAT)"
+  },
+  {
+    "category_id": 102131,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Personalized Telco Data Plan"
+  },
+  {
+    "category_id": 102130,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > State Revenue Bill"
+  },
+  {
+    "category_id": 102129,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Regulation Fee Bill"
+  },
+  {
+    "category_id": 102128,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > SPAYLATER Bill"
+  },
+  {
+    "category_id": 102127,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Gas Bill"
+  },
+  {
+    "category_id": 102126,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Toll Bill"
+  },
+  {
+    "category_id": 102125,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Government Services Bill"
+  },
+  {
+    "category_id": 102124,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Postpaid Electricity Bill"
+  },
+  {
+    "category_id": 102123,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Property Tax Bill"
+  },
+  {
+    "category_id": 102122,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Vehicle Tax Bill"
+  },
+  {
+    "category_id": 102121,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Accommodation Bill"
+  },
+  {
+    "category_id": 102120,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > TV Bill"
+  },
+  {
+    "category_id": 102119,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Media Bill"
+  },
+  {
+    "category_id": 102118,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Seller Loan Repayment Bill"
+  },
+  {
+    "category_id": 102117,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Parking Bill"
+  },
+  {
+    "category_id": 102116,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Education Bill"
+  },
+  {
+    "category_id": 102115,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Other Bill"
+  },
+  {
+    "category_id": 102114,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Estate Bill"
+  },
+  {
+    "category_id": 102113,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Leasing Bill"
+  },
+  {
+    "category_id": 102112,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Tax Bill"
+  },
+  {
+    "category_id": 102111,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Local Council Bill"
+  },
+  {
+    "category_id": 102110,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Internet Bill"
+  },
+  {
+    "category_id": 102109,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Finance Bill"
+  },
+  {
+    "category_id": 102108,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Prepaid TV Cable Bill"
+  },
+  {
+    "category_id": 102107,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Postpaid Phone Bill"
+  },
+  {
+    "category_id": 102106,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Credit Card Bill"
+  },
+  {
+    "category_id": 102105,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Loan Bill"
+  },
+  {
+    "category_id": 102104,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Postpaid TV Cable Bill"
+  },
+  {
+    "category_id": 102103,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Landline Bill"
+  },
+  {
+    "category_id": 102102,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Electricity Bill"
+  },
+  {
+    "category_id": 102101,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Water Bill"
+  },
+  {
+    "category_id": 102100,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Insurance Bill"
+  },
+  {
+    "category_id": 102099,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Data Package EPIN"
+  },
+  {
+    "category_id": 102098,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Cash Card EPIN"
+  },
+  {
+    "category_id": 102097,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Roaming Top-Up"
+  },
+  {
+    "category_id": 102096,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Data Package Top-Up"
+  },
+  {
+    "category_id": 102095,
+    "full_path": "票务、优惠券与服务 > Shopee > Digital Products > Phone Credit Top-Up"
+  },
+  {
+    "category_id": 101535,
+    "full_path": "票务、优惠券与服务 > Shopee > 其他"
+  },
+  {
+    "category_id": 101534,
+    "full_path": "票务、优惠券与服务 > Shopee > Shopee付费广告"
+  },
+  {
+    "category_id": 101533,
+    "full_path": "票务、优惠券与服务 > Shopee > Shopee官方"
+  },
+  {
+    "category_id": 100773,
+    "full_path": "票务、优惠券与服务 > 视频服务"
+  },
+  {
+    "category_id": 100772,
+    "full_path": "票务、优惠券与服务 > 游戏 & App Stores"
+  },
+  {
+    "category_id": 100771,
+    "full_path": "票务、优惠券与服务 > 房地产"
+  },
+  {
+    "category_id": 100770,
+    "full_path": "票务、优惠券与服务 > 电子货币"
+  },
+  {
+    "category_id": 101532,
+    "full_path": "票务、优惠券与服务 > 旅游 > 其他"
+  },
+  {
+    "category_id": 101531,
+    "full_path": "票务、优惠券与服务 > 旅游 > 旅游配套"
+  },
+  {
+    "category_id": 101530,
+    "full_path": "票务、优惠券与服务 > 旅游 > 租车"
+  },
+  {
+    "category_id": 101529,
+    "full_path": "票务、优惠券与服务 > 旅游 > 巴士票"
+  },
+  {
+    "category_id": 101528,
+    "full_path": "票务、优惠券与服务 > 旅游 > 火车票"
+  },
+  {
+    "category_id": 101527,
+    "full_path": "票务、优惠券与服务 > 旅游 > 机票"
+  },
+  {
+    "category_id": 101526,
+    "full_path": "票务、优惠券与服务 > 旅游 > 温泉"
+  },
+  {
+    "category_id": 101525,
+    "full_path": "票务、优惠券与服务 > 旅游 > 住宿"
+  },
+  {
+    "category_id": 101524,
+    "full_path": "票务、优惠券与服务 > 电信 > 其他"
+  },
+  {
+    "category_id": 101523,
+    "full_path": "票务、优惠券与服务 > 电信 > 手机充值、预付"
+  },
+  {
+    "category_id": 101522,
+    "full_path": "票务、优惠券与服务 > 电信 > 手机移动数据"
+  },
+  {
+    "category_id": 101521,
+    "full_path": "票务、优惠券与服务 > 电信 > 网络、有线电视"
+  },
+  {
+    "category_id": 100767,
+    "full_path": "票务、优惠券与服务 > 课程与工作坊"
+  },
+  {
+    "category_id": 100766,
+    "full_path": "票务、优惠券与服务 > 交通"
+  },
+  {
+    "category_id": 101520,
+    "full_path": "票务、优惠券与服务 > 美容与保健 > 其他"
+  },
+  {
+    "category_id": 101519,
+    "full_path": "票务、优惠券与服务 > 美容与保健 > SPA & 按摩"
+  },
+  {
+    "category_id": 101518,
+    "full_path": "票务、优惠券与服务 > 美容与保健 > 美发"
+  },
+  {
+    "category_id": 101517,
+    "full_path": "票务、优惠券与服务 > 美容与保健 > 运动健身"
+  },
+  {
+    "category_id": 101516,
+    "full_path": "票务、优惠券与服务 > 美容与保健 > 牙齿护理"
+  },
+  {
+    "category_id": 101515,
+    "full_path": "票务、优惠券与服务 > 美容与保健 > 健康養生"
+  },
+  {
+    "category_id": 102036,
+    "full_path": "票务、优惠券与服务 > 服务 > 设计"
+  },
+  {
+    "category_id": 101514,
+    "full_path": "票务、优惠券与服务 > 服务 > 其他"
+  },
+  {
+    "category_id": 101513,
+    "full_path": "票务、优惠券与服务 > 服务 > 摄影、打印"
+  },
+  {
+    "category_id": 101512,
+    "full_path": "票务、优惠券与服务 > 服务 > 空调维修"
+  },
+  {
+    "category_id": 101511,
+    "full_path": "票务、优惠券与服务 > 服务 > 保险"
+  },
+  {
+    "category_id": 101510,
+    "full_path": "票务、优惠券与服务 > 服务 > 搬运服务"
+  },
+  {
+    "category_id": 101509,
+    "full_path": "票务、优惠券与服务 > 服务 > 家政服务"
+  },
+  {
+    "category_id": 100763,
+    "full_path": "票务、优惠券与服务 > 水电杂费"
+  },
+  {
+    "category_id": 101508,
+    "full_path": "票务、优惠券与服务 > 购物礼券 > 其他"
+  },
+  {
+    "category_id": 101507,
+    "full_path": "票务、优惠券与服务 > 购物礼券 > 超市礼券"
+  },
+  {
+    "category_id": 101506,
+    "full_path": "票务、优惠券与服务 > 购物礼券 > 百货公司礼券"
+  },
+  {
+    "category_id": 101505,
+    "full_path": "票务、优惠券与服务 > 餐饮 > 其他"
+  },
+  {
+    "category_id": 101504,
+    "full_path": "票务、优惠券与服务 > 餐饮 > 送餐服务"
+  },
+  {
+    "category_id": 101503,
+    "full_path": "票务、优惠券与服务 > 餐饮 > 堂食与打包"
+  },
+  {
+    "category_id": 101502,
+    "full_path": "票务、优惠券与服务 > 活动与景点 > 其他"
+  },
+  {
+    "category_id": 101501,
+    "full_path": "票务、优惠券与服务 > 活动与景点 > 演唱会、展览"
+  },
+  {
+    "category_id": 101500,
+    "full_path": "票务、优惠券与服务 > 活动与景点 > 电影"
+  },
+  {
+    "category_id": 101499,
+    "full_path": "票务、优惠券与服务 > 活动与景点 > 活动、展览会、会议"
+  },
+  {
+    "category_id": 101498,
+    "full_path": "票务、优惠券与服务 > 活动与景点 > 主题乐园、景点"
+  },
+  {
+    "category_id": 100779,
+    "full_path": "书籍 & 杂志 > 其他"
+  },
+  {
+    "category_id": 100778,
+    "full_path": "书籍 & 杂志 > 电子书"
+  },
+  {
+    "category_id": 101573,
+    "full_path": "书籍 & 杂志 > 书籍 > 其他"
+  },
+  {
+    "category_id": 101572,
+    "full_path": "书籍 & 杂志 > 书籍 > 有声书"
+  },
+  {
+    "category_id": 101571,
+    "full_path": "书籍 & 杂志 > 书籍 > 布书/触摸书"
+  },
+  {
+    "category_id": 101570,
+    "full_path": "书籍 & 杂志 > 书籍 > 乐谱"
+  },
+  {
+    "category_id": 101569,
+    "full_path": "书籍 & 杂志 > 书籍 > 贴纸与彩色书籍"
+  },
+  {
+    "category_id": 101568,
+    "full_path": "书籍 & 杂志 > 书籍 > 教辅书"
+  },
+  {
+    "category_id": 101567,
+    "full_path": "书籍 & 杂志 > 书籍 > 星座运势书籍"
+  },
+  {
+    "category_id": 101566,
+    "full_path": "书籍 & 杂志 > 书籍 > 求职、励志与自我成长"
+  },
+  {
+    "category_id": 101565,
+    "full_path": "书籍 & 杂志 > 书籍 > 历史人文书籍"
+  },
+  {
+    "category_id": 101564,
+    "full_path": "书籍 & 杂志 > 书籍 > 宗教命理书籍"
+  },
+  {
+    "category_id": 101563,
+    "full_path": "书籍 & 杂志 > 书籍 > 心理励志书籍"
+  },
+  {
+    "category_id": 101562,
+    "full_path": "书籍 & 杂志 > 书籍 > 亲子教养书籍"
+  },
+  {
+    "category_id": 101561,
+    "full_path": "书籍 & 杂志 > 书籍 > 医疗保健书籍"
+  },
+  {
+    "category_id": 101560,
+    "full_path": "书籍 & 杂志 > 书籍 > 自然科学书籍"
+  },
+  {
+    "category_id": 101559,
+    "full_path": "书籍 & 杂志 > 书籍 > 传记"
+  },
+  {
+    "category_id": 101558,
+    "full_path": "书籍 & 杂志 > 书籍 > 爱情小说"
+  },
+  {
+    "category_id": 101557,
+    "full_path": "书籍 & 杂志 > 书籍 > 惊悚、动作、犯罪小说"
+  },
+  {
+    "category_id": 101556,
+    "full_path": "书籍 & 杂志 > 书籍 > 科幻小说"
+  },
+  {
+    "category_id": 101555,
+    "full_path": "书籍 & 杂志 > 书籍 > 古典小说"
+  },
+  {
+    "category_id": 101554,
+    "full_path": "书籍 & 杂志 > 书籍 > 轻小说"
+  },
+  {
+    "category_id": 101553,
+    "full_path": "书籍 & 杂志 > 书籍 > LGBTQ+ 文学"
+  },
+  {
+    "category_id": 101552,
+    "full_path": "书籍 & 杂志 > 书籍 > 兴趣相关书籍"
+  },
+  {
+    "category_id": 101551,
+    "full_path": "书籍 & 杂志 > 书籍 > 语言学习书籍"
+  },
+  {
+    "category_id": 101550,
+    "full_path": "书籍 & 杂志 > 书籍 > 旅游相关书籍"
+  },
+  {
+    "category_id": 101549,
+    "full_path": "书籍 & 杂志 > 书籍 > 健身节食书籍"
+  },
+  {
+    "category_id": 101548,
+    "full_path": "书籍 & 杂志 > 书籍 > 电脑技术书籍"
+  },
+  {
+    "category_id": 101547,
+    "full_path": "书籍 & 杂志 > 书籍 > 政治、法律、社会人文书籍"
+  },
+  {
+    "category_id": 101546,
+    "full_path": "书籍 & 杂志 > 书籍 > 商业理财书籍"
+  },
+  {
+    "category_id": 101545,
+    "full_path": "书籍 & 杂志 > 书籍 > 食谱"
+  },
+  {
+    "category_id": 101544,
+    "full_path": "书籍 & 杂志 > 书籍 > 艺术，设计与摄影书籍"
+  },
+  {
+    "category_id": 101543,
+    "full_path": "书籍 & 杂志 > 书籍 > 成人书籍"
+  },
+  {
+    "category_id": 101542,
+    "full_path": "书籍 & 杂志 > 书籍 > 农业、渔业书籍"
+  },
+  {
+    "category_id": 101541,
+    "full_path": "书籍 & 杂志 > 书籍 > 儿童书籍"
+  },
+  {
+    "category_id": 101540,
+    "full_path": "书籍 & 杂志 > 书籍 > 漫画"
+  },
+  {
+    "category_id": 101539,
+    "full_path": "书籍 & 杂志 > 杂志 & 报纸 > 其他"
+  },
+  {
+    "category_id": 101538,
+    "full_path": "书籍 & 杂志 > 杂志 & 报纸 > 青少年杂志"
+  },
+  {
+    "category_id": 101537,
+    "full_path": "书籍 & 杂志 > 杂志 & 报纸 > 生活风格杂志"
+  },
+  {
+    "category_id": 101536,
+    "full_path": "书籍 & 杂志 > 杂志 & 报纸 > 商业理财杂志"
+  },
+  {
+    "category_id": 101943,
+    "full_path": "电脑 & 配件 > 其他"
+  },
+  {
+    "category_id": 101942,
+    "full_path": "电脑 & 配件 > 笔记本电脑"
+  },
+  {
+    "category_id": 102001,
+    "full_path": "电脑 & 配件 > 键盘 & 鼠标 > 其他"
+  },
+  {
+    "category_id": 102000,
+    "full_path": "电脑 & 配件 > 键盘 & 鼠标 > 绘图板"
+  },
+  {
+    "category_id": 101999,
+    "full_path": "电脑 & 配件 > 键盘 & 鼠标 > 键盘"
+  },
+  {
+    "category_id": 101998,
+    "full_path": "电脑 & 配件 > 键盘 & 鼠标 > 鼠标"
+  },
+  {
+    "category_id": 101997,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 其他"
+  },
+  {
+    "category_id": 101996,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 鼠标垫"
+  },
+  {
+    "category_id": 101995,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 视频会议设备"
+  },
+  {
+    "category_id": 101994,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 笔记本充电器&转接器"
+  },
+  {
+    "category_id": 101993,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 笔记本电池"
+  },
+  {
+    "category_id": 101992,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 键盘 & 触控板保护膜"
+  },
+  {
+    "category_id": 101991,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 笔记本电脑支架&可折叠电脑桌"
+  },
+  {
+    "category_id": 101990,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 散热垫"
+  },
+  {
+    "category_id": 101989,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 笔记本保护膜&保护套"
+  },
+  {
+    "category_id": 101988,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > 摄像头"
+  },
+  {
+    "category_id": 101987,
+    "full_path": "电脑 & 配件 > 周边设备 & 配件 > USB 集线器 & 读卡器"
+  },
+  {
+    "category_id": 101986,
+    "full_path": "电脑 & 配件 > 打印机 & 扫描器 > 其他"
+  },
+  {
+    "category_id": 101985,
+    "full_path": "电脑 & 配件 > 打印机 & 扫描器 > 3D打印机"
+  },
+  {
+    "category_id": 101984,
+    "full_path": "电脑 & 配件 > 打印机 & 扫描器 > 墨水 & 墨粉"
+  },
+  {
+    "category_id": 101983,
+    "full_path": "电脑 & 配件 > 打印机 & 扫描器 > 热敏 / 条码打印机"
+  },
+  {
+    "category_id": 101982,
+    "full_path": "电脑 & 配件 > 打印机 & 扫描器 > 打印机 / 扫描器 / 复印机"
+  },
+  {
+    "category_id": 101981,
+    "full_path": "电脑 & 配件 > 办公设备 > 其他"
+  },
+  {
+    "category_id": 101980,
+    "full_path": "电脑 & 配件 > 办公设备 > 点钞机"
+  },
+  {
+    "category_id": 101979,
+    "full_path": "电脑 & 配件 > 办公设备 > 碎纸机"
+  },
+  {
+    "category_id": 101978,
+    "full_path": "电脑 & 配件 > 办公设备 > 打卡机"
+  },
+  {
+    "category_id": 101977,
+    "full_path": "电脑 & 配件 > 办公设备 > 打字机"
+  },
+  {
+    "category_id": 101937,
+    "full_path": "电脑 & 配件 > 软件"
+  },
+  {
+    "category_id": 101976,
+    "full_path": "电脑 & 配件 > 联网组件 > 其他"
+  },
+  {
+    "category_id": 101975,
+    "full_path": "电脑 & 配件 > 联网组件 > 打印服务器"
+  },
+  {
+    "category_id": 101974,
+    "full_path": "电脑 & 配件 > 联网组件 > 切换器"
+  },
+  {
+    "category_id": 101973,
+    "full_path": "电脑 & 配件 > 联网组件 > 网线 & 连接器"
+  },
+  {
+    "category_id": 101972,
+    "full_path": "电脑 & 配件 > 联网组件 > 网络交换机"
+  },
+  {
+    "category_id": 101971,
+    "full_path": "电脑 & 配件 > 联网组件 > 电力猫/电力网卡"
+  },
+  {
+    "category_id": 101970,
+    "full_path": "电脑 & 配件 > 联网组件 > 无线网卡 & 网卡"
+  },
+  {
+    "category_id": 101969,
+    "full_path": "电脑 & 配件 > 联网组件 > 中继器"
+  },
+  {
+    "category_id": 101968,
+    "full_path": "电脑 & 配件 > 联网组件 > 调制解调器 & 无线路由器"
+  },
+  {
+    "category_id": 101967,
+    "full_path": "电脑 & 配件 > 数据储存装置 > 其他"
+  },
+  {
+    "category_id": 101966,
+    "full_path": "电脑 & 配件 > 数据储存装置 > 光碟"
+  },
+  {
+    "category_id": 101965,
+    "full_path": "电脑 & 配件 > 数据储存装置 > 硬盘盒&连接扩展坞"
+  },
+  {
+    "category_id": 101964,
+    "full_path": "电脑 & 配件 > 数据储存装置 > 闪存盘 & OTG"
+  },
+  {
+    "category_id": 101963,
+    "full_path": "电脑 & 配件 > 数据储存装置 > 网络附属存储 (NAS)"
+  },
+  {
+    "category_id": 101962,
+    "full_path": "电脑 & 配件 > 数据储存装置 > SSD"
+  },
+  {
+    "category_id": 101961,
+    "full_path": "电脑 & 配件 > 数据储存装置 > 硬盘"
+  },
+  {
+    "category_id": 101960,
+    "full_path": "电脑 & 配件 > 电脑配件 > 其他"
+  },
+  {
+    "category_id": 101959,
+    "full_path": "电脑 & 配件 > 电脑配件 > 声卡"
+  },
+  {
+    "category_id": 101958,
+    "full_path": "电脑 & 配件 > 电脑配件 > 光驱"
+  },
+  {
+    "category_id": 101957,
+    "full_path": "电脑 & 配件 > 电脑配件 > 电脑机箱"
+  },
+  {
+    "category_id": 101956,
+    "full_path": "电脑 & 配件 > 电脑配件 > UPS & 稳定器"
+  },
+  {
+    "category_id": 101955,
+    "full_path": "电脑 & 配件 > 电脑配件 > RAM"
+  },
+  {
+    "category_id": 101954,
+    "full_path": "电脑 & 配件 > 电脑配件 > 电源"
+  },
+  {
+    "category_id": 101953,
+    "full_path": "电脑 & 配件 > 电脑配件 > 散热膏"
+  },
+  {
+    "category_id": 101952,
+    "full_path": "电脑 & 配件 > 电脑配件 > 显卡"
+  },
+  {
+    "category_id": 101951,
+    "full_path": "电脑 & 配件 > 电脑配件 > 主板"
+  },
+  {
+    "category_id": 101950,
+    "full_path": "电脑 & 配件 > 电脑配件 > CPU"
+  },
+  {
+    "category_id": 101949,
+    "full_path": "电脑 & 配件 > 电脑配件 > 散热器"
+  },
+  {
+    "category_id": 101933,
+    "full_path": "电脑 & 配件 > 显示器"
+  },
+  {
+    "category_id": 101948,
+    "full_path": "电脑 & 配件 > 台式机 > 其他"
+  },
+  {
+    "category_id": 101947,
+    "full_path": "电脑 & 配件 > 台式机 > 一体机"
+  },
+  {
+    "category_id": 101946,
+    "full_path": "电脑 & 配件 > 台式机 > 服务器电脑"
+  },
+  {
+    "category_id": 101945,
+    "full_path": "电脑 & 配件 > 台式机 > 迷你电脑"
+  },
+  {
+    "category_id": 101944,
+    "full_path": "电脑 & 配件 > 台式机 > 台式电脑"
+  },
+  {
+    "category_id": 102057,
+    "full_path": "我附近的优惠 > 优惠券 > 优惠券"
+  },
+  {
+    "category_id": 102056,
+    "full_path": "我附近的优惠 > ShopeePay 优惠券 > ShopeePay 优惠券"
+  }
+]
